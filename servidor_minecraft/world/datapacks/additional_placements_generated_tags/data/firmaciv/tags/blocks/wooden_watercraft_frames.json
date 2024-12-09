@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/acacia",
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/ash",
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/aspen",
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/birch",
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/blackwood",
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/chestnut",
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/douglas_fir",
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/hickory",
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/kapok",
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/mangrove",
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/maple",
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/oak",
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/palm",
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/pine",
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/rosewood",
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/sequoia",
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/spruce",
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/sycamore",
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/white_cedar",
+    "additionalplacements:firmaciv.wood/watercraft_frame_angled/willow"
+  ]
+}

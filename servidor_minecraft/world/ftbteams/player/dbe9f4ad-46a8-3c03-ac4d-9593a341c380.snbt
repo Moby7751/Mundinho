@@ -1,0 +1,17 @@
+{
+	id: "dbe9f4ad-46a8-3c03-ac4d-9593a341c380"
+	type: "player"
+	player_name: "Mobyius"
+	ranks: {
+		dbe9f4ad-46a8-3c03-ac4d-9593a341c380: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Mobyius"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9959FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

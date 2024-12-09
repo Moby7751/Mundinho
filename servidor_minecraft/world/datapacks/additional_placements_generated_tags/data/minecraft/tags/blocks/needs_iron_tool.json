@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:mna.decoration/transmuted_silver_slab",
+    "additionalplacements:mna.decoration/transmuted_silver_stairs",
+    "additionalplacements:mna.decoration/arcane_stone_slab",
+    "additionalplacements:mna.decoration/arcane_stone_stairs",
+    "additionalplacements:mna.decoration/vinteum_arcane_stone_slab",
+    "additionalplacements:mna.decoration/vinteum_arcane_stone_stairs",
+    "additionalplacements:mna.decoration/redstone_arcane_stone_slab",
+    "additionalplacements:mna.decoration/redstone_arcane_stone_stairs",
+    "additionalplacements:mna.decoration/chimerite_arcane_stone_slab",
+    "additionalplacements:mna.decoration/chimerite_arcane_stone_stairs",
+    "additionalplacements:mna.decoration/arcane_sandstone_slab",
+    "additionalplacements:mna.decoration/arcane_sandstone_stairs",
+    "additionalplacements:mna.decoration/vinteum_arcane_sandstone_slab",
+    "additionalplacements:mna.decoration/vinteum_arcane_sandstone_stairs",
+    "additionalplacements:mna.decoration/redstone_arcane_sandstone_slab",
+    "additionalplacements:mna.decoration/redstone_arcane_sandstone_stairs",
+    "additionalplacements:mna.decoration/chimerite_arcane_sandstone_slab",
+    "additionalplacements:mna.decoration/chimerite_arcane_sandstone_stairs"
+  ]
+}

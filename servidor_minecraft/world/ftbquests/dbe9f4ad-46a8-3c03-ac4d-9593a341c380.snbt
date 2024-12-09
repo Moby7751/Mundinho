@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "dbe9f4ad46a83c03ac4d9593a341c380"
+	name: "Mobyius#dbe9f4ad"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
