@@ -1,51 +1,310 @@
-[09Dec2024 20:51:05.225] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.6, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[09Dec2024 20:51:05.230] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[09Dec2024 20:51:05.365] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[09Dec2024 20:51:05.437] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Mundinho/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[09Dec2024 20:51:05.754] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundinho/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.6/fmlcore-1.20.1-47.2.6.jar is missing mods.toml file
-[09Dec2024 20:51:05.758] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundinho/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.6/javafmllanguage-1.20.1-47.2.6.jar is missing mods.toml file
-[09Dec2024 20:51:05.760] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundinho/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.6/lowcodelanguage-1.20.1-47.2.6.jar is missing mods.toml file
-[09Dec2024 20:51:05.762] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundinho/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.6/mclanguage-1.20.1-47.2.6.jar is missing mods.toml file
-[09Dec2024 20:51:05.862] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[09Dec2024 20:51:07.847] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[09Dec2024 20:51:16.684] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.6, for MC 1.20.1 with MCP 20230612.114412
-[09Dec2024 20:51:16.695] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.6 Initialized
-[09Dec2024 20:51:17.792] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[09Dec2024 20:51:18.446] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.6 Target: 47.3.0
-[09Dec2024 20:51:19.635] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09Dec2024 20:51:20.857] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mundinho/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
-[09Dec2024 20:51:20.859] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mundinho/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
-[09Dec2024 20:51:23.586] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[09Dec2024 20:51:23.765] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[09Dec2024 20:51:24.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[09Dec2024 20:51:24.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[09Dec2024 20:51:24.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[09Dec2024 20:51:24.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[09Dec2024 20:51:24.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[09Dec2024 20:51:24.667] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[09Dec2024 20:51:24.786] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09Dec2024 20:51:24.786] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[09Dec2024 20:51:24.787] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09Dec2024 20:51:24.789] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[09Dec2024 20:51:24.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[09Dec2024 20:51:34.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[09Dec2024 20:51:40.667] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Dec2024 20:51:40.674] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Dec2024 20:51:40.676] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Dec2024 20:51:40.677] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Dec2024 20:51:40.679] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Dec2024 20:51:40.681] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Dec2024 20:51:40.682] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Dec2024 20:51:40.684] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Dec2024 20:51:40.685] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Dec2024 20:51:40.687] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Dec2024 20:51:40.689] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Dec2024 20:51:40.691] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Dec2024 20:51:40.736] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Dec2024 20:51:41.230] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Dec2024 20:51:41.730] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Dec2024 20:51:42.230] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Dec2024 20:51:42.730] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 49%
-[09Dec2024 20:51:43.094] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8365 ms
-[09Dec2024 20:51:43.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (18.279s)! For help, type "help"
-[09Dec2024 20:51:43.120] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[09Dec2024 21:10:28.725] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.6, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[09Dec2024 21:10:28.730] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[09Dec2024 21:10:35.094] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[09Dec2024 21:10:35.163] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Mundinho/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[09Dec2024 21:10:36.308] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundinho/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.6/fmlcore-1.20.1-47.2.6.jar is missing mods.toml file
+[09Dec2024 21:10:36.312] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundinho/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.6/javafmllanguage-1.20.1-47.2.6.jar is missing mods.toml file
+[09Dec2024 21:10:36.315] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundinho/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.6/lowcodelanguage-1.20.1-47.2.6.jar is missing mods.toml file
+[09Dec2024 21:10:36.318] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundinho/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.6/mclanguage-1.20.1-47.2.6.jar is missing mods.toml file
+[09Dec2024 21:10:37.805] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[09Dec2024 21:10:37.810] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/Mundinho/servidor_minecraft/mods/geckolib-forge-1.20.1-4.4.9.jar
+[09Dec2024 21:10:37.811] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 36 dependencies adding them to mods collection
+[09Dec2024 21:10:54.793] [main/ERROR] [mixin/]: Mixin config dynamiclightsreforged.mixins.json does not specify "minVersion" property
+[09Dec2024 21:10:54.808] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[09Dec2024 21:10:55.664] [main/ERROR] [mixin/]: Mixin config mixins.satin.client.json does not specify "minVersion" property
+[09Dec2024 21:10:55.684] [main/ERROR] [mixin/]: Mixin config firstperson.mixins.json does not specify "minVersion" property
+[09Dec2024 21:10:56.455] [main/ERROR] [mixin/]: Mixin config yacl.mixins.json does not specify "minVersion" property
+[09Dec2024 21:10:56.714] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[09Dec2024 21:10:56.785] [main/INFO] [com.abdelaziz.saturn.common.Saturn/]: Loaded Saturn config file with 4 configurable options
+[09Dec2024 21:10:57.041] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.1+mc1.20.1: 83 options available, 1 override(s) found
+[09Dec2024 21:10:57.045] [main/WARN] [ModernFix/]: Option 'mixin.perf.thread_priorities' overriden (by mods [smoothboot]) to 'false'
+[09Dec2024 21:10:57.047] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[09Dec2024 21:10:57.114] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[09Dec2024 21:10:57.208] [main/WARN] [EmbeddiumConfig/]: Mod 'tfc' attempted to override option 'mixin.features.fast_biome_colors', which doesn't exist, ignoring
+[09Dec2024 21:10:57.209] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 229 options available, 3 override(s) found
+[09Dec2024 21:10:57.470] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 7 override(s) found
+[09Dec2024 21:10:57.513] [main/WARN] [mixin/]: Reference map 'carpeted-common-refmap.json' for carpeted-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Dec2024 21:10:57.523] [main/WARN] [mixin/]: Reference map 'carpeted-forge-refmap.json' for carpeted.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Dec2024 21:10:57.762] [main/WARN] [mixin/]: Reference map 'emi-forge-refmap.json' for emi-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Dec2024 21:10:57.857] [main/WARN] [mixin/]: Reference map 'ftb-filter-system-common-refmap.json' for ftbfiltersystem-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Dec2024 21:10:57.861] [main/WARN] [mixin/]: Reference map 'ftb-filter-system-forge-refmap.json' for ftbfiltersystem.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Dec2024 21:10:58.055] [main/INFO] [Puzzles Lib/]: Loading 183 mods:
+	- ad_astra 1.15.19
+	- additionalplacements 1.8.0
+	- ae2 15.2.13
+	- ae2insertexportcard 1.20.1-1.3.0
+	- ae2netanalyser 1.20-1.0.6-forge
+	- ae2wtlib 15.2.3-forge
+	- aiimprovements 0.5.2
+	- ambientsounds 6.1.1
+	- architectury 9.2.14
+	- ars_nouveau 4.12.6
+		\-- mixinextras 0.2.0-beta.8
+	- astikorcarts 1.1.8
+	- attributefix 21.0.4
+	- balm 7.3.9
+		\-- kuma_api 20.1.8
+	- barrels_2012 2.1
+	- betterf3 7.0.2
+	- betterfoliage 5.0.2
+	- betterpingdisplay 1.1
+	- betterthirdperson 1.9.0
+	- bloodmagic 3.3.3-45
+	- blur 3.1.1
+		\-- satin 1.20.1+1.15.0-SNAPSHOT
+	- botarium 2.3.4
+	- caelus 3.2.0+1.20.1
+	- carpeted 1.20-1.4
+	- carryon 2.1.2.7
+	- catalogue 1.8.0
+	- chat_heads 0.13.3
+	- cherishedworlds 6.1.6+1.20.1
+	- clienttweaks 11.1.0
+	- cloth_config 11.1.136
+	- clumps 12.0.0.4
+	- computercraft 1.113.1
+	- controlling 12.0.2
+	- coralstfc 1.0.0
+	- corpse 1.20.1-1.0.14
+	- cosmeticarmorreworked 1.20.1-v1a
+	- craftingtweaks 18.2.5
+	- craftpresence 2.5.0
+	- create 0.5.1.f
+		\-- flywheel 0.6.10-7
+	- create_enchantment_industry 1.2.9.d
+		\-- create_dragon_lib 1.4.3
+	- createaddition 1.20.1-1.2.4c
+	- createdieselgenerators 1.20.1-1.2i
+	- creativecore 2.12.15
+	- cucumber 7.0.12
+	- cupboard 1.20.1-2.7
+	- curios 5.10.0+1.20.1
+	- defaultoptions 18.0.1
+	- do_a_barrel_roll 3.5.6+1.20.1
+	- drippyloadingscreen 3.0.1
+	- dynamiclightsreforged 1.20.1_v1.6.0
+	- embeddium 0.3.19+mc1.20.1
+		\-- rubidium 0.7.1
+	- embeddiumplus 1.2.12
+	- emi 1.1.7+1.20.1+forge
+	- enhancedvisuals 1.8.1
+	- etched 3.0.2
+	- expatternprovider 1.20-1.1.14-forge
+	- exposure 1.7.7
+	- fallingtrees 0.12.7
+	- fancymenu 3.2.3
+	- ferritecore 6.0.1
+	- firmaciv 0.2.10-alpha-1.20.1
+	- firmalife 2.1.3
+	- firstperson 2.4.5
+	- flickerfix 4.0.1
+	- fluxnetworks 7.2.1.15
+	- forbidden_arcanus 1.20.1-2.2.6
+	- forge 47.2.6
+	- fpsreducer 1.20-2.5
+	- framedblocks 9.3.1
+	- ftbbackups2 1.0.23
+	- ftbessentials 2001.2.2
+	- ftbfiltersystem 1.0.2
+	- ftblibrary 2001.2.4
+	- ftbquests 2001.4.8
+	- ftbranks 2001.1.3
+	- ftbteams 2001.3.0
+	- ftbxmodcompat 2.1.1
+	- gcyr 0.1.8
+	- geckolib 4.4.9
+	- getittogetherdrops 1.3
+	- glodium 1.20-1.5-forge
+	- gtceu 1.2.3.a
+	- hangglider 8.0.1
+	- immediatelyfast 1.2.18+1.20.4
+	- immersiveengineering 1.20.1-10.1.0-171
+	- inventoryhud 3.4.26
+	- inventorysorter 23.0.1
+	- itemphysiclite 1.6.5
+	- jade 11.9.4+forge
+	- jadeaddons 5.2.2
+	- jei 15.3.0.8
+	- journeymap 5.10.3
+	- konkrete 1.8.0
+	- ksyxis 1.3.2
+	- kubejs 2001.6.5-build.14
+	- kubejs_create 2001.2.5-build.2
+	- kubejs_tfc 1.20.1-1.1.3
+	- letmedespawn 1.3.2b
+	- lootjs 1.20.1-2.12.0
+	- megacells 2.4.4-1.20.1
+	- melody 1.0.2
+	- merequester 1.20.1-1.1.5
+	- minecraft 1.20.1
+	- mna 3.1.0.1
+	- modelfix 1.15
+	- modernfix 5.18.1+mc1.20.1
+	- modonomicon 1.77.3
+	- moonlight 1.20-2.13.2
+	- morered 4.0.0.4
+		|-- jumbofurnace 4.0.0.5
+		\-- useitemonblockevent 1.0.0.2
+	- mousetweaks 2.25.1
+	- mutil 6.1.1
+	- myserveriscompatible 1.0
+	- mysticalagradditions 7.0.6
+	- mysticalagriculture 7.0.14
+	- nanhealthfixer 1.20.1-0.0.1
+	- nerb 0.4.1
+	- noisium 2.3.0+mc1.20-1.20.1
+	- noreportbutton 1.5.0
+	- notenoughanimations 1.7.6
+	- occultism 1.140.2
+	- octolib 0.4.2
+	- oculus 1.7.0
+	- openpartiesandclaims 0.23.2
+	- packetfixer 1.4.2
+	- pandalib 0.4.2
+	- patchouli 1.20.1-84-FORGE
+	- pickupnotifier 8.0.0
+	- placebo 8.6.2
+	- playeranimator 1.0.2-rc1+1.20
+	- playerrevive 2.0.27
+	- polylib 2000.0.3-build.143
+	- puzzleslib 8.1.23
+		\-- puzzlesaccessapi 8.0.7
+	- radium 0.12.3+git.50c5c33
+	- railways 1.6.4+forge-mc1.20.1
+	- recipeessentials 1.20.1-3.6
+	- resourcefulconfig 2.1.2
+	- resourcefullib 2.1.29
+	- rhino 2001.2.2-build.18
+	- saturn 0.1.3
+	- searchables 1.0.3
+	- shimmer 1.20.1-0.2.4
+	- showcaseitem 1.20.1-1.2
+	- simplylight 1.20.1-1.4.6-build.50
+	- smartbrainlib 1.15
+	- smoothboot 0.0.4
+	- sophisticatedbackpacks 3.20.5.1044
+	- sophisticatedcore 0.6.22.611
+	- supermartijn642configlib 1.1.8
+	- supermartijn642corelib 1.1.17
+	- tetra 6.7.0
+	- tfc 3.2.2
+	- tfc_tumbleweed 1.2.2
+	- tfcagedalcohol 2.1
+	- tfcambiental 1.20.1-3.3.0
+	- tfcastikorcarts 1.1.8.2
+	- tfcchannelcasting 0.2.3-beta
+	- tfcea 0.0.2
+	- tfcgroomer 1.20.1-0.1.2
+	- tfchotornot 1.0.4
+	- tfcvesseltooltip 1.1
+	- tfg 0.5.9
+		|-- configuration 2.2.0
+		\-- ldlib 1.0.25.j
+	- tfmg 0.9.3-1.20.1
+	- toofast 0.4.3.5
+	- toolbelt 1.20.01
+	- treetap 1.20.1-0.4.0
+	- tumbleweed 0.5.5
+	- unilib 1.0.2
+	- uteamcore 5.1.4.312
+	- valhelsia_core 1.1.2
+	- vampirism 1.10.11
+		\-- teamlapenlib 1.10.11
+	- waterflasks 3.0.3
+	- werewolves 2.0.2.3
+	- yeetusexperimentus 2.3.1-build.6+mc1.20.1
+	- yet_another_config_lib_v3 3.5.0+1.20.1-forge
+[09Dec2024 21:10:58.238] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
+[09Dec2024 21:10:58.242] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
+[09Dec2024 21:10:58.438] [main/WARN] [mixin/]: Reference map 'bloodmagic.refmap.json' for bloodmagic.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Dec2024 21:10:58.443] [main/WARN] [mixin/]: Reference map 'tfmg.refmap.json' for tfmg.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Dec2024 21:10:58.488] [main/WARN] [mixin/]: Reference map 'modonomicon.refmap.json' for modonomicon.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Dec2024 21:10:58.491] [main/WARN] [mixin/]: Reference map 'modonomicon.refmap.json' for modonomicon.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Dec2024 21:10:58.647] [main/WARN] [mixin/]: Reference map 'packetfixer-forge-forge-refmap.json' for packetfixer-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Dec2024 21:10:58.658] [main/WARN] [mixin/]: Reference map 'tfchotornot.refmap.json' for tfchotornot.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Dec2024 21:11:01.111] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[09Dec2024 21:11:01.162] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[09Dec2024 21:11:02.978] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/integration/jei/JEIComputerCraft (java.lang.ClassNotFoundException: dan200.computercraft.shared.integration.jei.JEIComputerCraft)
+[09Dec2024 21:11:02.980] [main/WARN] [mixin/]: @Mixin target dan200.computercraft.shared.integration.jei.JEIComputerCraft was not found tfg.mixins.json:common.cc.JEIComputerCraftMixin
+[09Dec2024 21:11:03.312] [main/WARN] [Radium Config/]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[09Dec2024 21:11:03.351] [main/WARN] [Radium Config/]: Force-disabling mixin 'entity.collisions.fluid.EntityMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[09Dec2024 21:11:03.352] [main/WARN] [Radium Config/]: Force-disabling mixin 'entity.collisions.intersection.WorldMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[09Dec2024 21:11:03.353] [main/WARN] [Radium Config/]: Force-disabling mixin 'entity.collisions.movement.EntityMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[09Dec2024 21:11:03.354] [main/WARN] [Radium Config/]: Force-disabling mixin 'entity.collisions.unpushable_cramming.AbstractMinecartEntityMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[09Dec2024 21:11:03.354] [main/WARN] [Radium Config/]: Force-disabling mixin 'entity.collisions.unpushable_cramming.BoatEntityMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[09Dec2024 21:11:03.355] [main/WARN] [Radium Config/]: Force-disabling mixin 'entity.collisions.unpushable_cramming.EntityMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[09Dec2024 21:11:03.356] [main/WARN] [Radium Config/]: Force-disabling mixin 'entity.collisions.unpushable_cramming.EntityPredicatesMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[09Dec2024 21:11:03.356] [main/WARN] [Radium Config/]: Force-disabling mixin 'entity.collisions.unpushable_cramming.EntityTrackingSectionMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[09Dec2024 21:11:03.357] [main/WARN] [Radium Config/]: Force-disabling mixin 'entity.collisions.unpushable_cramming.LivingEntityMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[09Dec2024 21:11:03.442] [main/WARN] [Radium Config/]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as option 'mixin.world.player_chunk_tick' (added by user configuration) disables it and children
+[09Dec2024 21:11:05.268] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[09Dec2024 21:11:05.273] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/LocalPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER)
+[09Dec2024 21:11:05.274] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.LocalPlayer was not found mna.mixins.json:LocalPlayerElytra
+[09Dec2024 21:11:05.386] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientPacketListener for invalid dist DEDICATED_SERVER
+[09Dec2024 21:11:05.389] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/ClientPacketListener (java.lang.RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientPacketListener for invalid dist DEDICATED_SERVER)
+[09Dec2024 21:11:05.390] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.ClientPacketListener was not found mna.mixins.json:ClientPacketListenerMixin
+[09Dec2024 21:11:05.933] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/PostChain for invalid dist DEDICATED_SERVER
+[09Dec2024 21:11:05.935] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/PostChain (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/PostChain for invalid dist DEDICATED_SERVER)
+[09Dec2024 21:11:05.936] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.PostChain was not found mixins.satin.client.json:AccessiblePassesShaderEffect
+[09Dec2024 21:11:05.943] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
+[09Dec2024 21:11:05.944] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/RenderType (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER)
+[09Dec2024 21:11:05.945] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.RenderType was not found mixins.satin.client.json:blockrenderlayer.RenderLayerMixin
+[09Dec2024 21:11:05.993] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER
+[09Dec2024 21:11:05.995] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/LevelRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER)
+[09Dec2024 21:11:05.996] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.LevelRenderer was not found mixins.satin.client.json:blockrenderlayer.WorldRendererMixin
+[09Dec2024 21:11:06.010] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER
+[09Dec2024 21:11:06.011] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/GameRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER)
+[09Dec2024 21:11:06.012] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.GameRenderer was not found mixins.satin.client.json:event.GameRendererMixin
+[09Dec2024 21:11:06.035] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[09Dec2024 21:11:06.036] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/Minecraft (java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER)
+[09Dec2024 21:11:06.038] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.Minecraft was not found mixins.satin.client.json:event.MinecraftClientMixin
+[09Dec2024 21:11:06.065] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER
+[09Dec2024 21:11:06.067] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/LevelRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER)
+[09Dec2024 21:11:06.068] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.LevelRenderer was not found mixins.satin.client.json:event.WorldRendererMixin
+[09Dec2024 21:11:06.072] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/ShaderInstance for invalid dist DEDICATED_SERVER
+[09Dec2024 21:11:06.074] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/ShaderInstance (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/ShaderInstance for invalid dist DEDICATED_SERVER)
+[09Dec2024 21:11:06.075] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.ShaderInstance was not found mixins.satin.client.json:gl.CoreShaderMixin
+[09Dec2024 21:11:06.077] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/pipeline/RenderTarget for invalid dist DEDICATED_SERVER
+[09Dec2024 21:11:06.078] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/pipeline/RenderTarget (java.lang.RuntimeException: Attempted to load class com/mojang/blaze3d/pipeline/RenderTarget for invalid dist DEDICATED_SERVER)
+[09Dec2024 21:11:06.080] [main/WARN] [mixin/]: @Mixin target com.mojang.blaze3d.pipeline.RenderTarget was not found mixins.satin.client.json:gl.CustomFormatFramebufferMixin
+[09Dec2024 21:11:06.087] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/shaders/Uniform (java.lang.ClassNotFoundException: com.mojang.blaze3d.shaders.Uniform)
+[09Dec2024 21:11:06.088] [main/WARN] [mixin/]: @Mixin target com.mojang.blaze3d.shaders.Uniform was not found mixins.satin.client.json:gl.GlUniformMixin
+[09Dec2024 21:11:06.093] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/EffectInstance for invalid dist DEDICATED_SERVER
+[09Dec2024 21:11:06.094] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/EffectInstance (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/EffectInstance for invalid dist DEDICATED_SERVER)
+[09Dec2024 21:11:06.095] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.EffectInstance was not found mixins.satin.client.json:gl.JsonEffectGlShaderMixin
+[09Dec2024 21:11:06.098] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/PostChain for invalid dist DEDICATED_SERVER
+[09Dec2024 21:11:06.099] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/PostChain (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/PostChain for invalid dist DEDICATED_SERVER)
+[09Dec2024 21:11:06.100] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.PostChain was not found mixins.satin.client.json:gl.CustomFormatPostEffectProcessorMixin
+[09Dec2024 21:11:06.106] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
+[09Dec2024 21:11:06.108] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/RenderType (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER)
+[09Dec2024 21:11:06.109] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.RenderType was not found mixins.satin.client.json:render.RenderLayerAccessor
+[09Dec2024 21:11:06.114] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER
+[09Dec2024 21:11:06.115] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/RenderType (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType for invalid dist DEDICATED_SERVER)
+[09Dec2024 21:11:06.117] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.RenderType was not found mixins.satin.client.json:render.RenderLayerMixin
+[09Dec2024 21:11:06.120] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType$CompositeState for invalid dist DEDICATED_SERVER
+[09Dec2024 21:11:06.120] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/RenderType$CompositeState (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType$CompositeState for invalid dist DEDICATED_SERVER)
+[09Dec2024 21:11:06.121] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.RenderType$CompositeState was not found mixins.satin.client.json:render.RenderLayerMixin$MultiPhaseParametersAccessor
+[09Dec2024 21:11:06.124] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/RenderType$CompositeRenderType for invalid dist DEDICATED_SERVER
+[09Dec2024 21:11:06.125] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/RenderType$CompositeRenderType (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/RenderType$CompositeRenderType for invalid dist DEDICATED_SERVER)
+[09Dec2024 21:11:06.126] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.RenderType$CompositeRenderType was not found mixins.satin.client.json:render.RenderLayerMultiPhaseMixin
+[09Dec2024 21:11:06.129] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/RenderStateShard (java.lang.ClassNotFoundException: net.minecraft.client.renderer.RenderStateShard)
+[09Dec2024 21:11:06.130] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.RenderStateShard was not found mixins.satin.client.json:render.RenderPhaseAccessor
+[09Dec2024 21:11:06.221] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: recipeessentials.json
+[09Dec2024 21:11:07.872] [main/WARN] [mixin/]: Error loading class: org/cyclops/integrateddynamics/block/BlockCable (java.lang.ClassNotFoundException: org.cyclops.integrateddynamics.block.BlockCable)
+[09Dec2024 21:11:07.872] [main/WARN] [mixin/]: @Mixin target org.cyclops.integrateddynamics.block.BlockCable was not found mixins.epp.json:MixinBlockCable
+[09Dec2024 21:11:08.008] [main/WARN] [mixin/]: Error loading class: weather2/weathersystem/storm/TornadoHelper (java.lang.ClassNotFoundException: weather2.weathersystem.storm.TornadoHelper)
+[09Dec2024 21:11:08.010] [main/WARN] [mixin/]: @Mixin target weather2.weathersystem.storm.TornadoHelper was not found tfc_tumbleweed.mixins.json:TornadoHelperMixin
+[09Dec2024 21:11:09.159] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[09Dec2024 21:11:11.734] [main/INFO] [Smooth Boot (Reloaded)/]: Smooth Boot (Reloaded) config initialized
+[09Dec2024 21:11:12.216] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_216202_ in modernfix-forge.mixins.json:perf.tag_id_caching.TagOrElementLocationMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[09Dec2024 21:11:13.060] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (49.52 s after launch)
+[09Dec2024 21:11:13.539] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[09Dec2024 21:11:13.543] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[09Dec2024 21:11:13.878] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[09Dec2024 21:11:13.881] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[09Dec2024 21:11:15.434] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[09Dec2024 21:11:15.435] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[09Dec2024 21:11:15.435] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[09Dec2024 21:11:22.942] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[09Dec2024 21:11:22.944] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[09Dec2024 21:11:23.107] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 10034 milliseconds
