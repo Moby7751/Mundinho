@@ -1,199 +1,188 @@
-[21:40:53] [INIT] KubeJS 2001.6.5-build.14; MC 2001 forge
-[21:40:53] [INIT] Loaded plugins:
-[21:40:53] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[21:40:53] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[21:40:53] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
-[21:40:53] [INIT] - su.terrafirmagreg.core.compat.kjs.TFGKubeJSPlugin
-[21:40:53] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[21:40:53] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[21:40:53] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
-[21:40:53] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[21:40:53] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[21:40:53] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[21:40:53] [INIT] - argent_matter.gcyr.integration.kjs.GCyRKubeJSPlugin
-[21:40:53] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
-[21:40:53] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
-[21:40:53] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
-[21:40:53] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[21:40:53] [INFO] Loaded script server_scripts:main_server_script.js in 0.002 s
-[21:40:53] [INFO] Loaded script server_scripts:computer_craft/tags.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:computer_craft/recipes.js in 0.001 s
-[21:40:53] [INFO] Loaded script server_scripts:computer_craft/data.js in 0.001 s
-[21:40:53] [INFO] Loaded script server_scripts:ftb_quests/tags.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:ftb_quests/recipes.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:me_requester/recipes.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:water_flasks/recipes.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:water_flasks/data.js in 0.002 s
-[21:40:53] [INFO] Loaded script server_scripts:railways/tags.js in 0.004 s
-[21:40:53] [INFO] Loaded script server_scripts:railways/recipes.js in 0.002 s
-[21:40:53] [INFO] Loaded script server_scripts:mega_cells/tags.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:mega_cells/recipes.js in 0.004 s
-[21:40:53] [INFO] Loaded script server_scripts:ae2wtlib/recipes.js in 0.002 s
-[21:40:53] [INFO] Loaded script server_scripts:extended_ae2/tags.js in 0.002 s
-[21:40:53] [INFO] Loaded script server_scripts:extended_ae2/recipes.js in 0.002 s
-[21:40:53] [INFO] Loaded script server_scripts:ae2na/recipes.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:gregtech/tags.js in 0.001 s
-[21:40:53] [INFO] Loaded script server_scripts:gregtech/constants.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:gregtech/utility.js in 0.001 s
-[21:40:53] [INFO] Loaded script server_scripts:gregtech/recipes.js in 0.006 s
-[21:40:53] [INFO] Loaded script server_scripts:gregtech/data.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:gregtech/loot.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:create_additions/tags.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:create_additions/recipes.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:tfc_grooming_station/recipes.js in 0.001 s
-[21:40:53] [INFO] Loaded script server_scripts:asticor_carts/tags.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:asticor_carts/recipes.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:create/tags.js in 0.001 s
-[21:40:53] [INFO] Loaded script server_scripts:create/recipes.js in 0.003 s
-[21:40:53] [INFO] Loaded script server_scripts:firmaciv/tags.js in 0.001 s
-[21:40:53] [INFO] Loaded script server_scripts:firmaciv/recipes.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:firmalife/tags.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:firmalife/recipes.js in 0.003 s
-[21:40:53] [INFO] Loaded script server_scripts:hotornot/tags.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:hotornot/recipes.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:create_connected/recipes.js in 0.001 s
-[21:40:53] [INFO] Loaded script server_scripts:treetap/recipes.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:treetap/data.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:sophisticated_backpacks/tags.js in 0.001 s
-[21:40:53] [INFO] Loaded script server_scripts:sophisticated_backpacks/recipes.js in 0.001 s
-[21:40:53] [INFO] Loaded script server_scripts:exposure/recipes.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:more_red/tags.js in 0.001 s
-[21:40:53] [INFO] Loaded script server_scripts:more_red/recipes.js in 0.001 s
-[21:40:53] [INFO] Loaded script server_scripts:etched/recipes.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:ae2iec/recipes.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:framed_blocks/tags.js in 0.001 s
-[21:40:53] [INFO] Loaded script server_scripts:framed_blocks/recipes.js in 0.001 s
-[21:40:53] [INFO] Loaded script server_scripts:minecraft/tags.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:minecraft/recipes.js in 0.012 s
-[21:40:53] [INFO] Loaded script server_scripts:handglider/recipes.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:chisel_and_bits/tags.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:chisel_and_bits/recipes.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:ae2/tags.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:ae2/utility.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:ae2/recipes.js in 0.006 s
-[21:40:53] [INFO] Loaded script server_scripts:tfcea/recipes.js in 0.0 s
-[21:40:53] [INFO] Loaded script server_scripts:tfc/tags.js in 0.003 s
-[21:40:53] [INFO] Loaded script server_scripts:tfc/recipes.js in 0.021 s
-[21:40:53] [INFO] Loaded script server_scripts:tfc/data.js in 0.001 s
-[21:40:53] [INFO] Loaded script server_scripts:toolbelt/recipes.js in 0.0 s
-[21:40:53] [INFO] Loaded 61/61 KubeJS server scripts in 0.2 s with 0 errors and 0 warnings
-[21:40:53] [INFO] Scripts loaded
-[21:40:53] [INFO] Initializing recipe event...
-[21:40:54] [INFO] [minecraft:worldgen/placed_feature] Found 117 tags, added 49 objects, removed 39 objects
-[21:40:54] [INFO] [minecraft:fluid] Found 647 tags, added 77 objects, removed 0 objects
-[21:40:57] [INFO] [minecraft:item] Found 6978 tags, added 3569 objects, removed 0 objects
-[21:40:57] [INFO] [minecraft:block] Found 1938 tags, added 476 objects, removed 0 objects
-[21:40:59] [INFO] Processing recipes...
-[21:40:59] [WARN] Failed to parse recipe 'tfmg:crafting/epic_party_light_bulb[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[21:40:59] [WARN] Failed to parse recipe 'tfmg:crafting/cast_iron_distillation_output[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[21:40:59] [WARN] Failed to parse recipe 'tfmg:stonecutting/caution_block[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[21:40:59] [WARN] Failed to parse recipe 'tfmg:mechanical_crafting/pumpjack_hammer_holder[create:mechanical_crafting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[21:40:59] [WARN] Failed to parse recipe 'createaddition:filling/treated_wood_planks[create:filling]'! Falling back to vanilla: Can't modify the empty stack.
-[21:40:59] [WARN] Failed to parse recipe 'tfmg:crafting/welding_machine[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[21:40:59] [WARN] Failed to parse recipe 'tfmg:stonecutting/caution_blocks/light_blue_caution_block[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[21:40:59] [WARN] Failed to parse recipe 'tfmg:crafting/glass_cable_connector[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[21:40:59] [WARN] Failed to parse recipe 'tfmg:crafting/battery[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[21:41:00] [WARN] Failed to parse recipe 'tfmg:mechanical_crafting/cast_iron_distillation_controller[create:mechanical_crafting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[21:41:00] [INFO] Found 62425 recipes in 911.7 ms
-[21:41:00] [ERROR] ! create_connected/recipes.js#10: Failed to create recipe for type 'kubejs:shapeless': ItemStack 'result' can't be empty!
-[21:41:00] [WARN] create_connected/recipes.js#10: Tried to call a function on an errored recipe! (Failed to create recipe for type 'kubejs:shapeless')
-[21:41:00] [ERROR] ! create_connected/recipes.js#18: Failed to create recipe for type 'kubejs:shapeless': ItemStack 'result' can't be empty!
-[21:41:00] [WARN] create_connected/recipes.js#18: Tried to call a function on an errored recipe! (Failed to create recipe for type 'kubejs:shapeless')
-[21:41:00] [ERROR] ! create_connected/recipes.js#26: Failed to create recipe for type 'kubejs:shapeless': ItemStack 'result' can't be empty!
-[21:41:00] [WARN] create_connected/recipes.js#26: Tried to call a function on an errored recipe! (Failed to create recipe for type 'kubejs:shapeless')
-[21:41:00] [ERROR] ! create_connected/recipes.js#38: Failed to create recipe for type 'kubejs:shaped': ItemStack 'result' can't be empty!
-[21:41:00] [WARN] create_connected/recipes.js#38: Tried to call a function on an errored recipe! (Failed to create recipe for type 'kubejs:shaped')
-[21:41:00] [ERROR] ! Error in 'ServerEvents.recipes': tfg:assembler/create_connected/item_silo: output items is empty
-[21:41:00] [ERROR] ! java.lang.IllegalArgumentException: tfg:assembler/create_connected/item_silo: output items is empty
-[21:41:00] [ERROR] !   at com.gregtechceu.gtceu.integration.kjs.recipe.GTRecipeSchema$GTRecipeJS.outputItems(GTRecipeSchema.java:267)
-[21:41:00] [ERROR] !   at com.gregtechceu.gtceu.integration.kjs.recipe.GTRecipeSchema$GTRecipeJS.itemOutputs(GTRecipeSchema.java:252)
-[21:41:00] [ERROR] !   at java.lang.reflect.Method.invoke(Method.java:580)
-[21:41:00] [ERROR] !   at …rhino.MemberBox.invoke(MemberBox.java:160)
-[21:41:00] [ERROR] !   at …rhino.NativeJavaMethod.call(NativeJavaMethod.java:463)
-[21:41:00] [ERROR] !   at …rhino.Interpreter.interpretLoop(Interpreter.java:986)
-[21:41:00] [ERROR] !   at …rhino.Interpreter.interpret(Interpreter.java:370)
-[21:41:00] [ERROR] !   at …rhino.InterpretedFunction.call(InterpretedFunction.java:72)
-[21:41:00] [ERROR] !   at …rhino.Context.callSync(Context.java:1290)
-[21:41:00] [ERROR] !   at …rhino.ArrowFunction.call(ArrowFunction.java:42)
-[21:41:00] [ERROR] !   at …rhino.Interpreter.interpretLoop(Interpreter.java:986)
-[21:41:00] [ERROR] !   at …rhino.Interpreter.interpret(Interpreter.java:370)
-[21:41:00] [ERROR] !   at …rhino.InterpretedFunction.call(InterpretedFunction.java:72)
-[21:41:00] [ERROR] !   at …rhino.Context.callSync(Context.java:1290)
-[21:41:00] [ERROR] !   at …rhino.Context.doTopCall(Context.java:1307)
-[21:41:00] [ERROR] !   at …rhino.InterpretedFunction.call(InterpretedFunction.java:70)
-[21:41:00] [ERROR] !   at …rhino.Context.callSync(Context.java:1290)
-[21:41:00] [ERROR] !   at …rhino.ArrowFunction.call(ArrowFunction.java:42)
-[21:41:00] [ERROR] !   at …rhino.Context.callSync(Context.java:1290)
-[21:41:00] [ERROR] !   at …rhino.InterfaceAdapter.invoke(InterfaceAdapter.java:125)
-[21:41:00] [ERROR] !   at …rhino.VMBridge.lambda$newInterfaceProxy$0(VMBridge.java:74)
-[21:41:00] [ERROR] !   at TRANSFORMER/jdk.proxy3/jdk.proxy3.$Proxy79.onEvent(Unknown Source)
-[21:41:00] [ERROR] !   at …kubejs.event.EventHandlerContainer.handle(EventHandlerContainer.java:39)
-[21:41:00] [ERROR] !   at …kubejs.event.EventHandler.postToHandlers(EventHandler.java:304)
-[21:41:00] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:272)
-[21:41:00] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:226)
-[21:41:00] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:189)
-[21:41:00] [ERROR] !   at …kubejs.recipe.RecipesEventJS.post(RecipesEventJS.java:359)
-[21:41:00] [ERROR] !   at net.minecraft.world.item.crafting.RecipeManager.handler$zbi000$customRecipesHead(RecipeManager.java:4531)
-[21:41:00] [ERROR] !   at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java)
-[21:41:00] [ERROR] !   at com.recipeessentials.recipecache.RecipeManager.m_5787_(RecipeManager.java:239)
-[21:41:00] [ERROR] !   at com.recipeessentials.recipecache.RecipeManager.m_5787_(RecipeManager.java:22)
-[21:41:00] [ERROR] !   at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13)
-[21:41:00] [ERROR] !   at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
-[21:41:00] [ERROR] !   at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
-[21:41:00] [ERROR] !   at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
-[21:41:00] [ERROR] !   at net.minecraft.server.TickTask.run(TickTask.java:18)
-[21:41:00] [ERROR] !   at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
-[21:41:00] [ERROR] !   at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-[21:41:00] [ERROR] !   at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
-[21:41:00] [ERROR] !   at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
-[21:41:00] [ERROR] !   at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
-[21:41:00] [ERROR] !   at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
-[21:41:00] [ERROR] !   at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
-[21:41:00] [ERROR] !   at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
-[21:41:00] [ERROR] !   at net.minecraft.server.MinecraftServer.m_129861_(MinecraftServer.java:1345)
-[21:41:00] [ERROR] !   at net.minecraft.server.commands.ReloadCommand.m_138235_(ReloadCommand.java:22)
-[21:41:00] [ERROR] !   at net.minecraft.server.commands.ReloadCommand.m_287964_(ReloadCommand.java:53)
-[21:41:00] [ERROR] !   at MC-BOOTSTRAP/brigadier@1.1.8/com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264)
-[21:41:00] [ERROR] !   at MC-BOOTSTRAP/brigadier@1.1.8/com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:177)
-[21:41:00] [ERROR] !   at MC-BOOTSTRAP/brigadier@1.1.8/com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:142)
-[21:41:00] [ERROR] !   at com.firemerald.additionalplacements.common.TagMismatchChecker.accept(TagMismatchChecker.java:134)
-[21:41:00] [ERROR] !   at com.firemerald.additionalplacements.common.TagMismatchChecker.accept(TagMismatchChecker.java:36)
-[21:41:00] [ERROR] !   at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260)
-[21:41:00] [ERROR] !   at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252)
-[21:41:00] [ERROR] !   at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
-[21:41:00] [ERROR] !   at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
-[21:41:00] [ERROR] !   at net.minecraftforge.event.ForgeEventFactory.onPreServerTick(ForgeEventFactory.java:945)
-[21:41:00] [ERROR] !   at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:812)
-[21:41:00] [ERROR] !   at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
-[21:41:00] [ERROR] !   at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
-[21:41:00] [ERROR] !   at java.lang.Thread.run(Thread.java:1583)
-[21:41:00] [INFO] Posted recipe events in 234.6 ms
-[21:41:00] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/green_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:green_dye"}],"results":[{"item":"tfmg:green_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
-[21:41:00] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/pink_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:pink_dye"}],"results":[{"item":"tfmg:pink_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
-[21:41:00] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/yellow_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:yellow_dye"}],"results":[{"item":"tfmg:yellow_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
-[21:41:00] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/magenta_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:magenta_dye"}],"results":[{"item":"tfmg:magenta_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
-[21:41:00] [WARN] Error parsing recipe tfmg:crafting/cast_iron_distillation_output[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["CHC","CHC","CHC"],"key":{"H":{"item":"tfmg:cast_iron_pipe"},"C":{"tag":"forge:ingots/cast_iron"}},"result":{"item":"tfmg:cast_iron_distillation_output","count":1}}: Unknown item 'tfmg:cast_iron_distillation_output'
-[21:41:00] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/red_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:red_dye"}],"results":[{"item":"tfmg:red_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
-[21:41:00] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/lime_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:lime_dye"}],"results":[{"item":"tfmg:lime_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
-[21:41:00] [WARN] Error parsing recipe tfmg:crafting/welding_machine[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["PSP","KCK","MRM"],"key":{"S":{"tag":"forge:ingots/steel"},"P":{"item":"tfmg:plastic_sheet"},"C":{"item":"tfmg:electric_casing"},"K":{"item":"tfmg:copper_cable"},"R":{"item":"tfmg:rebar"},"M":{"item":"tfmg:steel_mechanism"}},"result":{"item":"tfmg:welding_machine","count":1}}: Unknown item 'tfmg:welding_machine'
-[21:41:00] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/blue_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:blue_dye"}],"results":[{"item":"tfmg:blue_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
-[21:41:00] [WARN] Error parsing recipe forbidden_arcanus:edelwood_chest_boat[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","category":"misc","ingredients":[{"item":"forbidden_arcanus:edelwood_boat"},{"fabric_value":{"tag":"c:chests"},"forge_value":{"tag":"forge:chests/wooden"}}],"result":{"item":"forbidden_arcanus:edelwood_chest_boat"}}: An ingredient entry needs either a tag or an item
-[21:41:00] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/light_blue_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:light_blue_dye"}],"results":[{"item":"tfmg:light_blue_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
-[21:41:00] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/purple_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:purple_dye"}],"results":[{"item":"tfmg:purple_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
-[21:41:00] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/light_gray_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:light_gray_dye"}],"results":[{"item":"tfmg:light_gray_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
-[21:41:00] [WARN] Error parsing recipe tfmg:mechanical_crafting/cast_iron_distillation_controller[create:mechanical_crafting]: {"type":"create:mechanical_crafting","pattern":["HIH","HEH","HCH"],"key":{"E":{"item":"create:electron_tube"},"I":{"item":"tfmg:cast_iron_pipe"},"H":{"tag":"forge:ingots/cast_iron"},"C":{"item":"tfmg:steel_mechanism"}},"result":{"item":"tfmg:cast_iron_distillation_controller"},"acceptMirrored":true}: Unknown item 'tfmg:cast_iron_distillation_controller'
-[21:41:00] [WARN] Error parsing recipe tfmg:crafting/glass_cable_connector[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":[" A ","GAG","GAG"],"key":{"A":{"tag":"forge:ingots/aluminum"},"g":{"item":"create:framed_glass"}},"result":{"item":"tfmg:flass_cable_connector","count":4}}: Pattern references symbol 'G' but it's not defined in the key
-[21:41:00] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/black_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:black_dye"}],"results":[{"item":"tfmg:black_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
-[21:41:00] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/orange_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:orange_dye"}],"results":[{"item":"tfmg:orange_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
-[21:41:00] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/brown_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:brown_dye"}],"results":[{"item":"tfmg:brown_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
-[21:41:00] [WARN] Error parsing recipe tfmg:crafting/battery[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["NGN","NSN","NCN"],"key":{"N":{"tag":"forge:ingots/lead"},"C":{"item":"tfmg:electric_casing"},"G":{"item":"tfmg:magnetic_ingot"},"S":{"item":"tfmg:sulfuric_acid_bucket"}},"result":{"item":"tfmg:battery","count":2}}: Unknown item 'tfmg:battery'
-[21:41:00] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/white_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:white_dye"}],"results":[{"item":"tfmg:white_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
-[21:41:00] [WARN] Error parsing recipe forbidden_arcanus:aurum_chest_boat[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","category":"misc","ingredients":[{"item":"forbidden_arcanus:aurum_boat"},{"fabric_value":{"tag":"c:chests"},"forge_value":{"tag":"forge:chests/wooden"}}],"result":{"item":"forbidden_arcanus:aurum_chest_boat"}}: An ingredient entry needs either a tag or an item
-[21:41:00] [WARN] Error parsing recipe firmaciv:crafting/watercraft_frame_angled_2[minecraft:crafting_shaped]: {"__comment__":"This file was automatically created by mcresources","type":"minecraft:crafting_shaped","pattern":["  ","  "],"key":{},"result":{"item":"firmaciv:watercraft_frame_angled","count":2}}: Index 0 out of bounds for length 0
-[21:41:00] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/cyan_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:cyan_dye"}],"results":[{"item":"tfmg:cyan_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
-[21:41:00] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/gray_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:gray_dye"}],"results":[{"item":"tfmg:gray_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
-[21:41:00] [WARN] Error parsing recipe tfmg:mechanical_crafting/pumpjack_hammer_holder[create:mechanical_crafting]: {"type":"create:mechanical_crafting","pattern":["SSSSB"," AT B"],"key":{"A":{"item":"tfmg:screw"},"T":{"item":"tfmg:steel_truss"},"B":{"item":"tfmg:steel_block"},"S":{"tag":"forge:ingots/steel"}},"result":{"item":"tfmg:pumpjack_hammer_holder"},"acceptMirrored":true}: Unknown item 'tfmg:pumpjack_hammer_holder'
-[21:41:00] [WARN] Error parsing recipe tfmg:crafting/epic_party_light_bulb[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":[" G ","WEW"," A "],"key":{"G":{"item":"tfmg:lead_glass"},"A":{"item":"tfmg:plastic_sheet"},"E":{"item":"tfmg:rgb_light_bulb"},"W":{"tag":"forge:wires/aluminum"}},"result":{"item":"tfmg:epic_party_light_bulb","count":1}}: Unknown item 'tfmg:epic_party_light_bulb'
-[21:41:00] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/pink_concrete[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:_dye"}],"results":[{"item":"tfmg:_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
-[21:41:01] [INFO] Added 613 recipes, removed 1788 recipes, modified 8 recipes, with 31 failed recipes in 1.514 s
-[21:41:03] [INFO] Server resource reload complete!
+[22:45:38] [INIT] KubeJS 2001.6.5-build.14; MC 2001 forge
+[22:45:38] [INIT] Loaded plugins:
+[22:45:38] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:45:38] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[22:45:38] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[22:45:38] [INIT] - su.terrafirmagreg.core.compat.kjs.TFGKubeJSPlugin
+[22:45:38] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[22:45:38] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[22:45:38] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[22:45:38] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[22:45:38] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[22:45:38] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[22:45:38] [INIT] - argent_matter.gcyr.integration.kjs.GCyRKubeJSPlugin
+[22:45:38] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
+[22:45:38] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
+[22:45:38] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
+[22:45:38] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[22:45:40] [INFO] Loaded script server_scripts:main_server_script.js in 0.004 s
+[22:45:40] [INFO] Loaded script server_scripts:computer_craft/tags.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:computer_craft/recipes.js in 0.006 s
+[22:45:40] [INFO] Loaded script server_scripts:computer_craft/data.js in 0.002 s
+[22:45:40] [INFO] Loaded script server_scripts:ftb_quests/tags.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:ftb_quests/recipes.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:me_requester/recipes.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:water_flasks/recipes.js in 0.001 s
+[22:45:40] [INFO] Loaded script server_scripts:water_flasks/data.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:railways/tags.js in 0.001 s
+[22:45:40] [INFO] Loaded script server_scripts:railways/recipes.js in 0.008 s
+[22:45:40] [INFO] Loaded script server_scripts:mega_cells/tags.js in 0.001 s
+[22:45:40] [INFO] Loaded script server_scripts:mega_cells/recipes.js in 0.006 s
+[22:45:40] [INFO] Loaded script server_scripts:ae2wtlib/recipes.js in 0.001 s
+[22:45:40] [INFO] Loaded script server_scripts:extended_ae2/tags.js in 0.001 s
+[22:45:40] [INFO] Loaded script server_scripts:extended_ae2/recipes.js in 0.005 s
+[22:45:40] [INFO] Loaded script server_scripts:ae2na/recipes.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:gregtech/tags.js in 0.002 s
+[22:45:40] [INFO] Loaded script server_scripts:gregtech/constants.js in 0.001 s
+[22:45:40] [INFO] Loaded script server_scripts:gregtech/utility.js in 0.003 s
+[22:45:40] [INFO] Loaded script server_scripts:gregtech/recipes.js in 0.036 s
+[22:45:40] [INFO] Loaded script server_scripts:gregtech/data.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:gregtech/loot.js in 0.001 s
+[22:45:40] [INFO] Loaded script server_scripts:create_additions/tags.js in 0.001 s
+[22:45:40] [INFO] Loaded script server_scripts:create_additions/recipes.js in 0.001 s
+[22:45:40] [INFO] Loaded script server_scripts:tfc_grooming_station/recipes.js in 0.001 s
+[22:45:40] [INFO] Loaded script server_scripts:asticor_carts/tags.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:asticor_carts/recipes.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:create/tags.js in 0.002 s
+[22:45:40] [INFO] Loaded script server_scripts:create/recipes.js in 0.007 s
+[22:45:40] [INFO] Loaded script server_scripts:firmaciv/tags.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:firmaciv/recipes.js in 0.002 s
+[22:45:40] [INFO] Loaded script server_scripts:firmalife/tags.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:firmalife/recipes.js in 0.004 s
+[22:45:40] [INFO] Loaded script server_scripts:hotornot/tags.js in 0.001 s
+[22:45:40] [INFO] Loaded script server_scripts:hotornot/recipes.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:create_connected/recipes.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:treetap/recipes.js in 0.001 s
+[22:45:40] [INFO] Loaded script server_scripts:treetap/data.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:sophisticated_backpacks/tags.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:sophisticated_backpacks/recipes.js in 0.001 s
+[22:45:40] [INFO] Loaded script server_scripts:exposure/recipes.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:more_red/tags.js in 0.001 s
+[22:45:40] [INFO] Loaded script server_scripts:more_red/recipes.js in 0.002 s
+[22:45:40] [INFO] Loaded script server_scripts:etched/recipes.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:ae2iec/recipes.js in 0.001 s
+[22:45:40] [INFO] Loaded script server_scripts:framed_blocks/tags.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:framed_blocks/recipes.js in 0.001 s
+[22:45:40] [INFO] Loaded script server_scripts:minecraft/tags.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:minecraft/recipes.js in 0.018 s
+[22:45:40] [INFO] Loaded script server_scripts:handglider/recipes.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:chisel_and_bits/tags.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:chisel_and_bits/recipes.js in 0.001 s
+[22:45:40] [INFO] Loaded script server_scripts:ae2/tags.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:ae2/utility.js in 0.0 s
+[22:45:40] [INFO] Loaded script server_scripts:ae2/recipes.js in 0.01 s
+[22:45:40] [INFO] Loaded script server_scripts:tfcea/recipes.js in 0.001 s
+[22:45:40] [INFO] Loaded script server_scripts:tfc/tags.js in 0.005 s
+[22:45:40] [INFO] Loaded script server_scripts:tfc/recipes.js in 0.032 s
+[22:45:40] [INFO] Loaded script server_scripts:tfc/data.js in 0.003 s
+[22:45:40] [INFO] Loaded script server_scripts:toolbelt/recipes.js in 0.003 s
+[22:45:40] [INFO] Loaded 61/61 KubeJS server scripts in 0.259 s with 0 errors and 0 warnings
+[22:45:40] [INFO] Scripts loaded
+[22:45:40] [INFO] Initializing recipe event...
+[22:45:43] [INFO] [minecraft:worldgen/placed_feature] Found 117 tags, added 49 objects, removed 39 objects
+[22:45:44] [INFO] [minecraft:fluid] Found 647 tags, added 77 objects, removed 0 objects
+[22:45:47] [INFO] [minecraft:block] Found 1938 tags, added 476 objects, removed 0 objects
+[22:45:48] [INFO] [minecraft:item] Found 6978 tags, added 3569 objects, removed 0 objects
+[22:45:48] [INFO] Processing recipes...
+[22:45:48] [WARN] Failed to parse recipe 'tfmg:crafting/epic_party_light_bulb[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:45:48] [WARN] Failed to parse recipe 'tfmg:crafting/cast_iron_distillation_output[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:45:48] [WARN] Failed to parse recipe 'tfmg:stonecutting/caution_block[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:45:48] [WARN] Failed to parse recipe 'tfmg:mechanical_crafting/pumpjack_hammer_holder[create:mechanical_crafting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:45:48] [WARN] Failed to parse recipe 'createaddition:filling/treated_wood_planks[create:filling]'! Falling back to vanilla: Can't modify the empty stack.
+[22:45:49] [WARN] Failed to parse recipe 'tfmg:crafting/welding_machine[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:45:49] [WARN] Failed to parse recipe 'tfmg:stonecutting/caution_blocks/light_blue_caution_block[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:45:49] [WARN] Failed to parse recipe 'tfmg:crafting/glass_cable_connector[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:45:49] [WARN] Failed to parse recipe 'tfmg:crafting/battery[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:45:49] [WARN] Failed to parse recipe 'tfmg:mechanical_crafting/cast_iron_distillation_controller[create:mechanical_crafting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:45:49] [INFO] Found 62424 recipes in 1.142 s
+[22:45:49] [ERROR] ! create_connected/recipes.js#10: Failed to create recipe for type 'kubejs:shapeless': ItemStack 'result' can't be empty!
+[22:45:49] [WARN] create_connected/recipes.js#10: Tried to call a function on an errored recipe! (Failed to create recipe for type 'kubejs:shapeless')
+[22:45:49] [ERROR] ! create_connected/recipes.js#18: Failed to create recipe for type 'kubejs:shapeless': ItemStack 'result' can't be empty!
+[22:45:49] [WARN] create_connected/recipes.js#18: Tried to call a function on an errored recipe! (Failed to create recipe for type 'kubejs:shapeless')
+[22:45:49] [ERROR] ! create_connected/recipes.js#26: Failed to create recipe for type 'kubejs:shapeless': ItemStack 'result' can't be empty!
+[22:45:49] [WARN] create_connected/recipes.js#26: Tried to call a function on an errored recipe! (Failed to create recipe for type 'kubejs:shapeless')
+[22:45:49] [ERROR] ! create_connected/recipes.js#38: Failed to create recipe for type 'kubejs:shaped': ItemStack 'result' can't be empty!
+[22:45:49] [WARN] create_connected/recipes.js#38: Tried to call a function on an errored recipe! (Failed to create recipe for type 'kubejs:shaped')
+[22:45:49] [ERROR] ! Error in 'ServerEvents.recipes': tfg:assembler/create_connected/item_silo: output items is empty
+[22:45:49] [ERROR] ! java.lang.IllegalArgumentException: tfg:assembler/create_connected/item_silo: output items is empty
+[22:45:49] [ERROR] !   at com.gregtechceu.gtceu.integration.kjs.recipe.GTRecipeSchema$GTRecipeJS.outputItems(GTRecipeSchema.java:267)
+[22:45:49] [ERROR] !   at com.gregtechceu.gtceu.integration.kjs.recipe.GTRecipeSchema$GTRecipeJS.itemOutputs(GTRecipeSchema.java:252)
+[22:45:49] [ERROR] !   at java.lang.reflect.Method.invoke(Method.java:580)
+[22:45:49] [ERROR] !   at …rhino.MemberBox.invoke(MemberBox.java:160)
+[22:45:49] [ERROR] !   at …rhino.NativeJavaMethod.call(NativeJavaMethod.java:463)
+[22:45:49] [ERROR] !   at …rhino.Interpreter.interpretLoop(Interpreter.java:986)
+[22:45:49] [ERROR] !   at …rhino.Interpreter.interpret(Interpreter.java:370)
+[22:45:49] [ERROR] !   at …rhino.InterpretedFunction.call(InterpretedFunction.java:72)
+[22:45:49] [ERROR] !   at …rhino.Context.callSync(Context.java:1290)
+[22:45:49] [ERROR] !   at …rhino.ArrowFunction.call(ArrowFunction.java:42)
+[22:45:49] [ERROR] !   at …rhino.Interpreter.interpretLoop(Interpreter.java:986)
+[22:45:49] [ERROR] !   at …rhino.Interpreter.interpret(Interpreter.java:370)
+[22:45:49] [ERROR] !   at …rhino.InterpretedFunction.call(InterpretedFunction.java:72)
+[22:45:49] [ERROR] !   at …rhino.Context.callSync(Context.java:1290)
+[22:45:49] [ERROR] !   at …rhino.Context.doTopCall(Context.java:1307)
+[22:45:49] [ERROR] !   at …rhino.InterpretedFunction.call(InterpretedFunction.java:70)
+[22:45:49] [ERROR] !   at …rhino.Context.callSync(Context.java:1290)
+[22:45:49] [ERROR] !   at …rhino.ArrowFunction.call(ArrowFunction.java:42)
+[22:45:49] [ERROR] !   at …rhino.Context.callSync(Context.java:1290)
+[22:45:49] [ERROR] !   at …rhino.InterfaceAdapter.invoke(InterfaceAdapter.java:125)
+[22:45:49] [ERROR] !   at …rhino.VMBridge.lambda$newInterfaceProxy$0(VMBridge.java:74)
+[22:45:49] [ERROR] !   at TRANSFORMER/jdk.proxy3/jdk.proxy3.$Proxy79.onEvent(Unknown Source)
+[22:45:49] [ERROR] !   at …kubejs.event.EventHandlerContainer.handle(EventHandlerContainer.java:39)
+[22:45:49] [ERROR] !   at …kubejs.event.EventHandler.postToHandlers(EventHandler.java:304)
+[22:45:49] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:272)
+[22:45:49] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:226)
+[22:45:49] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:189)
+[22:45:49] [ERROR] !   at …kubejs.recipe.RecipesEventJS.post(RecipesEventJS.java:359)
+[22:45:49] [ERROR] !   at net.minecraft.world.item.crafting.RecipeManager.handler$zbi000$customRecipesHead(RecipeManager.java:4531)
+[22:45:49] [ERROR] !   at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java)
+[22:45:49] [ERROR] !   at com.recipeessentials.recipecache.RecipeManager.m_5787_(RecipeManager.java:239)
+[22:45:49] [ERROR] !   at com.recipeessentials.recipecache.RecipeManager.m_5787_(RecipeManager.java:22)
+[22:45:49] [ERROR] !   at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13)
+[22:45:49] [ERROR] !   at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
+[22:45:49] [ERROR] !   at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[22:45:49] [ERROR] !   at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+[22:45:49] [ERROR] !   at net.minecraft.Util.m_214652_(Util.java:783)
+[22:45:49] [ERROR] !   at net.minecraft.Util.m_214679_(Util.java:772)
+[22:45:49] [ERROR] !   at net.minecraft.server.Main.main(Main.java:166)
+[22:45:49] [ERROR] !   at java.lang.reflect.Method.invoke(Method.java:580)
+[22:45:49] [ERROR] !   at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.6/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111)
+[22:45:49] [ERROR] !   at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.6/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103)
+[22:45:49] [ERROR] !   at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.6/net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27)
+[22:45:49] [ERROR] !   at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+[22:45:49] [ERROR] !   at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+[22:45:49] [ERROR] !   at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+[22:45:49] [ERROR] !   at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.run(Launcher.java:108)
+[22:45:49] [ERROR] !   at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.main(Launcher.java:78)
+[22:45:49] [ERROR] !   at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+[22:45:49] [ERROR] !   at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+[22:45:49] [ERROR] !   at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+[22:45:49] [INFO] Posted recipe events in 224.9 ms
+[22:45:49] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/pink_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:pink_dye"}],"results":[{"item":"tfmg:pink_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[22:45:49] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/green_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:green_dye"}],"results":[{"item":"tfmg:green_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[22:45:49] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/yellow_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:yellow_dye"}],"results":[{"item":"tfmg:yellow_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[22:45:49] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/magenta_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:magenta_dye"}],"results":[{"item":"tfmg:magenta_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[22:45:49] [WARN] Error parsing recipe forbidden_arcanus:edelwood_chest_boat[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","category":"misc","ingredients":[{"item":"forbidden_arcanus:edelwood_boat"},{"fabric_value":{"tag":"c:chests"},"forge_value":{"tag":"forge:chests/wooden"}}],"result":{"item":"forbidden_arcanus:edelwood_chest_boat"}}: An ingredient entry needs either a tag or an item
+[22:45:49] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/light_blue_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:light_blue_dye"}],"results":[{"item":"tfmg:light_blue_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[22:45:49] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/light_gray_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:light_gray_dye"}],"results":[{"item":"tfmg:light_gray_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[22:45:49] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/purple_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:purple_dye"}],"results":[{"item":"tfmg:purple_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[22:45:49] [WARN] Error parsing recipe tfmg:crafting/glass_cable_connector[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":[" A ","GAG","GAG"],"key":{"A":{"tag":"forge:ingots/aluminum"},"g":{"item":"create:framed_glass"}},"result":{"item":"tfmg:flass_cable_connector","count":4}}: Pattern references symbol 'G' but it's not defined in the key
+[22:45:49] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/orange_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:orange_dye"}],"results":[{"item":"tfmg:orange_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[22:45:49] [WARN] Error parsing recipe tfmg:crafting/cast_iron_distillation_output[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["CHC","CHC","CHC"],"key":{"H":{"item":"tfmg:cast_iron_pipe"},"C":{"tag":"forge:ingots/cast_iron"}},"result":{"item":"tfmg:cast_iron_distillation_output","count":1}}: Unknown item 'tfmg:cast_iron_distillation_output'
+[22:45:50] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/red_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:red_dye"}],"results":[{"item":"tfmg:red_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[22:45:50] [WARN] Error parsing recipe tfmg:crafting/battery[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["NGN","NSN","NCN"],"key":{"N":{"tag":"forge:ingots/lead"},"C":{"item":"tfmg:electric_casing"},"G":{"item":"tfmg:magnetic_ingot"},"S":{"item":"tfmg:sulfuric_acid_bucket"}},"result":{"item":"tfmg:battery","count":2}}: Unknown item 'tfmg:battery'
+[22:45:50] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/lime_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:lime_dye"}],"results":[{"item":"tfmg:lime_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[22:45:50] [WARN] Error parsing recipe tfmg:mechanical_crafting/cast_iron_distillation_controller[create:mechanical_crafting]: {"type":"create:mechanical_crafting","pattern":["HIH","HEH","HCH"],"key":{"E":{"item":"create:electron_tube"},"I":{"item":"tfmg:cast_iron_pipe"},"H":{"tag":"forge:ingots/cast_iron"},"C":{"item":"tfmg:steel_mechanism"}},"result":{"item":"tfmg:cast_iron_distillation_controller"},"acceptMirrored":true}: Unknown item 'tfmg:cast_iron_distillation_controller'
+[22:45:50] [WARN] Error parsing recipe tfmg:crafting/welding_machine[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["PSP","KCK","MRM"],"key":{"S":{"tag":"forge:ingots/steel"},"P":{"item":"tfmg:plastic_sheet"},"C":{"item":"tfmg:electric_casing"},"K":{"item":"tfmg:copper_cable"},"R":{"item":"tfmg:rebar"},"M":{"item":"tfmg:steel_mechanism"}},"result":{"item":"tfmg:welding_machine","count":1}}: Unknown item 'tfmg:welding_machine'
+[22:45:50] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/blue_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:blue_dye"}],"results":[{"item":"tfmg:blue_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[22:45:50] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/brown_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:brown_dye"}],"results":[{"item":"tfmg:brown_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[22:45:50] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/white_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:white_dye"}],"results":[{"item":"tfmg:white_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[22:45:50] [WARN] Error parsing recipe forbidden_arcanus:aurum_chest_boat[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","category":"misc","ingredients":[{"item":"forbidden_arcanus:aurum_boat"},{"fabric_value":{"tag":"c:chests"},"forge_value":{"tag":"forge:chests/wooden"}}],"result":{"item":"forbidden_arcanus:aurum_chest_boat"}}: An ingredient entry needs either a tag or an item
+[22:45:50] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/cyan_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:cyan_dye"}],"results":[{"item":"tfmg:cyan_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[22:45:50] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/black_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:black_dye"}],"results":[{"item":"tfmg:black_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[22:45:50] [WARN] Error parsing recipe firmaciv:crafting/watercraft_frame_angled_2[minecraft:crafting_shaped]: {"__comment__":"This file was automatically created by mcresources","type":"minecraft:crafting_shaped","pattern":["  ","  "],"key":{},"result":{"item":"firmaciv:watercraft_frame_angled","count":2}}: Index 0 out of bounds for length 0
+[22:45:50] [WARN] Error parsing recipe tfmg:crafting/epic_party_light_bulb[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":[" G ","WEW"," A "],"key":{"G":{"item":"tfmg:lead_glass"},"A":{"item":"tfmg:plastic_sheet"},"E":{"item":"tfmg:rgb_light_bulb"},"W":{"tag":"forge:wires/aluminum"}},"result":{"item":"tfmg:epic_party_light_bulb","count":1}}: Unknown item 'tfmg:epic_party_light_bulb'
+[22:45:50] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/pink_concrete[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:_dye"}],"results":[{"item":"tfmg:_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[22:45:50] [WARN] Error parsing recipe tfmg:mechanical_crafting/pumpjack_hammer_holder[create:mechanical_crafting]: {"type":"create:mechanical_crafting","pattern":["SSSSB"," AT B"],"key":{"A":{"item":"tfmg:screw"},"T":{"item":"tfmg:steel_truss"},"B":{"item":"tfmg:steel_block"},"S":{"tag":"forge:ingots/steel"}},"result":{"item":"tfmg:pumpjack_hammer_holder"},"acceptMirrored":true}: Unknown item 'tfmg:pumpjack_hammer_holder'
+[22:45:50] [WARN] Error parsing recipe tfmg:colored_concrete/full_block/gray_concrete_q[create:item_application]: {"type":"create:item_application","ingredients":[{"item":"tfmg:mesh_concrete"},{"item":"minecraft:gray_dye"}],"results":[{"item":"tfmg:gray_high_quality_concrete"}]}: Unknown item 'tfmg:mesh_concrete'
+[22:45:50] [INFO] Added 613 recipes, removed 1788 recipes, modified 8 recipes, with 31 failed recipes in 1.215 s
+[22:45:54] [INFO] Server resource reload complete!

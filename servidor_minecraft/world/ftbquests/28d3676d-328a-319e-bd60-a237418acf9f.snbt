@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "28d3676d328a319ebd60a237418acf9f"
+	name: "olyverr#28d3676d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
