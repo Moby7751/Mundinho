@@ -11653,3 +11653,7 @@ net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of l
 [10Dec2024 22:04:47.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr has made the advancement [A Strange Grave Dust]
 [10Dec2024 22:05:08.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mobyius has made the advancement [Sky of Beginning]
 [10Dec2024 22:06:29.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [olyverr: Teleported olyverr to Mobyius]
+[10Dec2024 22:07:17.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <olyverr> sessão vai começar dq a pouco eu volto
+[10Dec2024 22:07:26.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mobyius> okok
+[10Dec2024 22:07:28.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: olyverr lost connection: Disconnected
+[10Dec2024 22:07:28.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr left the game

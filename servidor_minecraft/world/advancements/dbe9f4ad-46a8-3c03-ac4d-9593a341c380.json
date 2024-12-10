@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2024-12-10 22:05:08 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_yellow": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:19:23 +0000"
@@ -242,6 +248,12 @@
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:19:23 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-12-10 22:05:08 +0000"
     },
     "done": true
   },
@@ -473,6 +485,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2024-12-10 22:05:08 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:19:23 +0000"
@@ -518,6 +536,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-10 21:39:30 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2024-12-10 22:05:08 +0000"
     },
     "done": true
   },
@@ -844,6 +868,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2024-12-10 21:19:22 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2024-12-10 22:04:44 +0000"
     },
     "done": true
   },
