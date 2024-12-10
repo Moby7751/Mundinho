@@ -1,0 +1,52 @@
+{
+  "name": "nebula_tier_4",
+  "progressTexture": "multiblocked:textures/gui/progress_bar_arrow.png",
+  "fuelTexture": "multiblocked:textures/gui/progress_bar_fuel.png",
+  "recipes": [
+    {
+      "uid": "polaris",
+      "duration": 200,
+      "outputs": {
+        "item": [
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "chroma:eternal_cryostella_polaris"
+              }
+            },
+            "chance": 0.6
+          },
+          {
+            "content": {
+              "type": "multiblocked:sized",
+              "count": 1,
+              "ingredient": {
+                "item": "beyond_earth:glacio_stone"
+              }
+            },
+            "chance": 0.1
+          }
+        ]
+      },
+      "tickInputs": {
+        "forge_energy": [
+          {
+            "content": 20000,
+            "chance": 1.0
+          }
+        ]
+      },
+      "conditions": [
+        {
+          "type": "dimension",
+          "condition": {
+            "dim": "beyond_earth:glacio"
+          }
+        }
+      ]
+    }
+  ],
+  "ui": "nebula_tier_4"
+}

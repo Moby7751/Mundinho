@@ -13,7 +13,6 @@
 #Packmakers' control panel for internal recipe compat
 [recipes]
 	#.
-	#.
 	#Allow the Mechanical Press to process entire stacks at a time.
 	bulkPressing = false
 	#.
@@ -61,7 +60,6 @@
 #.
 #Parameters and abilities of Create's kinetic mechanisms
 [kinetics]
-	#.
 	#.
 	#Disable the Stress mechanic altogether.
 	disableStress = false
@@ -182,10 +180,6 @@
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
 		movableObsidian = "UNMOVABLE"
 		#.
-		#Configure how Reinforced Deepslate blocks can be moved by contraptions.
-		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		movableReinforcedDeepslate = "UNMOVABLE"
-		#.
 		#Whether items mined or harvested by contraptions should be placed in their mounted storage.
 		moveItemsToStorage = true
 		#.
@@ -197,6 +191,10 @@
 		#.
 		#Whether minecart contraptions can be placed into container items.
 		minecartContraptionInContainers = false
+		#.
+		#Whether stabilised bearings create a separated entity even on non-rotating contraptions.
+		#[Technical]
+		stabiliseStableContraptions = false
 
 	#.
 	#Configure speed/capacity levels for requirements and indicators.
@@ -238,7 +236,6 @@
 		#Fine tune the kinetic stats of individual components
 		[kinetics.stressValues.v2]
 
-			#.
 			#.
 			#[in Stress Units]
 			#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
@@ -306,7 +303,6 @@
 #Create's liquid manipulation tools
 [fluids]
 	#.
-	#.
 	#[in Buckets]
 	#The amount of liquid a tank can hold per block.
 	#Range: > 1
@@ -331,7 +327,7 @@
 	#[-1 to disable this behaviour]
 	#The minimum amount of fluid blocks the hose pulley needs to find before deeming it an infinite source.
 	#Range: > -1
-	hosePulleyBlockThreshold = 0
+	hosePulleyBlockThreshold = 10000
 	#.
 	#Whether hose pulleys should continue filling up above-threshold sources.
 	fillInfinite = false
@@ -341,15 +337,14 @@
 	bottomlessFluidMode = "ALLOW_BY_TAG"
 	#.
 	#Whether hose pulleys should be allowed to place fluid sources.
-	fluidFillPlaceFluidSourceBlocks = false
+	fluidFillPlaceFluidSourceBlocks = true
 	#.
 	#Whether open-ended pipes should be allowed to place fluid sources.
-	pipesPlaceFluidSourceBlocks = false
+	pipesPlaceFluidSourceBlocks = true
 
 #.
 #Tweaks for logistical components
 [logistics]
-	#.
 	#.
 	#The amount of ticks a funnel waits between item transferrals, when it is not re-activated by redstone.
 	#Range: > 1
@@ -386,14 +381,12 @@
 #Everything related to Schematic tools
 [schematics]
 	#.
-	#.
 	#Whether placing a Schematic directly in Creative Mode should replace world blocks with Air
 	creativePrintIncludesAir = false
 	#.
-	#[in KiloBytes]
-	#The maximum allowed file size of uploaded Schematics.
-	#Range: > 16
-	maxSchematics = 256
+	#The amount of Schematics a player can upload until previous ones are overwritten.
+	#Range: > 1
+	maxSchematics = 32767
 	#.
 	#[in Bytes]
 	#The maximum packet size uploaded Schematics are split into.
@@ -403,6 +396,11 @@
 	#Amount of game ticks without new packets arriving until an active schematic upload process is discarded.
 	#Range: > 100
 	schematicIdleTimeout = 600
+	#.
+	#[in KiloBytes]
+	#The maximum allowed file size of uploaded Schematics.
+	#Range: > 16
+	maxTotalSchematicSize = 256
 
 	#.
 	#Schematicannon
@@ -412,18 +410,13 @@
 		#Range: > 1
 		schematicannonDelay = 10
 		#.
-		#% of Schematicannon's Fuel filled by 1 Gunpowder.
-		#Range: 0.0 ~ 100.0
-		schematicannonGunpowderWorth = 20.0
-		#.
-		#% of Schematicannon's Fuel used for each fired block.
-		#Range: 0.0 ~ 100.0
-		schematicannonFuelUsage = 0.05000000074505806
+		#Amount of blocks a Schematicannon can print per Gunpowder item provided.
+		#Range: > 1
+		schematicannonShotsPerGunpowder = 400
 
 #.
 #Equipment and gadgets added by Create
 [equipment]
-	#.
 	#.
 	#The Maximum Distance to an active mirror for the symmetry wand to trigger.
 	#Range: > 10
@@ -456,7 +449,6 @@
 #.
 #Create's builtin Railway systems
 [trains]
-	#.
 	#.
 	#Whether moving Trains can hurt colliding mobs and players.
 	trainsCauseDamage = true

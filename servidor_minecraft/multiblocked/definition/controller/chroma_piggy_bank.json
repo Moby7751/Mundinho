@@ -1,0 +1,548 @@
+{
+  "version": 3,
+  "location": "chroma:piggy_bank",
+  "traits": {},
+  "properties": {
+    "rotationState": "ALL",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasDynamicShape": false,
+    "hasCollision": true,
+    "destroyTime": 1.5,
+    "explosionResistance": 6.0,
+    "speedFactor": 1.0,
+    "jumpFactor": 1.0,
+    "friction": 0.6,
+    "harvestLevel": 0,
+    "stackSize": 64,
+    "tabGroup": "multiblocked.all"
+  },
+  "status": {
+    "unformed": {
+      "renderer": {
+        "baseTexture": "multiblocked:block/pink_terracotta",
+        "frontTexture": "multiblocked:casing/piggy_off",
+        "type": "gregtech",
+        "postRenderer": false
+      }
+    },
+    "idle": {
+      "renderer": {
+        "baseTexture": "multiblocked:block/pink_terracotta",
+        "frontTexture": "multiblocked:casing/piggy_idle",
+        "type": "gregtech",
+        "postRenderer": false
+      },
+      "parent": "unformed"
+    },
+    "working": {
+      "renderer": {
+        "baseTexture": "multiblocked:block/pink_terracotta",
+        "frontTexture": "multiblocked:casing/piggy_active",
+        "type": "gregtech",
+        "postRenderer": false
+      },
+      "parent": "idle"
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "recipeMap": "piggy_bank",
+  "basePattern": {
+    "structureDir": [
+      "FRONT",
+      "UP",
+      "LEFT"
+    ],
+    "pattern": [
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "      AAAA      ",
+        "     AAAAAA     ",
+        "     AAAAAA     ",
+        "     AAAAAA     ",
+        "      AAAA      ",
+        "                ",
+        "          A     ",
+        "         AA     ",
+        "          A     "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "       AA       ",
+        "     AAAAAA     ",
+        "    AABBBBAA    ",
+        "   AABBBBBBAA   ",
+        "   AABBBBBBAA   ",
+        "   AABBBBBBAA   ",
+        "    AABBBBAA    ",
+        "     AAAAAA     ",
+        "       AAAA     ",
+        "        AC      ",
+        "         AA     "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "       AA       ",
+        "   AAAABBAAAA   ",
+        "  AAABBBBBBAAA  ",
+        "  AABBDDDDBBAA  ",
+        "  ABBDDDDDDBBA  ",
+        "  ABBDDDDDDBBA  ",
+        "  ABBDDDDDDBBA  ",
+        "  AABBDDDDBBAE  ",
+        "   AABBBBBBAE   ",
+        "    AAABBAAA    ",
+        "       AAAA     ",
+        "          A     "
+      ],
+      [
+        "   FF      FF   ",
+        "   AA      AA   ",
+        "   AA      AA   ",
+        "   AA      AA   ",
+        "   AAAAAAAAAA   ",
+        "  AAABBBBBBAAA  ",
+        "  ABBDDDDDDBBA  ",
+        "  ABDDGGGGDDBA  ",
+        " ABDDGGGGGGDDBA ",
+        " ABDDGGGGGGDDBA ",
+        " ABDDGGGGGGDDBA ",
+        "  ABDDGGGGDDBE  ",
+        "  ABBDDDDDDBBH  ",
+        "   AABBBBBBAE   ",
+        "     AAAAAA     ",
+        "                "
+      ],
+      [
+        "   FF      FF   ",
+        "   AA      AA   ",
+        "   AA      AA   ",
+        "   AA AAAA AA   ",
+        "   AAABBBBAAA   ",
+        "  AABBDDDDBBAA  ",
+        "  ABDDGGGGDDBA  ",
+        " ABDGIIIIIIGDBA ",
+        " ABDGIJJJJIGDBA ",
+        " ABDGIJJJJIGDBA ",
+        " ABDGIJJJJIGDBA ",
+        " ABDGIIIIIIGDBA ",
+        "  ABDDGGGGDDBE  ",
+        "  AABBGDDDBBAE  ",
+        "    AABBKBAA    ",
+        "      AAAA      "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "     AEEEEA     ",
+        "   AABBBBBBAA   ",
+        "  ABBDDDDDDBBA  ",
+        " ABDDGGGGGGDDBA ",
+        " ABDGIJJJJIGDBA ",
+        "ABDGGJLMLLJGGDBA",
+        "ABDGGJLLMLJGGDB@",
+        "ABDGGJLM LJGGDBA",
+        " ABDGIJJJJIGDBA ",
+        " ABDDGGGGGGDDBA ",
+        "  ABBDDDDHDBBA  ",
+        "   AABHKHHBAA   ",
+        "     AAAAAA     "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "     AEANEA     ",
+        "   AABBBBBBAA   ",
+        "  ABBDDDDDDBBA  ",
+        " ABDDGGGGGGDDBA ",
+        " ABDGIJJJJIGDBA ",
+        "ABDGGJMMMMJGGDBA",
+        "OBDGGJMPPMJGGDBA",
+        "ABDGGJMMMMJGGDBA",
+        " ABDGIJJJJIGDBA ",
+        " ABDDGGGGGGDDBA ",
+        "  ABBDKKKHDBBA  ",
+        "   AAHKK  HAA   ",
+        "     A    A     "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "     AEEEEA     ",
+        "   AABBBBBBAA   ",
+        "  ABBDDDDDDBBA  ",
+        " ABDDGGGGGGDDBA ",
+        " ABDGIJJJJIGDBA ",
+        "ABDGGJLLMLJGGDBA",
+        "ABDGGJLMLLJGGDBF",
+        "ABDGGJLLMLJGGDBA",
+        " ABDGIJJJJIGDBA ",
+        " ABDDGGGGGGDDBA ",
+        "  ABBDDDHHDBBA  ",
+        "   AABHHHHKAA   ",
+        "     AAAAAA     "
+      ],
+      [
+        "   FF      FF   ",
+        "   AA      AA   ",
+        "   AA      AA   ",
+        "   AA AAAA AA   ",
+        "   AAABBBBAAA   ",
+        "  AABBDDDDBBAA  ",
+        "  ABDDGGGGDDBA  ",
+        " ABDGIIIIIIGDBA ",
+        " ABDGIJJJJIGDBA ",
+        " ABDGIJJJJIGDBA ",
+        " ABDGIJJJJIGDBA ",
+        " ABDGIIIIIIGDBA ",
+        "  ABDDGGGGDDBE  ",
+        "  AABBDDDDBBAE  ",
+        "    AABBBBAA    ",
+        "      AAAA      "
+      ],
+      [
+        "   FF      FF   ",
+        "   AA      AA   ",
+        "   AA      AA   ",
+        "   AA      AA   ",
+        "   AAAAAAAAAA   ",
+        "  AAABBBBBBAAA  ",
+        "  ABBDDDDDDBBA  ",
+        "  ABDDGGGGDDBA  ",
+        " ABDDGGGGGGDDBA ",
+        " ABDDGGGGGGDDBA ",
+        " ABDDGGGGGGDDBA ",
+        "  ABDDGGGGDDBE  ",
+        "  ABBDDDDDDBBH  ",
+        "   AABBBBBBAE   ",
+        "     AAAAAA     ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "       AA       ",
+        "   AAAABBAAAA   ",
+        "  AAABBBBBBAAA  ",
+        "  AABBDDDDBBAA  ",
+        "  ABBDDDDDDBBA  ",
+        "  ABBDDDDDDBBA  ",
+        "  ABBDDDDDDBBA  ",
+        "  AABBDDDDBBAE  ",
+        "   AABBBBBBAE   ",
+        "    AAABBAAA    ",
+        "       AAAA     ",
+        "          A     "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "       AA       ",
+        "     AAAAAA     ",
+        "    AABBBBAA    ",
+        "   AABBBBBBAA   ",
+        "   AABBBBBBAA   ",
+        "   AABBBBBBAA   ",
+        "    AABBBBAA    ",
+        "     AAAAAA     ",
+        "       AAAA     ",
+        "        AC      ",
+        "         AA     "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "      AAAA      ",
+        "     AAAAAA     ",
+        "     AAAAAA     ",
+        "     AAAAAA     ",
+        "      AAAA      ",
+        "                ",
+        "          A     ",
+        "         AA     ",
+        "          A     "
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "blocks": [
+          {
+            "id": "minecraft:pink_concrete"
+          }
+        ],
+        "type": "blocks"
+      },
+      "controller": {
+        "location": "chroma:piggy_bank",
+        "type": "component"
+      },
+      "B": {
+        "blocks": [
+          {
+            "id": "vtones:iszm_block_0"
+          }
+        ],
+        "type": "blocks"
+      },
+      "C": {
+        "blocks": [
+          {
+            "id": "minecraft:white_terracotta"
+          }
+        ],
+        "type": "blocks"
+      },
+      "D": {
+        "blocks": [
+          {
+            "id": "tconstruct:pig_iron_block"
+          }
+        ],
+        "type": "blocks"
+      },
+      "E": {
+        "blocks": [
+          {
+            "id": "minecraft:white_concrete"
+          }
+        ],
+        "type": "blocks"
+      },
+      "F": {
+        "blocks": [
+          {
+            "id": "minecraft:pink_terracotta"
+          }
+        ],
+        "type": "blocks"
+      },
+      "G": {
+        "blocks": [
+          {
+            "id": "beyond_earth:calorite_block"
+          }
+        ],
+        "type": "blocks"
+      },
+      "H": {
+        "blocks": [
+          {
+            "id": "minecraft:black_concrete"
+          }
+        ],
+        "type": "blocks"
+      },
+      "I": {
+        "blocks": [
+          {
+            "id": "extendedcrafting:crystaltine_block"
+          }
+        ],
+        "type": "blocks"
+      },
+      "J": {
+        "blocks": [
+          {
+            "id": "mekanism:ultimate_induction_provider"
+          }
+        ],
+        "type": "blocks"
+      },
+      "air": {
+        "type": "air"
+      },
+      "K": {
+        "blocks": [
+          {
+            "id": "chipped:raw_gold_block_7"
+          }
+        ],
+        "type": "blocks"
+      },
+      "L": {
+        "blocks": [
+          {
+            "id": "mysticalagradditions:insanium_ingot_block"
+          }
+        ],
+        "type": "blocks"
+      },
+      "any": {
+        "type": "any"
+      },
+      "M": {
+        "blocks": [
+          {
+            "id": "draconicevolution:awakened_draconium_block"
+          }
+        ],
+        "type": "blocks"
+      },
+      "N": {
+        "blocks": [
+          {
+            "id": "chroma:piggy_item_output"
+          }
+        ],
+        "type": "blocks"
+      },
+      "O": {
+        "blocks": [
+          {
+            "id": "chroma:piggy_energy_input"
+          }
+        ],
+        "type": "blocks"
+      },
+      "P": {
+        "blocks": [
+          {
+            "id": "numismaticoverhaul:piggy_bank"
+          }
+        ],
+        "type": "blocks"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ],
+      "C": [
+        "C"
+      ],
+      "D": [
+        "D"
+      ],
+      "E": [
+        "E"
+      ],
+      "F": [
+        "F"
+      ],
+      "G": [
+        "G"
+      ],
+      "H": [
+        "H"
+      ],
+      "I": [
+        "I"
+      ],
+      "J": [
+        "J"
+      ],
+      "K": [
+        "K"
+      ],
+      "L": [
+        "L"
+      ],
+      "M": [
+        "M"
+      ],
+      "-": [
+        "air"
+      ],
+      "N": [
+        "N"
+      ],
+      "O": [
+        "O"
+      ],
+      "P": [
+        "P"
+      ]
+    }
+  }
+}

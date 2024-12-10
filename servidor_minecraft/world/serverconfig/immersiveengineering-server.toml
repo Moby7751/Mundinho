@@ -164,6 +164,8 @@
 		#The Flux the Fluid Pump will consume pressurize and accelerate fluids, increasing the transferrate
 		#Range: > 1
 		consumption_accelerate = 5
+		#Set this to false to disable the fluid pump being able to draw infinite water from sources
+		infiniteWater = true
 		#If this is set to true (default) the pump will replace fluids it picks up with cobblestone in order to reduce lag caused by flowing fluids.
 		placeCobble = true
 
@@ -373,7 +375,7 @@
 		air_exposure = 0.0
 		#The maximum size of a vein. Set to 0 to disable generation
 		#Range: > 0
-		vein_size = 8
+		vein_size = 0
 		#The minimum Y coordinate this ore can spawn at
 		#Range: > -2147483648
 		min_y = -32
@@ -396,7 +398,7 @@
 		air_exposure = 0.25
 		#The maximum size of a vein. Set to 0 to disable generation
 		#Range: > 0
-		vein_size = 9
+		vein_size = 0
 		#The minimum Y coordinate this ore can spawn at
 		#Range: > -2147483648
 		min_y = -48
@@ -419,7 +421,7 @@
 		air_exposure = 0.0
 		#The maximum size of a vein. Set to 0 to disable generation
 		#Range: > 0
-		vein_size = 5
+		vein_size = 0
 		#The minimum Y coordinate this ore can spawn at
 		#Range: > -2147483648
 		min_y = -64
@@ -442,7 +444,7 @@
 		air_exposure = 0.0
 		#The maximum size of a vein. Set to 0 to disable generation
 		#Range: > 0
-		vein_size = 6
+		vein_size = 0
 		#The minimum Y coordinate this ore can spawn at
 		#Range: > -2147483648
 		min_y = -120
@@ -465,7 +467,7 @@
 		air_exposure = 0.5
 		#The maximum size of a vein. Set to 0 to disable generation
 		#Range: > 0
-		vein_size = 4
+		vein_size = 0
 		#The minimum Y coordinate this ore can spawn at
 		#Range: > -2147483648
 		min_y = -64
@@ -498,7 +500,7 @@
 		buck = 2.0
 		#The amount of base damage a dragon breath cartridge inflicts
 		#Range: 0.0 ~ 1.7976931348623157E308
-		dragon = 1.0
+		dragon = 3.0
 		#The amount of base damage a homing cartridge inflicts
 		#Range: 0.0 ~ 1.7976931348623157E308
 		homing = 10.0

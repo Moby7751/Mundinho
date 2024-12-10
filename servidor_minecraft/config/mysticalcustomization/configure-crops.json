@@ -1,0 +1,39 @@
+{
+  "mysticalagriculture:sky_stone": {
+    "tier": "mysticalagriculture:1"
+  },
+  "mysticalagriculture:limestone": {
+    "tier": "mysticalagriculture:1"
+  },
+  "mysticalagriculture:dye": {
+    "tier": "mysticalagriculture:1"
+  },
+  "mysticalagriculture:mystical_flower": {
+    "tier": "mysticalagriculture:1"
+  },
+  "mysticalagriculture:coral": {
+    "tier": "mysticalagriculture:1"
+  },
+  "mysticalagriculture:end": {
+    "tier": "mysticalagriculture:2"
+  },
+  "mysticalagriculture:obsidian": {
+    "tier": "mysticalagriculture:2"
+  },
+  "mysticalagriculture:silicon": {
+    "tier": "mysticalagriculture:3"
+  },
+  "mysticalagriculture:manasteel": {
+    "tier": "mysticalagriculture:4"
+  },
+  "mysticalagriculture:draconium": {
+    "tier": "mysticalagradditions:6",
+    "crux": "chroma:draconium_crux"
+  },
+  "mysticalcustomization:alfsteel": {
+    "tier": "mysticalagradditions:6"
+  },
+  "mysticalcustomization:calorite": {
+    "tier": "mysticalagradditions:6"
+  }
+}

@@ -1,0 +1,526 @@
+{
+  "version": 3,
+  "location": "chroma:void_miner_tier_2",
+  "traits": {},
+  "properties": {
+    "rotationState": "ALL",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasDynamicShape": false,
+    "hasCollision": true,
+    "destroyTime": 1.5,
+    "explosionResistance": 6.0,
+    "speedFactor": 1.0,
+    "jumpFactor": 1.0,
+    "friction": 0.6,
+    "harvestLevel": 0,
+    "stackSize": 64,
+    "tabGroup": "multiblocked.all"
+  },
+  "status": {
+    "unformed": {
+      "renderer": {
+        "modelLocation": "multiblocked:void_controller_tier_2",
+        "type": "imodel",
+        "postRenderer": false
+      }
+    },
+    "idle": {
+      "renderer": {
+        "modelLocation": "multiblocked:void_controller_tier_2_idle",
+        "type": "imodel",
+        "postRenderer": false
+      },
+      "parent": "unformed"
+    },
+    "working": {
+      "renderer": {
+        "modelLocation": "multiblocked:void_controller_tier_2_working",
+        "type": "imodel",
+        "postRenderer": false
+      },
+      "parent": "idle"
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "recipeMap": "void_miner_tier_2",
+  "basePattern": {
+    "structureDir": [
+      "LEFT",
+      "UP",
+      "BACK"
+    ],
+    "pattern": [
+      [
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              "
+      ],
+      [
+        "      ABA     ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       A      ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              "
+      ],
+      [
+        "              ",
+        "              ",
+        "              ",
+        "       A      ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       A      ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              "
+      ],
+      [
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "       A      ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       A      ",
+        "              ",
+        "              ",
+        "              ",
+        "              "
+      ],
+      [
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "       D      ",
+        "      DDD     ",
+        "       D      ",
+        "              ",
+        "              ",
+        "              "
+      ],
+      [
+        "              ",
+        "              ",
+        "              ",
+        "      EEE     ",
+        "       F      ",
+        "       F      ",
+        "       F      ",
+        "       F      ",
+        "       F      ",
+        "       D      ",
+        "       D      ",
+        "      C C     ",
+        "     D   D    ",
+        "      C C     ",
+        "       D      ",
+        "              ",
+        "              "
+      ],
+      [
+        " A           A",
+        "              ",
+        "              ",
+        "     EGGGE    ",
+        "              ",
+        "              ",
+        "              ",
+        "       D      ",
+        "       D      ",
+        "      C C     ",
+        "      C C     ",
+        "     C   C    ",
+        "    D     D   ",
+        "     C   C    ",
+        "      C C     ",
+        "       D      ",
+        "              "
+      ],
+      [
+        " B     H     B",
+        " C     H     C",
+        " C     H    AC",
+        " CA  EGIGE  CA",
+        " AC  F J F  C ",
+        "  C  F K F  C ",
+        "  C  F D F  C ",
+        "  CA FD DF AC ",
+        "  AC FD DF CA ",
+        "   C D   D C  ",
+        "   C D   D C  ",
+        "   CD     DC  ",
+        "   AD     DA  ",
+        "    D     D   ",
+        "     D   D    ",
+        "      DDD     ",
+        "       @      "
+      ],
+      [
+        " A           A",
+        "              ",
+        "              ",
+        "     EGGGE    ",
+        "              ",
+        "              ",
+        "              ",
+        "       D      ",
+        "       D      ",
+        "      C C     ",
+        "      C C     ",
+        "     C   C    ",
+        "    D     D   ",
+        "     C   C    ",
+        "      C C     ",
+        "       D      ",
+        "              "
+      ],
+      [
+        "              ",
+        "              ",
+        "              ",
+        "      EEE     ",
+        "       F      ",
+        "       F      ",
+        "       F      ",
+        "       F      ",
+        "       F      ",
+        "       D      ",
+        "       D      ",
+        "      C C     ",
+        "     D   D    ",
+        "      C C     ",
+        "       D      ",
+        "              ",
+        "              "
+      ],
+      [
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "       D      ",
+        "      DDD     ",
+        "       D      ",
+        "              ",
+        "              ",
+        "              "
+      ],
+      [
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "       A      ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       A      ",
+        "              ",
+        "              ",
+        "              ",
+        "              "
+      ],
+      [
+        "              ",
+        "              ",
+        "              ",
+        "       A      ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       A      ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              "
+      ],
+      [
+        "      ABA     ",
+        "       C      ",
+        "       C      ",
+        "       C      ",
+        "       A      ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              ",
+        "              "
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "blocks": [
+          {
+            "id": "mna:decoration/arcane_stone_stairs"
+          }
+        ],
+        "type": "blocks"
+      },
+      "controller": {
+        "location": "chroma:void_miner_tier_2",
+        "type": "component"
+      },
+      "B": {
+        "blocks": [
+          {
+            "id": "chroma:void_item_output_tier_2"
+          },
+          {
+            "id": "chroma:energy_input_tier_2"
+          },
+          {
+            "id": "chroma:void_miner_frame_tier2"
+          }
+        ],
+        "type": "blocks"
+      },
+      "C": {
+        "blocks": [
+          {
+            "id": "chroma:structure_frame"
+          }
+        ],
+        "type": "blocks"
+      },
+      "D": {
+        "blocks": [
+          {
+            "id": "chroma:void_miner_frame_tier2"
+          }
+        ],
+        "type": "blocks"
+      },
+      "E": {
+        "blocks": [
+          {
+            "id": "createdeco:netherite_sheet_stairs"
+          }
+        ],
+        "type": "blocks"
+      },
+      "F": {
+        "blocks": [
+          {
+            "id": "mna:decoration/arcane_stone_wall"
+          }
+        ],
+        "type": "blocks"
+      },
+      "G": {
+        "blocks": [
+          {
+            "id": "minecraft:white_stained_glass"
+          }
+        ],
+        "type": "blocks"
+      },
+      "H": {
+        "blocks": [
+          {
+            "id": "minecraft:orange_stained_glass_pane"
+          }
+        ],
+        "type": "blocks"
+      },
+      "I": {
+        "blocks": [
+          {
+            "id": "minecraft:orange_stained_glass"
+          }
+        ],
+        "type": "blocks"
+      },
+      "J": {
+        "blocks": [
+          {
+            "id": "minecraft:red_sandstone_wall"
+          }
+        ],
+        "type": "blocks"
+      },
+      "K": {
+        "blocks": [
+          {
+            "id": "chroma:void_miner_laser_core_t2"
+          }
+        ],
+        "type": "blocks"
+      },
+      "any": {
+        "type": "any"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ],
+      "C": [
+        "C"
+      ],
+      "D": [
+        "D"
+      ],
+      "E": [
+        "E"
+      ],
+      "F": [
+        "F"
+      ],
+      "G": [
+        "G"
+      ],
+      "H": [
+        "H"
+      ],
+      "I": [
+        "I"
+      ],
+      "J": [
+        "J"
+      ],
+      "K": [
+        "K"
+      ]
+    }
+  }
+}

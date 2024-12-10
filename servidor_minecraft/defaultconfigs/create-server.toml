@@ -13,7 +13,6 @@
 #Packmakers' control panel for internal recipe compat
 [recipes]
 	#.
-	#.
 	#Allow the Mechanical Press to process entire stacks at a time.
 	bulkPressing = false
 	#.
@@ -61,7 +60,6 @@
 #.
 #Parameters and abilities of Create's kinetic mechanisms
 [kinetics]
-	#.
 	#.
 	#Disable the Stress mechanic altogether.
 	disableStress = false
@@ -182,10 +180,6 @@
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
 		movableObsidian = "UNMOVABLE"
 		#.
-		#Configure how Reinforced Deepslate blocks can be moved by contraptions.
-		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		movableReinforcedDeepslate = "UNMOVABLE"
-		#.
 		#Whether items mined or harvested by contraptions should be placed in their mounted storage.
 		moveItemsToStorage = true
 		#.
@@ -238,7 +232,6 @@
 		#Fine tune the kinetic stats of individual components
 		[kinetics.stressValues.v2]
 
-			#.
 			#.
 			#[in Stress Units]
 			#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
@@ -306,7 +299,6 @@
 #Create's liquid manipulation tools
 [fluids]
 	#.
-	#.
 	#[in Buckets]
 	#The amount of liquid a tank can hold per block.
 	#Range: > 1
@@ -331,7 +323,7 @@
 	#[-1 to disable this behaviour]
 	#The minimum amount of fluid blocks the hose pulley needs to find before deeming it an infinite source.
 	#Range: > -1
-	hosePulleyBlockThreshold = 0
+	hosePulleyBlockThreshold = 10000
 	#.
 	#Whether hose pulleys should continue filling up above-threshold sources.
 	fillInfinite = false
@@ -340,16 +332,12 @@
 	#Allowed Values: ALLOW_ALL, DENY_ALL, ALLOW_BY_TAG, DENY_BY_TAG
 	bottomlessFluidMode = "ALLOW_BY_TAG"
 	#.
-	#Whether hose pulleys should be allowed to place fluid sources.
-	fluidFillPlaceFluidSourceBlocks = false
-	#.
-	#Whether open-ended pipes should be allowed to place fluid sources.
-	pipesPlaceFluidSourceBlocks = false
+	#Whether open-ended pipes and hose pulleys should be allowed to place fluid sources.
+	placeFluidSourceBlocks = true
 
 #.
 #Tweaks for logistical components
 [logistics]
-	#.
 	#.
 	#The amount of ticks a funnel waits between item transferrals, when it is not re-activated by redstone.
 	#Range: > 1
@@ -378,14 +366,10 @@
 	#The amount of ticks a brass tunnel waits between distributions.
 	#Range: 1 ~ 10
 	brassTunnelTimer = 10
-	#.
-	#Whether hostile mobs walking near a seat will start riding it.
-	seatHostileMobs = true
 
 #.
 #Everything related to Schematic tools
 [schematics]
-	#.
 	#.
 	#Whether placing a Schematic directly in Creative Mode should replace world blocks with Air
 	creativePrintIncludesAir = false
@@ -393,7 +377,7 @@
 	#[in KiloBytes]
 	#The maximum allowed file size of uploaded Schematics.
 	#Range: > 16
-	maxSchematics = 256
+	maxSchematics = 32767
 	#.
 	#[in Bytes]
 	#The maximum packet size uploaded Schematics are split into.
@@ -423,7 +407,6 @@
 #.
 #Equipment and gadgets added by Create
 [equipment]
-	#.
 	#.
 	#The Maximum Distance to an active mirror for the symmetry wand to trigger.
 	#Range: > 10
@@ -456,7 +439,6 @@
 #.
 #Create's builtin Railway systems
 [trains]
-	#.
 	#.
 	#Whether moving Trains can hurt colliding mobs and players.
 	trainsCauseDamage = true
@@ -514,4 +496,3 @@
 		#The acceleration of powered Trains.
 		#Range: 0.0 ~ 3.4028234663852886E38
 		poweredTrainAcceleration = 3.0
-

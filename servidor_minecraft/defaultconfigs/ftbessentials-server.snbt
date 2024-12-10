@@ -61,7 +61,7 @@
 		# Allows users to kick themselves from the server, for example if they are stuck or desynced
 		kickme: {
 			# Default: true
-			enabled: false
+			enabled: true
 		}
 		
 		# Allows users to view player leaderboard stats.
@@ -73,13 +73,13 @@
 		# Allows users to change their display name, as well as admins to change nicknames for other users
 		nick: {
 			# Default: true
-			enabled: false
+			enabled: true
 		}
 		
 		# Allows users to announce their recording or streaming status to the server by using commands
 		rec: {
 			# Default: true
-			enabled: false
+			enabled: true
 		}
 		
 		# Enables usage of a trash can inventory, which can be used to void unneeded items
@@ -100,7 +100,7 @@
 			cooldown: 30
 			
 			# Default: true
-			enabled: false
+			enabled: true
 			
 			# Max size of the teleport history. This limits how many times you can use /back
 			# You can override this with FTB Ranks using ftbessentials.back.max
@@ -124,7 +124,7 @@
 			cooldown: 10
 			
 			# Default: true
-			enabled: false
+			enabled: true
 			
 			# Max amount of homes a user can have.
 			# You can override this with FTB Ranks using ftbessentials.home.max
@@ -149,7 +149,7 @@
 			cooldown: 600
 			
 			# Default: true
-			enabled: false
+			enabled: true
 			
 			# /rtp max distance from spawn point
 			# Default: 100000
@@ -180,7 +180,7 @@
 			cooldown: 10
 			
 			# Default: true
-			enabled: false
+			enabled: true
 			
 			# Warm-up time before /spawn command executes (in seconds)
 			# You can override this with FTB Ranks using ftbessentials.spawn.warmup
@@ -199,7 +199,7 @@
 			cooldown: 10
 			
 			# Default: true
-			enabled: false
+			enabled: true
 			
 			# Warm-up time before /tpa command executes (in seconds)
 			# You can override this with FTB Ranks using ftbessentials.tpa.warmup
@@ -211,7 +211,7 @@
 		# Allows admins to teleport to the location a user was last seen at
 		tpl: {
 			# Default: true
-			enabled: false
+			enabled: true
 		}
 		
 		# Allows admins to teleport to dimension
@@ -229,7 +229,7 @@
 			cooldown: 10
 			
 			# Default: true
-			enabled: false
+			enabled: true
 			
 			# Warm-up time before /warp command executes (in seconds)
 			# You can override this with FTB Ranks using ftbessentials.warp.warmup

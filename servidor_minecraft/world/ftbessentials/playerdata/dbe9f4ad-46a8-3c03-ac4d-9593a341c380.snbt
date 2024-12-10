@@ -3,9 +3,9 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: -216, y: 72, z: 783, time: 1733791199589L, xRot: 34.19982f, yRot: -115.20813f }
-	recording: "none"
+	name: "Mobyius"
+	last_seen: { dim: "minecraft:overworld", x: -10, y: 66, z: 15, time: 1733865642447L, xRot: 37.649975f, yRot: -147.59967f }
+	recording: 0
 	teleport_history: [ ]
 	homes: { }
-	kit_use_times: { }
 }
