@@ -107,9 +107,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutters": {
+    "criteria": {
+      "has_planks": "2024-12-10 21:29:04 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:19:23 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2024-12-10 21:27:44 +0000"
     },
     "done": true
   },
@@ -161,6 +173,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-10 21:29:01 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:19:23 +0000"
@@ -173,15 +191,21 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_purple_from_white": {
+  "apotheosis:affix/root": {
     "criteria": {
-      "has_the_recipe": "2024-12-10 21:19:23 +0000"
+      "sword": "2024-12-10 21:29:42 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2024-12-10 21:19:22 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 21:19:23 +0000"
     },
     "done": true
   },
@@ -233,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-10 21:29:23 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/birch": {
     "criteria": {
       "has_birch": "2024-12-10 21:19:22 +0000"
@@ -272,6 +302,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:19:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-10 21:31:33 +0000"
     },
     "done": true
   },
@@ -365,9 +401,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-12-10 21:31:20 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:19:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-10 21:31:20 +0000"
     },
     "done": true
   },
@@ -397,6 +445,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2024-12-10 21:31:59 +0000",
+      "minecraft:flower_forest": "2024-12-10 21:29:12 +0000",
       "minecraft:plains": "2024-12-10 21:19:23 +0000"
     },
     "done": false
@@ -431,6 +481,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-10 21:29:23 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/nether": {
     "criteria": {
       "has_nether_brick": "2024-12-10 21:19:22 +0000"
@@ -449,9 +505,27 @@
     },
     "done": true
   },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2024-12-10 21:29:42 +0000"
+    },
+    "done": true
+  },
   "upgradednetherite:recipes/upgraded_netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_leggings": "2024-12-10 21:19:22 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2024-12-10 21:28:46 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2024-12-10 21:19:22 +0000"
     },
     "done": true
   },
@@ -461,15 +535,15 @@
     },
     "done": true
   },
-  "mcwfences:recipes/crimson": {
-    "criteria": {
-      "has_crimson": "2024-12-10 21:19:22 +0000"
-    },
-    "done": true
-  },
   "betteranimalsplus:root": {
     "criteria": {
       "tick": "2024-12-10 21:19:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-10 21:31:20 +0000"
     },
     "done": true
   },
@@ -497,9 +571,21 @@
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2024-12-10 21:31:20 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:19:23 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/uncommon": {
+    "criteria": {
+      "sword": "2024-12-10 21:29:42 +0000"
     },
     "done": true
   },
@@ -515,6 +601,12 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-12-10 21:29:01 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-10 21:19:22 +0000"
@@ -524,6 +616,12 @@
   "comforts:hammock_black_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:19:23 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2024-12-10 21:28:00 +0000"
     },
     "done": true
   },
@@ -550,6 +648,13 @@
       "craftingtable": "2024-12-10 21:19:22 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2024-12-10 21:31:20 +0000",
+      "minecraft:zombie": "2024-12-10 21:31:32 +0000"
+    },
+    "done": false
   },
   "mcwfences:recipes/quartz": {
     "criteria": {
@@ -668,6 +773,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:19:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-10 21:29:04 +0000"
     },
     "done": true
   },

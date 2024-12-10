@@ -4,7 +4,7 @@
 	god: false
 	nick: ""
 	name: "Mobyius"
-	last_seen: { dim: "minecraft:overworld", x: -10, y: 66, z: 15, time: 1733865642447L, xRot: 37.649975f, yRot: -147.59967f }
+	last_seen: { dim: "minecraft:overworld", x: -10, y: 66, z: 15, time: 1733865864632L, xRot: 37.649975f, yRot: -147.59967f }
 	recording: 0
 	teleport_history: [ ]
 	homes: { }
