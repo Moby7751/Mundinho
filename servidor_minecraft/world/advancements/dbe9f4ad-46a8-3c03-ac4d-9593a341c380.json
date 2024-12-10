@@ -185,9 +185,21 @@
     },
     "done": true
   },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2024-12-10 23:53:38 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2024-12-10 21:19:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "certus": "2024-12-10 23:50:21 +0000"
     },
     "done": true
   },
@@ -449,6 +461,12 @@
     },
     "done": true
   },
+  "mna:tier_0/mine_vinteum": {
+    "criteria": {
+      "has_stone": "2024-12-10 23:49:37 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:19:23 +0000"
@@ -648,6 +666,12 @@
     },
     "done": true
   },
+  "ae2:main/quartz_crystal": {
+    "criteria": {
+      "certus": "2024-12-10 23:50:55 +0000"
+    },
+    "done": true
+  },
   "upgradednetherite:recipes/upgraded_netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_leggings": "2024-12-10 21:19:22 +0000"
@@ -780,6 +804,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2024-12-10 23:50:46 +0000"
+    },
+    "done": true
+  },
   "architects_palette:main/root": {
     "criteria": {
       "craftingtable": "2024-12-10 21:19:22 +0000"
@@ -798,6 +828,12 @@
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2024-12-10 21:19:22 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2024-12-10 23:53:38 +0000"
     },
     "done": true
   },
