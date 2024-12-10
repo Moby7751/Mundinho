@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/oak_planks": {
+    "criteria": {
+      "has_planks": "2024-12-10 21:47:58 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:19:23 +0000"
@@ -401,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-10 21:48:02 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:19:23 +0000"
@@ -505,8 +517,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2024-12-10 21:44:26 +0000",
       "minecraft:beach": "2024-12-10 21:35:55 +0000",
       "minecraft:river": "2024-12-10 21:31:59 +0000",
+      "minecraft:ocean": "2024-12-10 21:44:56 +0000",
       "minecraft:flower_forest": "2024-12-10 21:29:12 +0000",
       "minecraft:plains": "2024-12-10 21:19:23 +0000"
     },
@@ -714,6 +728,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-10 21:38:36 +0000",
       "minecraft:spider": "2024-12-10 21:31:20 +0000",
+      "minecraft:creeper": "2024-12-10 21:51:26 +0000",
       "minecraft:zombie": "2024-12-10 21:31:32 +0000"
     },
     "done": false
