@@ -11661,3 +11661,4 @@ net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of l
 [10Dec2024 22:18:58.729] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession immersiveengineering:electrician ?
 [10Dec2024 22:38:58.774] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
 [10Dec2024 22:38:58.774] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[10Dec2024 22:54:40.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mobyius: Set own game mode to Spectator Mode]
