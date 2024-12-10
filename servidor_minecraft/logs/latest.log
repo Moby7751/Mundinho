@@ -11668,3 +11668,5 @@ net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of l
 [10Dec2024 23:13:14.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mobyius: Set own game mode to Creative Mode]
 [10Dec2024 23:14:04.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mobyius: Teleported Mobyius to 60.500000, 157.256833, -91.500000]
 [10Dec2024 23:14:39.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mobyius moved too quickly! -10.848536165741564,0.0,-0.9362281908917964
+[10Dec2024 23:19:01.910] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[10Dec2024 23:19:01.910] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
