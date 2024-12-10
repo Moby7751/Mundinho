@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "mna:tier_0/smelt_vinteum": {
+    "criteria": {
+      "has_stone": "2024-12-10 23:36:29 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:19:23 +0000"
@@ -242,6 +248,12 @@
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:19:23 +0000"
+    },
+    "done": true
+  },
+  "mna:tier_0/codex_trade": {
+    "criteria": {
+      "has_stone": "2024-12-10 23:37:11 +0000"
     },
     "done": true
   },
@@ -554,6 +566,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2024-12-10 21:44:26 +0000",
+      "minecraft:windswept_hills": "2024-12-10 23:38:58 +0000",
       "minecraft:beach": "2024-12-10 21:35:55 +0000",
       "minecraft:river": "2024-12-10 21:31:59 +0000",
       "minecraft:cold_ocean": "2024-12-10 23:32:22 +0000",
@@ -566,6 +579,12 @@
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:19:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 23:37:48 +0000"
     },
     "done": true
   },
@@ -614,6 +633,12 @@
   "upgradednetherite:recipes/upgraded_netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_pickaxe": "2024-12-10 21:19:22 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-10 23:37:07 +0000"
     },
     "done": true
   },
