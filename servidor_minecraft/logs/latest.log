@@ -11507,3 +11507,55 @@ net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of l
 [10Dec2024 21:35:28.768] [Netty Epoll Server IO #1/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument@646d17df (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument) - will not be sent to client!
 [10Dec2024 21:35:31.844] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/836, l='ServerLevel[world]', x=15.13, y=66.00, z=36.10] died, message: 'Unemployed was slain by Zombie'
 [10Dec2024 21:35:40.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mobyius has reached the goal [Here They Come]
+[10Dec2024 21:36:38.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/857, l='ServerLevel[world]', x=7.30, y=66.00, z=37.50] died, message: 'Unemployed was slain by Zombie'
+[10Dec2024 21:36:41.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mobyius has made the advancement [An Ancient Crystal]
+[10Dec2024 21:36:42.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mobyius has made the advancement [One Man's Trash]
+[10Dec2024 21:36:42.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mobyius has made the advancement [Getting an Upgrade]
+[10Dec2024 21:36:43.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mobyius has made the advancement [Knowledge of Death]
+[10Dec2024 21:36:43.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mobyius has made the advancement [A Strange Grave Dust]
+[10Dec2024 21:37:00.395] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/858, l='ServerLevel[world]', x=24.93, y=63.56, z=-29.30] died, message: 'Unemployed was slain by Zombie'
+[10Dec2024 21:37:00.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/841, l='ServerLevel[world]', x=26.28, y=64.00, z=11.53] died, message: 'Unemployed was slain by Zombie'
+[10Dec2024 21:37:09.194] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/856, l='ServerLevel[world]', x=30.07, y=63.56, z=-29.30] died, message: 'Unemployed was slain by Zombie'
+[10Dec2024 21:38:22.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mobyius has made the advancement [Knowledge raises the soul]
+[10Dec2024 21:38:44.594] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c6b65e3
+[10Dec2024 21:38:44.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: olyverr[/172.30.210.193:55326] logged in with entity id 6583 at (4.5, 69.0, 3.5)
+[10Dec2024 21:38:44.645] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to olyverr
+[10Dec2024 21:38:44.645] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to olyverr
+[10Dec2024 21:38:44.646] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to olyverr
+[10Dec2024 21:38:44.646] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to olyverr
+[10Dec2024 21:38:44.648] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to olyverr
+[10Dec2024 21:38:44.651] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to olyverr
+[10Dec2024 21:38:44.652] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to olyverr
+[10Dec2024 21:38:44.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr joined the game
+[10Dec2024 21:38:44.867] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/Mundinho/servidor_minecraft/config/jecalculation/records.json.
+[10Dec2024 21:38:44.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr has made the advancement [Christmas]
+[10Dec2024 21:38:44.976] [Server thread/INFO] [Waila/]: Syncing config to olyverr (28d3676d-328a-319e-bd60-a237418acf9f)
+[10Dec2024 21:39:30.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mobyius has made the advancement [Stone Age]
+[10Dec2024 21:40:15.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12280ms or 245 ticks behind
+[10Dec2024 21:40:20.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mobyius has made the advancement [It Certainly Seems Rare...]
+[10Dec2024 21:40:23.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mobyius has made the advancement [Diamonds!]
+[10Dec2024 21:41:30.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr has made the advancement [Not Quite Common]
+[10Dec2024 21:41:30.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr has made the advancement [A Stunning Fixation]
+[10Dec2024 21:42:22.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=66, z=14}
+[10Dec2024 21:42:52.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mobyius: Made olyverr a server operator]
+[10Dec2024 21:42:52.867] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@17d26507 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[10Dec2024 21:42:52.867] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@49796de1 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[10Dec2024 21:42:52.868] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument@664876a4 (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument) - will not be sent to client!
+[10Dec2024 21:42:52.868] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument@5c7ba85 (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument) - will not be sent to client!
+[10Dec2024 21:42:52.868] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument@21a71fed (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument) - will not be sent to client!
+[10Dec2024 21:42:52.868] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument@5c468d40 (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument) - will not be sent to client!
+[10Dec2024 21:42:52.869] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument@7dac24c8 (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument) - will not be sent to client!
+[10Dec2024 21:42:52.869] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument@791e2991 (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument) - will not be sent to client!
+[10Dec2024 21:42:52.869] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument@646d17df (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument) - will not be sent to client!
+[10Dec2024 21:42:52.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr has made the advancement ['X' Marks the Spot]
+[10Dec2024 21:42:57.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr has made the advancement [Acquire Hardware]
+[10Dec2024 21:43:12.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4509ms or 90 ticks behind
+[10Dec2024 21:43:14.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr has made the advancement [An Ancient Crystal]
+[10Dec2024 21:43:14.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr has made the advancement [Suit Up]
+[10Dec2024 21:43:43.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr has made the advancement [I Found It Underground]
+[10Dec2024 21:43:43.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr has made the advancement [One Man's Trash]
+[10Dec2024 21:43:55.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mobyius: Gamerule keepInventory is now set to: true]
+[10Dec2024 21:44:27.514] [Worker-Main-24/WARN] [ModernFix/]: The namespace supplementaries contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[10Dec2024 21:44:44.358] [Worker-Main-22/WARN] [ModernFix/]: The namespace yungsextras contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[10Dec2024 21:45:01.276] [Worker-Main-23/WARN] [yungsextras/]: Failed to create invalid feature yungsextras:swamp/arch/swamp_double_arch_8
+[10Dec2024 21:45:15.175] [Worker-Main-22/WARN] [yungsextras/]: Failed to create invalid feature yungsextras:swamp/arch/swamp_arch_11

@@ -1,0 +1,11 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	name: "olyverr"
+	last_seen: { dim: "minecraft:overworld", x: 4, y: 69, z: 3, time: 1733866724974L, xRot: 0.0f, yRot: 0.0f }
+	recording: 0
+	teleport_history: [ ]
+	homes: { }
+}

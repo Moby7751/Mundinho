@@ -1,0 +1,28 @@
+{
+	version: 1
+	uuid: "28d3676d328a319ebd60a237418acf9f"
+	name: "olyverr"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		29F3267165DE9BBA: 1
+	}
+	started: {
+		29F3267165DE9BBA: 1733866725142L
+		0000000000000001: 1733866725142L
+		759E4A744C3541E0: 1733866725142L
+		384723845C908742: 1733866725142L
+	}
+	completed: {
+		29F3267165DE9BBA: 1733866725143L
+		759E4A744C3541E0: 1733866725143L
+		384723845C908742: 1733866725143L
+	}
+	claimed_rewards: {
+		"00000000000000000000000000000000:326778470BC9601B": 1733866725144L
+	}
+	pinned_quests: [ ]
+}
