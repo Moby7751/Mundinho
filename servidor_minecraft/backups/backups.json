@@ -1,0 +1,17 @@
+{
+  "backups": [
+    {
+      "worldName": "world",
+      "createTime": 1733868000135,
+      "backupLocation": "/workspaces/Mundinho/servidor_minecraft/backups/2024-12-10_22-0-0.zip",
+      "size": 38509351,
+      "ratio": 0.63066137,
+      "sha1": "71556c23feb000c723e74553da686b6ec1dbc9f9",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    }
+  ]
+}

@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-10 22:03:37 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:38:45 +0000"
@@ -116,6 +122,12 @@
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:38:45 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2024-12-10 22:01:35 +0000"
     },
     "done": true
   },
@@ -215,6 +227,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/oak_planks": {
+    "criteria": {
+      "has_planks": "2024-12-10 22:01:49 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:38:45 +0000"
@@ -299,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-10 21:57:45 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:38:45 +0000"
@@ -344,6 +368,12 @@
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-10 22:01:53 +0000"
     },
     "done": true
   },
@@ -524,6 +554,12 @@
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2024-12-10 21:38:44 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2024-12-10 21:57:58 +0000"
     },
     "done": true
   },

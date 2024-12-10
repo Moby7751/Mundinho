@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 21:54:06 +0000"
+    },
+    "done": true
+  },
   "upgradednetherite:recipes/upgraded_netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_shovel": "2024-12-10 21:19:22 +0000"

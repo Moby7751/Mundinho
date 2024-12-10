@@ -11566,3 +11566,90 @@ net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of l
 [10Dec2024 21:51:56.502] [Worker-Main-24/WARN] [ModernFix/]: The namespace pneumaticcraft contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [10Dec2024 21:51:56.519] [Worker-Main-24/WARN] [ModernFix/]: The namespace farmersdelight contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [10Dec2024 21:54:06.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mobyius has made the advancement [Ashes 'n Bones]
+[10Dec2024 21:57:28.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [olyverr: Teleported olyverr to Mobyius]
+[10Dec2024 21:57:45.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr has made the advancement [Isn't It Iron Pick]
+[10Dec2024 21:57:58.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr has made the advancement [How'd You Get This?]
+[10Dec2024 21:58:09.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <olyverr> me da um ferro pls
+[10Dec2024 21:58:12.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <olyverr> ?
+[10Dec2024 21:58:34.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <olyverr> vlw
+[10Dec2024 21:58:39.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mobyius> Dnd
+[10Dec2024 22:00:00.015] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[10Dec2024 22:00:00.016] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Found world folder at /workspaces/Mundinho/servidor_minecraft/./world/.
+[10Dec2024 22:00:00.134] [ftbbackups2_Worker-1/ERROR] [net.creeperhost.ftbbackups.FTBBackups/]: Current world size: 58.2MB Current Available space: 17.9GB
+[10Dec2024 22:00:00.135] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to true
+[10Dec2024 22:00:00.135] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world mythicbotany:alfheim save state to true
+[10Dec2024 22:00:00.135] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:glacio_orbit save state to true
+[10Dec2024 22:00:00.135] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world blue_skies:everdawn save state to true
+[10Dec2024 22:00:00.135] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:mars save state to true
+[10Dec2024 22:00:00.136] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world javd:void save state to true
+[10Dec2024 22:00:00.136] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:earth_orbit save state to true
+[10Dec2024 22:00:00.136] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world jamd:mining save state to true
+[10Dec2024 22:00:00.136] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to true
+[10Dec2024 22:00:00.136] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:moon_orbit save state to true
+[10Dec2024 22:00:00.136] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world blue_skies:everbright save state to true
+[10Dec2024 22:00:00.136] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:venus save state to true
+[10Dec2024 22:00:00.136] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:moon save state to true
+[10Dec2024 22:00:00.136] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world compactmachines:compact_world save state to true
+[10Dec2024 22:00:00.136] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:glacio save state to true
+[10Dec2024 22:00:00.137] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:mars_orbit save state to true
+[10Dec2024 22:00:00.137] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to true
+[10Dec2024 22:00:00.137] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world undergarden:undergarden save state to true
+[10Dec2024 22:00:00.137] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:mercury_orbit save state to true
+[10Dec2024 22:00:00.137] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to true
+[10Dec2024 22:00:00.137] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:mercury save state to true
+[10Dec2024 22:00:00.137] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:venus_orbit save state to true
+[10Dec2024 22:00:00.143] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/Mundinho/servidor_minecraft/backups/backups.json
+[10Dec2024 22:00:00.145] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Waiting for world save to complete.
+[10Dec2024 22:00:00.834] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Detected MC Version 1.18.2, Data version 2975
+[10Dec2024 22:00:00.834] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Save Name: world
+[10Dec2024 22:00:00.924] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/Mundinho/servidor_minecraft/./world/./DIM-1
+[10Dec2024 22:00:00.925] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder compactmachines:compact_world
+[10Dec2024 22:00:00.926] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder mythicbotany:alfheim
+[10Dec2024 22:00:00.926] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder javd:void
+[10Dec2024 22:00:00.927] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder beyond_earth:moon_orbit
+[10Dec2024 22:00:00.927] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder beyond_earth:earth_orbit
+[10Dec2024 22:00:00.927] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder beyond_earth:glacio
+[10Dec2024 22:00:00.927] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder beyond_earth:venus
+[10Dec2024 22:00:00.928] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder beyond_earth:venus_orbit
+[10Dec2024 22:00:00.928] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder beyond_earth:mars
+[10Dec2024 22:00:00.928] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder beyond_earth:moon
+[10Dec2024 22:00:00.928] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder beyond_earth:mercury_orbit
+[10Dec2024 22:00:00.929] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder beyond_earth:mars_orbit
+[10Dec2024 22:00:00.929] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder beyond_earth:mercury
+[10Dec2024 22:00:00.929] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder beyond_earth:glacio_orbit
+[10Dec2024 22:00:00.929] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder jamd:mining
+[10Dec2024 22:00:00.930] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder undergarden:undergarden
+[10Dec2024 22:00:00.930] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder blue_skies:everdawn
+[10Dec2024 22:00:00.930] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder blue_skies:everbright
+[10Dec2024 22:00:00.930] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ae2:spatial_storage
+[10Dec2024 22:00:00.930] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/Mundinho/servidor_minecraft/./world/./DIM1
+[10Dec2024 22:00:03.413] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup preview created, Scan took 374ms, Capture took 2316ms
+[10Dec2024 22:00:06.157] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to false
+[10Dec2024 22:00:06.157] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world mythicbotany:alfheim save state to false
+[10Dec2024 22:00:06.157] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:glacio_orbit save state to false
+[10Dec2024 22:00:06.157] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world blue_skies:everdawn save state to false
+[10Dec2024 22:00:06.157] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:mars save state to false
+[10Dec2024 22:00:06.157] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world javd:void save state to false
+[10Dec2024 22:00:06.157] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:earth_orbit save state to false
+[10Dec2024 22:00:06.157] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world jamd:mining save state to false
+[10Dec2024 22:00:06.157] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to false
+[10Dec2024 22:00:06.157] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:moon_orbit save state to false
+[10Dec2024 22:00:06.158] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world blue_skies:everbright save state to false
+[10Dec2024 22:00:06.158] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:venus save state to false
+[10Dec2024 22:00:06.158] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:moon save state to false
+[10Dec2024 22:00:06.158] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world compactmachines:compact_world save state to false
+[10Dec2024 22:00:06.158] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:glacio save state to false
+[10Dec2024 22:00:06.158] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:mars_orbit save state to false
+[10Dec2024 22:00:06.158] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to false
+[10Dec2024 22:00:06.158] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world undergarden:undergarden save state to false
+[10Dec2024 22:00:06.158] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:mercury_orbit save state to false
+[10Dec2024 22:00:06.158] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to false
+[10Dec2024 22:00:06.158] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:mercury save state to false
+[10Dec2024 22:00:06.158] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world beyond_earth:venus_orbit save state to false
+[10Dec2024 22:00:06.206] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup size 36.7MB World Size 58.2MB
+[10Dec2024 22:00:06.207] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/Mundinho/servidor_minecraft/backups/backups.json
+[10Dec2024 22:00:06.208] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: New backup created at /workspaces/Mundinho/servidor_minecraft/backups/2024-12-10_22-0-0.zip size: 36.7MB Took: 0m, 6s, 21ms Sha1: 71556c23feb000c723e74553da686b6ec1dbc9f9
+[10Dec2024 22:04:47.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr has made the advancement [Monster Hunter]
+[10Dec2024 22:04:47.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr has made the advancement [A Strange Grave Dust]
+[10Dec2024 22:05:08.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mobyius has made the advancement [Sky of Beginning]
+[10Dec2024 22:06:29.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [olyverr: Teleported olyverr to Mobyius]

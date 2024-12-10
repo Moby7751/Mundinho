@@ -6,6 +6,6 @@
 	name: "olyverr"
 	last_seen: { dim: "minecraft:overworld", x: 4, y: 69, z: 3, time: 1733866724974L, xRot: 0.0f, yRot: 0.0f }
 	recording: 0
-	teleport_history: [ ]
+	teleport_history: [{ dim: "minecraft:overworld", x: -15, y: 75, z: 12, time: 1733867848700L, xRot: 24.449785f, yRot: 173.09186f }]
 	homes: { }
 }
