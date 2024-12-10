@@ -11659,3 +11659,5 @@ net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of l
 [10Dec2024 22:07:28.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr left the game
 [10Dec2024 22:18:58.729] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
 [10Dec2024 22:18:58.729] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession immersiveengineering:electrician ?
+[10Dec2024 22:38:58.774] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[10Dec2024 22:38:58.774] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
