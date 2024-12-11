@@ -6754,3 +6754,99 @@ net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of l
 [11Dec2024 17:18:52.160] [Worker-Main-7/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [11Dec2024 17:20:11.917] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
 [11Dec2024 17:20:11.917] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession immersiveengineering:electrician ?
+[11Dec2024 17:23:59.269] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66ff605b
+[11Dec2024 17:23:59.299] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/Mundinho/servidor_minecraft/config/jecalculation/records.json.
+[11Dec2024 17:23:59.301] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:crystal_seashelf removed now.
+[11Dec2024 17:23:59.302] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:boots_tome removed now.
+[11Dec2024 17:23:59.302] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:beeshelf removed now.
+[11Dec2024 17:23:59.303] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:helmet_tome removed now.
+[11Dec2024 17:23:59.304] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:library removed now.
+[11Dec2024 17:23:59.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: wstweaks:wither_skeleton_skull removed now.
+[11Dec2024 17:23:59.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:melonshelf removed now.
+[11Dec2024 17:23:59.305] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:vial_of_extraction removed now.
+[11Dec2024 17:23:59.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:pearl_endshelf removed now.
+[11Dec2024 17:23:59.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:enchanted_golden_apple removed now.
+[11Dec2024 17:23:59.307] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:other_tome removed now.
+[11Dec2024 17:23:59.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:vial_of_expulsion removed now.
+[11Dec2024 17:23:59.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:scrap_tome removed now.
+[11Dec2024 17:23:59.308] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:bow_tome removed now.
+[11Dec2024 17:23:59.309] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:heart_seashelf removed now.
+[11Dec2024 17:23:59.309] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:weapon_tome removed now.
+[11Dec2024 17:23:59.311] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:draconic_endshelf removed now.
+[11Dec2024 17:23:59.312] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:chestplate_tome removed now.
+[11Dec2024 17:23:59.315] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_alfsteel_aiot removed now.
+[11Dec2024 17:23:59.316] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:seashelf removed now.
+[11Dec2024 17:23:59.316] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[11Dec2024 17:23:59.316] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:hellshelf removed now.
+[11Dec2024 17:23:59.317] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:glowing_hellshelf removed now.
+[11Dec2024 17:23:59.317] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:endshelf removed now.
+[11Dec2024 17:23:59.318] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[11Dec2024 17:23:59.319] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_alfsteel_aiot_tipped removed now.
+[11Dec2024 17:23:59.320] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:pickaxe_tome removed now.
+[11Dec2024 17:23:59.321] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:blazing_hellshelf removed now.
+[11Dec2024 17:23:59.322] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:fishing_tome removed now.
+[11Dec2024 17:23:59.322] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:prismatic_web removed now.
+[11Dec2024 17:23:59.323] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:ender_lead removed now.
+[11Dec2024 17:23:59.323] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:leggings_tome removed now.
+[11Dec2024 17:23:59.325] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:crystal_seashelf removed now.
+[11Dec2024 17:23:59.326] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:boots_tome removed now.
+[11Dec2024 17:23:59.326] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:beeshelf removed now.
+[11Dec2024 17:23:59.326] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:helmet_tome removed now.
+[11Dec2024 17:23:59.327] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:library removed now.
+[11Dec2024 17:23:59.328] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: wstweaks:wither_skeleton_skull removed now.
+[11Dec2024 17:23:59.328] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:melonshelf removed now.
+[11Dec2024 17:23:59.328] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:vial_of_extraction removed now.
+[11Dec2024 17:23:59.329] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:pearl_endshelf removed now.
+[11Dec2024 17:23:59.329] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:enchanted_golden_apple removed now.
+[11Dec2024 17:23:59.330] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:other_tome removed now.
+[11Dec2024 17:23:59.330] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:vial_of_expulsion removed now.
+[11Dec2024 17:23:59.331] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:scrap_tome removed now.
+[11Dec2024 17:23:59.331] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:bow_tome removed now.
+[11Dec2024 17:23:59.332] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:heart_seashelf removed now.
+[11Dec2024 17:23:59.332] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:weapon_tome removed now.
+[11Dec2024 17:23:59.334] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:draconic_endshelf removed now.
+[11Dec2024 17:23:59.334] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:chestplate_tome removed now.
+[11Dec2024 17:23:59.337] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_alfsteel_aiot removed now.
+[11Dec2024 17:23:59.338] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:seashelf removed now.
+[11Dec2024 17:23:59.338] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[11Dec2024 17:23:59.339] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:hellshelf removed now.
+[11Dec2024 17:23:59.339] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:glowing_hellshelf removed now.
+[11Dec2024 17:23:59.340] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:endshelf removed now.
+[11Dec2024 17:23:59.340] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[11Dec2024 17:23:59.341] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_alfsteel_aiot_tipped removed now.
+[11Dec2024 17:23:59.342] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:pickaxe_tome removed now.
+[11Dec2024 17:23:59.343] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:blazing_hellshelf removed now.
+[11Dec2024 17:23:59.344] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:fishing_tome removed now.
+[11Dec2024 17:23:59.344] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:prismatic_web removed now.
+[11Dec2024 17:23:59.345] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:ender_lead removed now.
+[11Dec2024 17:23:59.345] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:leggings_tome removed now.
+[11Dec2024 17:23:59.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: olyverr[/172.30.210.193:60410] logged in with entity id 9396 at (-266.6155225833978, 67.0, -100.18955712583694)
+[11Dec2024 17:23:59.392] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to olyverr
+[11Dec2024 17:23:59.392] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to olyverr
+[11Dec2024 17:23:59.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to olyverr
+[11Dec2024 17:23:59.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to olyverr
+[11Dec2024 17:23:59.395] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to olyverr
+[11Dec2024 17:23:59.398] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to olyverr
+[11Dec2024 17:23:59.399] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to olyverr
+[11Dec2024 17:23:59.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr joined the game
+[11Dec2024 17:23:59.588] [Server thread/INFO] [Waila/]: Syncing config to olyverr (28d3676d-328a-319e-bd60-a237418acf9f)
+[11Dec2024 17:23:59.916] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@321bcca (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 17:23:59.917] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2232c16d (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 17:23:59.917] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument@1a351dc9 (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument) - will not be sent to client!
+[11Dec2024 17:23:59.918] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument@455ab640 (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument) - will not be sent to client!
+[11Dec2024 17:23:59.918] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument@1b2b0df5 (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument) - will not be sent to client!
+[11Dec2024 17:23:59.919] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument@71641242 (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument) - will not be sent to client!
+[11Dec2024 17:23:59.919] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument@221bbfeb (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument) - will not be sent to client!
+[11Dec2024 17:23:59.920] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument@438d94af (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument) - will not be sent to client!
+[11Dec2024 17:23:59.920] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument@611c4298 (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument) - will not be sent to client!
+[11Dec2024 17:24:00.071] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@321bcca (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 17:24:00.071] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2232c16d (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[11Dec2024 17:24:00.071] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument@1a351dc9 (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument) - will not be sent to client!
+[11Dec2024 17:24:00.072] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument@455ab640 (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument) - will not be sent to client!
+[11Dec2024 17:24:00.072] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument@1b2b0df5 (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument) - will not be sent to client!
+[11Dec2024 17:24:00.072] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument@71641242 (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityArgument) - will not be sent to client!
+[11Dec2024 17:24:00.072] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument@221bbfeb (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument) - will not be sent to client!
+[11Dec2024 17:24:00.072] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument@438d94af (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument) - will not be sent to client!
+[11Dec2024 17:24:00.073] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument@611c4298 (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument) - will not be sent to client!
+[11Dec2024 17:26:16.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [olyverr: Teleported olyverr to Mobyius]
+[11Dec2024 17:30:25.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr has made the advancement [We do a little trolling...]
