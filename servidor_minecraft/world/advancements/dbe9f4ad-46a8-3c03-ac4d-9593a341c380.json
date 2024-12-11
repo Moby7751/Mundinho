@@ -585,11 +585,15 @@
     "criteria": {
       "minecraft:sunflower_plains": "2024-12-10 21:44:26 +0000",
       "minecraft:windswept_hills": "2024-12-10 23:38:58 +0000",
+      "minecraft:bamboo_jungle": "2024-12-11 16:56:56 +0000",
       "minecraft:beach": "2024-12-10 21:35:55 +0000",
       "minecraft:river": "2024-12-10 21:31:59 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-11 16:57:04 +0000",
       "minecraft:cold_ocean": "2024-12-10 23:32:22 +0000",
+      "minecraft:forest": "2024-12-11 16:58:02 +0000",
       "minecraft:ocean": "2024-12-10 21:44:56 +0000",
       "minecraft:flower_forest": "2024-12-10 21:29:12 +0000",
+      "minecraft:savanna": "2024-12-11 16:58:35 +0000",
       "minecraft:plains": "2024-12-10 21:19:23 +0000"
     },
     "done": false
@@ -750,6 +754,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-11 16:44:42 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:19:23 +0000"
@@ -827,6 +837,7 @@
       "minecraft:skeleton": "2024-12-10 21:38:36 +0000",
       "minecraft:spider": "2024-12-10 21:31:20 +0000",
       "minecraft:creeper": "2024-12-10 21:51:26 +0000",
+      "minecraft:enderman": "2024-12-11 16:48:46 +0000",
       "minecraft:zombie": "2024-12-10 21:31:32 +0000"
     },
     "done": false
