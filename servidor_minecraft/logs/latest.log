@@ -6751,3 +6751,6 @@ net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of l
 [11Dec2024 17:00:09.220] [Worker-Main-5/WARN] [ModernFix/]: The namespace yungsbridges contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [11Dec2024 17:00:12.549] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
 [11Dec2024 17:00:26.939] [Worker-Main-7/WARN] [yungsextras/]: Failed to create invalid feature yungsextras:swamp/arch/swamp_double_arch_19
+[11Dec2024 17:18:52.160] [Worker-Main-7/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[11Dec2024 17:20:11.917] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[11Dec2024 17:20:11.917] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession immersiveengineering:electrician ?
