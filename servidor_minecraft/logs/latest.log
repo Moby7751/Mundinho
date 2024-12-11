@@ -6850,3 +6850,6 @@ net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of l
 [11Dec2024 17:24:00.073] [Netty Epoll Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument@611c4298 (class it.hurts.sskirillss.relics.commands.arguments.RelicAbilityStatArgument) - will not be sent to client!
 [11Dec2024 17:26:16.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [olyverr: Teleported olyverr to Mobyius]
 [11Dec2024 17:30:25.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr has made the advancement [We do a little trolling...]
+[11Dec2024 17:34:50.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [olyverr: The difficulty has been set to Peaceful]
+[11Dec2024 17:41:07.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr has made the advancement [A Strange Ore]
+[11Dec2024 17:41:11.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: olyverr has made the advancement [Stone Age]
