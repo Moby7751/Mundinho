@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2024-12-11 17:41:11 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:38:45 +0000"
@@ -176,6 +182,12 @@
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2024-12-10 21:38:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "certus": "2024-12-11 17:49:28 +0000"
     },
     "done": true
   },
@@ -407,6 +419,12 @@
     },
     "done": true
   },
+  "mna:tier_0/mine_vinteum": {
+    "criteria": {
+      "has_stone": "2024-12-11 17:41:07 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:38:45 +0000"
@@ -500,6 +518,12 @@
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2024-12-10 21:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-11 17:41:11 +0000"
     },
     "done": true
   },
@@ -606,6 +630,12 @@
     },
     "done": true
   },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_savanna": "2024-12-11 17:48:16 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2024-12-10 21:38:44 +0000"
@@ -693,6 +723,12 @@
   "upgradednetherite:recipes/upgraded_netherite_ingot": {
     "criteria": {
       "has_netherite_ingot": "2024-12-10 21:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2024-12-11 17:47:51 +0000"
     },
     "done": true
   },
@@ -813,6 +849,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2024-12-10 21:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-11 17:44:05 +0000"
     },
     "done": true
   },
