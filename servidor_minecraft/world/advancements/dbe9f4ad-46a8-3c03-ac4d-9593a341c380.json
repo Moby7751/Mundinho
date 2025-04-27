@@ -1,0 +1,26 @@
+{
+  "nuclearcraft:root": {
+    "criteria": {
+      "location": "2025-04-27 19:55:30 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2025-04-27 19:55:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-04-27 19:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2025-04-27 19:55:30 +0000"
+    },
+    "done": false
+  }
+}
