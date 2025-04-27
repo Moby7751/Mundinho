@@ -828,9 +828,9 @@
       "questID:3": 64,
       "completed:9": {
         "0:10": {
-          "claimed:1": 0,
+          "claimed:1": 1,
           "uuid:8": "dbe9f4ad-46a8-3c03-ac4d-9593a341c380",
-          "timestamp:4": 1745791216897
+          "timestamp:4": 1745791791741
         },
         "1:10": {
           "claimed:1": 0,
