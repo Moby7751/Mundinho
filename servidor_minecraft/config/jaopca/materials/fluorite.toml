@@ -1,4 +1,5 @@
 
+#Configurations for material Fluorite.
 [general]
 	#The alternative names of this material.
 	alternativeNames = []
@@ -13,13 +14,5 @@
 	#The model type of the material.
 	modelType = "crystal"
 	#The color of this material.
-	color = 13558502
-
-[molten]
-	#The temperature of this molten fluid.
-	temperature = 1000
-
-[create]
-	#The default byproduct material to output in Create's crushing.
-	byproduct = "minecraft:cobblestone"
+	color = 8823181
 

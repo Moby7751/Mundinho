@@ -1,4 +1,5 @@
 
+#Configurations for material Coal.
 [general]
 	#The alternative names of this material.
 	alternativeNames = []
@@ -11,5 +12,5 @@
 	#Should items of this material have the enchanted glow.
 	hasEffect = false
 	#The model type of the material.
-	modelType = "dust"
+	modelType = "crystal"
 

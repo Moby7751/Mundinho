@@ -1,4 +1,5 @@
 
+#Configurations for material Lapis.
 [general]
 	#The alternative names of this material.
 	alternativeNames = []
@@ -12,10 +13,4 @@
 	hasEffect = false
 	#The model type of the material.
 	modelType = "crystal"
-	#The color of this material.
-	color = 3430829
-
-[molten]
-	#The temperature of this molten fluid.
-	temperature = 1000
 

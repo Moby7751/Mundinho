@@ -3,8 +3,6 @@
 [materials]
 	#Should the mod find ingot materials with ores.
 	ingot = true
-	#Should the mod find ingot materials with ores but without raw ores.
-	ingotLegacy = true
 	#Should the mod find gem materials with ores.
 	gem = true
 	#Should the mod find crystal materials with ores.
@@ -19,48 +17,33 @@
 	crystalPlain = true
 	#Should the mod find dust materials without ores.
 	dustPlain = true
+	#Should the mod not find materials with ores with used prefixes.
+	nonPlainUsedPrefix = false
+	#Should the mod not find materials with used prefixes when the material name is not found yet.
+	strictUsedPrefix = false
 
 #Configurations related to material overrides.
 [materialOverrides]
 	#List of materials that should be gems.
-	gem = ["diamond", "emerald", "lapis", "prismarine", "quartz"]
+	gem = ["Coal", "Diamond", "Emerald", "Lapis", "Prismarine", "Quartz"]
 	#List of materials that should be crystals.
 	crystal = []
 	#List of materials that should be dusts.
-	dust = ["glowstone", "redstone"]
+	dust = ["Redstone"]
 
 #Configurations related to item selection.
 [itemSelection]
 	#List of mods that are preferred when selecting items in recipes.
-	preferredMods = ["minecraft", "thermal", "immersiveengineering", "mekanism", "kubejs", "pneumaticcraft", "create", "industrialforegoing", "tconstruct", "botania", "quark", "mythicbotany", "undergarden", "chipped"]
+	preferredMods = ["minecraft", "thermalfoundation", "immersiveengineering", "ic2", "mekanism", "appliedenergistics2", "actuallyadditions", "tconstruct", "jaopca", "chisel"]
 
-#Configurations related to block tags.
-[blockTags]
-	#List of block tags that should not be added.
+#Configurations related to the ore dictionary.
+[oredict]
+	#List of oredict names that should not be added.
 	blacklist = []
-	#List of block tags that should be considered as defined.
-	customDefined = []
-
-#Configurations related to item tags.
-[itemTags]
-	#List of item tags that should not be added.
-	blacklist = []
-	#List of item tags that should be considered as defined.
-	customDefined = []
-
-#Configurations related to fluid tags.
-[fluidTags]
-	#List of fluid tags that should not be added.
-	blacklist = []
-	#List of fluid tags that should be considered as defined.
-	customDefined = []
-
-#Configurations related to entity type tags.
-[entityTypeTags]
-	#List of entity type tags that should not be added.
-	blacklist = []
-	#List of entity type tags that should be considered as defined.
-	customDefined = []
+	#List of oredict modules that should not be registered.
+	moduleBlacklist = []
+	#List of custom oredict entries to add. Format: <mod:item@meta=oredict>
+	custom = []
 
 #Configurations related to recipes.
 [recipes]
@@ -68,21 +51,6 @@
 	blacklist = []
 	#List of recipes by regex that should not be added.
 	regexBlacklist = []
-
-#Configurations related to loot tables.
-[lootTables]
-	#List of loot tables that should not be added.
-	blacklist = []
-
-#Configurations related to advancements.
-[advancements]
-	#List of advancements that should not be added.
-	blacklist = []
-
-#Configurations related to data modules.
-[data]
-	#List of data modules that should not be registered.
-	moduleBlacklist = []
 
 #Configurations related to color generation.
 [colors]

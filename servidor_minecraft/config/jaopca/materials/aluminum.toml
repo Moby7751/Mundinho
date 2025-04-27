@@ -1,4 +1,5 @@
 
+#Configurations for material Aluminum.
 [general]
 	#The alternative names of this material.
 	alternativeNames = []
@@ -12,8 +13,6 @@
 	hasEffect = false
 	#The model type of the material.
 	modelType = "metallic"
-
-[mekanism]
-	#The default base to use in Mekanism's Combiner to recreate ores.
-	oreBase = "#forge:cobblestone/normal"
+	#The color of this material.
+	color = 9544864
 
