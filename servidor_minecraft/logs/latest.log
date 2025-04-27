@@ -15173,3 +15173,4 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'integratedtunnels:part_play
 [21:45:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mobyius has made the advancement [Monster Hunter]
 [21:45:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Igor was slain by Mobyius
 [21:49:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Mobyius: Teleported Igor to Mobyius]
+[22:01:02] [Server thread/INFO] [io.dogboy.serializationisbad.core.SerializationIsBad]: Applying patches to reborncore.common.network.ExtendedPacketBuffer
