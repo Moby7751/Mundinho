@@ -603,8 +603,17 @@
       "completed:9": {},
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "dbe9f4ad-46a8-3c03-ac4d-9593a341c380"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "data:9": {
+                "0:3": 16
+              },
+              "uuid:8": "dbe9f4ad-46a8-3c03-ac4d-9593a341c380"
+            }
+          },
           "index:3": 0,
           "taskID:8": "bq_standard:retrieval"
         }
