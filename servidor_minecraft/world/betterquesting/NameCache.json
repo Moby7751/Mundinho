@@ -4,6 +4,11 @@
       "name:8": "Mobyius",
       "isOP:1": 1,
       "uuid:8": "dbe9f4ad-46a8-3c03-ac4d-9593a341c380"
+    },
+    "1:10": {
+      "name:8": "Igor",
+      "isOP:1": 0,
+      "uuid:8": "02034378-1e7b-311c-b350-17090a13dab1"
     }
   }
 }

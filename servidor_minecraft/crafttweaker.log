@@ -1,23 +1,23 @@
 [PREINITIALIZATION][SERVER][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
-Jellycraft
-Zuniroa
+DreamThorn
 Quaternary
-Jonathan McManus
-Ncc1702
-NickT
-Peregrinus11
 embeddedt
 Genryu
-DreamThorn
-Pongo Sapiens
-Jessie Sims
-Belathus
+Peregrinus11
+Jonathan McManus
+NickT
 Hooley
-Ivy_
-Jordan Pineo
-Spencer Gilbert
-NerdyWhiteGuy
+Zuniroa
 Lucas
+Ncc1702
+Spencer Gilbert
+Jordan Pineo
+Pongo Sapiens
+Jellycraft
+NerdyWhiteGuy
+Jessie Sims
+Ivy_
+Belathus
 If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 
 [PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
@@ -242,7 +242,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Wood.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: XNet.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[-1:crafttweaker]: craft/helper/helper_jei.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 268ms
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 229ms
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
@@ -1338,33 +1338,33 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Adding Dragon Scale Leggings to ore dictionary entry armorDragon
 [INITIALIZATION][SERVER][INFO] Adding Dragon Scale Boots to ore dictionary entry armorDragon
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Resin
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@575364f9, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.iceandfire.myrmex_desert_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@200a9185, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@36008dce; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@36356f97, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.iceandfire.myrmex_desert_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@200a9185, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@2b8a242c, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.iceandfire.myrmex_desert_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@2c1fcbc3, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@2e3d8c23; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@76d66e8d, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.iceandfire.myrmex_desert_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@2c1fcbc3, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Resin and Item Desert Myrmex Resin Chunk
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.iceandfire.myrmex_resin:0 -> 1 x item.iceandfire.myrmex_desert_resin:0, 120 x resin
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Resin
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@77d61b04, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.iceandfire.myrmex_jungle_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@200a9185, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@2e7ebbb6; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@59d8ae71, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.iceandfire.myrmex_jungle_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@200a9185, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@3ad0ff3d, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.iceandfire.myrmex_jungle_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@2c1fcbc3, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@675bbf0e; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@50b206be, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.iceandfire.myrmex_jungle_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@2c1fcbc3, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Resin and Item Jungle Myrmex Resin Chunk
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.iceandfire.myrmex_resin:1 -> 1 x item.iceandfire.myrmex_jungle_resin:0, 120 x resin
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Resin
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@45693b1a, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.iceandfire.myrmex_desert_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@200a9185, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@2720e076; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@299754ea, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.iceandfire.myrmex_desert_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@200a9185, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@573f53f7, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.iceandfire.myrmex_desert_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@2c1fcbc3, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@15fa2909; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@9d350e9, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.iceandfire.myrmex_desert_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@2c1fcbc3, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Resin and Item Desert Myrmex Resin Chunk
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.iceandfire.myrmex_resin_sticky:0 -> 2 x item.iceandfire.myrmex_desert_resin:0, 180 x resin
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Resin
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@5297caa, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.iceandfire.myrmex_jungle_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@200a9185, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@570648b; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@63d5727b, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.iceandfire.myrmex_jungle_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@200a9185, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@6028dd3c, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.iceandfire.myrmex_jungle_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@2c1fcbc3, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@5f7d917d; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@18e6a559, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.iceandfire.myrmex_jungle_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@2c1fcbc3, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Resin and Item Jungle Myrmex Resin Chunk
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.iceandfire.myrmex_resin_sticky:1 -> 2 x item.iceandfire.myrmex_jungle_resin:0, 180 x resin
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Resin
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@2b85f39a, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[4xitem.iceandfire.myrmex_desert_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@200a9185, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@27dcab29; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@7ee0dbc8, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[4xitem.iceandfire.myrmex_desert_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@200a9185, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@dc4c290, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[4xitem.iceandfire.myrmex_desert_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@2c1fcbc3, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@17d71485; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@e511933, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[4xitem.iceandfire.myrmex_desert_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@2c1fcbc3, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Resin and Item Desert Myrmex Resin Chunk
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.iceandfire.desert_myrmex_cocoon:0 -> 8 x item.iceandfire.myrmex_desert_resin:0, 480 x resin
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Resin
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@38ba8738, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[4xitem.iceandfire.myrmex_jungle_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@200a9185, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@458d0177; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@28d6a507, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[4xitem.iceandfire.myrmex_jungle_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@200a9185, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@a76d137, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[4xitem.iceandfire.myrmex_jungle_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@2c1fcbc3, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@575b3cd; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@72e11345, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[4xitem.iceandfire.myrmex_jungle_resin@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@2c1fcbc3, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Resin and Item Jungle Myrmex Resin Chunk
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.iceandfire.jungle_myrmex_cocoon:0 -> 8 x item.iceandfire.myrmex_jungle_resin:0, 480 x resin
 [INITIALIZATION][SERVER][INFO] Setting max stack size of  Ambrosia to 64
@@ -2055,13 +2055,13 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Adding ArcFurnace Recipe for Superium Ingot
 [INITIALIZATION][SERVER][INFO] Adding ArcFurnace Recipe for Supremium Ingot
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Milk
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@3ced9b1c, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@550d5473, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@507bbf22; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@7542cfeb, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@550d5473, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@4bd046ab, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1e5608bf, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@54e3d7c7; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@5b356bbd, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1e5608bf, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Milk and Item null
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x item.ma.cow_essence:0 -> null, 250 x milk
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Water
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@33328563, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@580ba5b6, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@63d7dd62; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@6ed8fc95, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@580ba5b6, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@67bcc268, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@2ae9fbe2, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@2e10252a; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@648782c0, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@2ae9fbe2, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Water and Item null
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x item.ma.water_essence:0 -> null, 250 x water
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: NuclearCraft.zs}
@@ -2101,8 +2101,8 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Adding Alloy Smelter Recipe for HSLA Steel Ingot
 [INITIALIZATION][SERVER][INFO] Adding Crusher Recipe for Ground Cocoa Nibs
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Cocoa Butter
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@5b5f1179, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.nuclearcraft.cocoa_solids@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@2de58d97, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@d728ed5; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@6842975c, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.nuclearcraft.cocoa_solids@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@2de58d97, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@6e3465bf, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.nuclearcraft.cocoa_solids@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@4a053919, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@3b9f83b6; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@185fe0a6, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.nuclearcraft.cocoa_solids@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@4a053919, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Cocoa Butter and Item Cocoa Solids
 [INITIALIZATION][SERVER][INFO] Removing Crusher Recipe for input: Nether Quartz
 [INITIALIZATION][SERVER][INFO] Adding Crusher Recipe for Nether Quartz Dust
@@ -2358,35 +2358,35 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: ThermalDynamics.zs}
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: ThermalExpansion.zs}
 [INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for Resonant Cell Frame (Full)
-[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@426b7161, fluidStack=net.minecraftforge.fluids.FluidStack@1d7c99c3, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@29fa9651, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@1c44b487, fluidStack=net.minecraftforge.fluids.FluidStack@1d7c99c3, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@4bff4138, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@2178e570, fluidStack=net.minecraftforge.fluids.FluidStack@7b978e79, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@ff3adb9, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@2884494d, fluidStack=net.minecraftforge.fluids.FluidStack@7b978e79, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@631e8508, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_infuser recipe: 1 x tile.thermaldynamics.duct:6, 200 x redstone -> 1 x tile.thermaldynamics.duct:2
-[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@5206c15f, fluidStack=net.minecraftforge.fluids.FluidStack@1d7c99c3, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@2fb38d50, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@16eae4ad, fluidStack=net.minecraftforge.fluids.FluidStack@1d7c99c3, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@272d81c9, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@52baf7e, fluidStack=net.minecraftforge.fluids.FluidStack@7b978e79, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@17274407, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@1d63a98f, fluidStack=net.minecraftforge.fluids.FluidStack@7b978e79, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@a4249ee, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_infuser recipe: 1 x tile.thermaldynamics.duct:7, 200 x redstone -> 1 x tile.thermaldynamics.duct:3
-[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@43c5a04a, fluidStack=net.minecraftforge.fluids.FluidStack@1d7c99c3, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@70af7c6f, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@31a1215b, fluidStack=net.minecraftforge.fluids.FluidStack@1d7c99c3, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@7a49cd6f, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@52ca5787, fluidStack=net.minecraftforge.fluids.FluidStack@7b978e79, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@7fe026a5, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@7f4fd707, fluidStack=net.minecraftforge.fluids.FluidStack@7b978e79, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@67dafc39, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_infuser recipe: 1 x tile.thermaldynamics.duct:8, 200 x redstone -> 1 x tile.thermaldynamics.duct:4
-[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@14e0e59c, fluidStack=net.minecraftforge.fluids.FluidStack@52dc251c, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@1f27bf6b, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@27b4ee2d, fluidStack=net.minecraftforge.fluids.FluidStack@52dc251c, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@13227d01, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@67ace92a, fluidStack=net.minecraftforge.fluids.FluidStack@39a29af2, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@19073e74, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@187125bc, fluidStack=net.minecraftforge.fluids.FluidStack@39a29af2, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@28fa39bf, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_infuser recipe: 1 x tile.thermaldynamics.duct:9, 600 x cryotheum -> 1 x tile.thermaldynamics.duct:5
-[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@7da6fc, fluidStack=net.minecraftforge.fluids.FluidStack@3c12014e, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@22839d7f, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@22c6da84, fluidStack=net.minecraftforge.fluids.FluidStack@3c12014e, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@228c71a8, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@281f6033, fluidStack=net.minecraftforge.fluids.FluidStack@375a3baa, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@8cb0fda, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@198697ba, fluidStack=net.minecraftforge.fluids.FluidStack@375a3baa, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@604862f4, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_infuser recipe: 1 x tile.thermaldynamics.duct:1, 200 x glowstone -> 1 x tile.thermaldynamics.duct:3
-[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@4f2b7943, fluidStack=net.minecraftforge.fluids.FluidStack@3c12014e, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@717d6dbc, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@65fb9bed, fluidStack=net.minecraftforge.fluids.FluidStack@3c12014e, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@24bba7cb, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@33859836, fluidStack=net.minecraftforge.fluids.FluidStack@375a3baa, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@6360f443, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@4e7684d2, fluidStack=net.minecraftforge.fluids.FluidStack@375a3baa, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@6d8a102a, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_infuser recipe: 1 x tile.thermaldynamics.duct:4, 200 x glowstone -> 1 x tile.thermaldynamics.duct:6
-[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@30ce237e, fluidStack=net.minecraftforge.fluids.FluidStack@3c12014e, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@2ac4a856, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@13596a10, fluidStack=net.minecraftforge.fluids.FluidStack@3c12014e, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@6a25124f, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@72d16185, fluidStack=net.minecraftforge.fluids.FluidStack@375a3baa, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@16775170, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@6cdd0778, fluidStack=net.minecraftforge.fluids.FluidStack@375a3baa, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@516b4189, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_infuser recipe: 1 x tile.thermaldynamics.duct:5, 200 x glowstone -> 1 x tile.thermaldynamics.duct:7
-[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@2b3109a6, fluidStack=net.minecraftforge.fluids.FluidStack@3c12014e, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@2438928e, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@7ce965f3, fluidStack=net.minecraftforge.fluids.FluidStack@3c12014e, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@3e9cb74b, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@28cfcf68, fluidStack=net.minecraftforge.fluids.FluidStack@375a3baa, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@41ff7d0, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@7dc6ec, fluidStack=net.minecraftforge.fluids.FluidStack@375a3baa, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@b91a863, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_infuser recipe: 1 x tile.thermaldynamics.duct:0, 200 x glowstone -> 1 x tile.thermaldynamics.duct:2
-[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@1d43e507, fluidStack=net.minecraftforge.fluids.FluidStack@7e6b5d0f, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@7d8fa8c3, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@4a7e9c7c, fluidStack=net.minecraftforge.fluids.FluidStack@7e6b5d0f, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@11035c97, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@5df382f6, fluidStack=net.minecraftforge.fluids.FluidStack@5f42782e, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@26295fef, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@488db760, fluidStack=net.minecraftforge.fluids.FluidStack@5f42782e, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@4e59cca2, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_infuser recipe: 1 x tile.thermaldynamics.duct:3, 600 x aerotheum -> 1 x tile.thermaldynamics.duct:0
-[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@136ae86d, fluidStack=net.minecraftforge.fluids.FluidStack@61a72213, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@13a39373, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@2d807007, fluidStack=net.minecraftforge.fluids.FluidStack@61a72213, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@266c66c4, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@f7c03ad, fluidStack=net.minecraftforge.fluids.FluidStack@11c34e1, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@63c6f38a, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@46557e25, fluidStack=net.minecraftforge.fluids.FluidStack@11c34e1, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@46698691, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_infuser recipe: 1 x tile.thermaldynamics.duct:0, 1200 x ender -> 1 x tile.thermaldynamics.duct:2
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x tile.thermalfoundation.ore:2 -> 4000 x redstone
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x item.thermalfoundation.material:893 -> 1000 x redstone
@@ -2470,83 +2470,83 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Setting boric_acid temperature from 300 to 4000
 [INITIALIZATION][SERVER][INFO] Setting hydrofluoric_acid temperature from 300 to 4000
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Liquid Blue Slime
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@7ff7bc67, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.mudball@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@595e4f26, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@23bc33df; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@546b9cf2, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.mudball@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@595e4f26, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@34c19b83, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.mudball@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1381cd21, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@34d0c45e; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@72438b5f, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.mudball@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1381cd21, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Liquid Blue Slime and Item Mud Ball
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.tconstruct.slime_dirt:1 -> 1 x item.mudball:0, 2000 x blueslime
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Liquid Blue Slime
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@16bd169c, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@595e4f26, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@54ddfd5f; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@2dd2c5df, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@595e4f26, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@4ae60b17, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1381cd21, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@7826c421; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@78a671ec, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1381cd21, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Liquid Blue Slime and Item null
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.tconstruct.slime_leaves:0 -> null, 500 x blueslime
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Liquid Blue Slime
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@25d6509b, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@595e4f26, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@5b21ab4b; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@60ad8275, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@595e4f26, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@165114d4, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1381cd21, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@6c950bba; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@22dcddc5, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1381cd21, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Liquid Blue Slime and Item null
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.tconstruct.slime_grass_tall:0 -> null, 200 x blueslime
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Liquid Blue Slime
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@5b6a4f82, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@595e4f26, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@4caf9efc; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@1a020fd1, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@595e4f26, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@69bef163, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1381cd21, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@7757af34; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@33dba2bf, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1381cd21, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Liquid Blue Slime and Item null
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.tconstruct.slime_grass_tall:1 -> null, 200 x blueslime
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Liquid Blue Slime
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@16b098ce, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@595e4f26, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@1fafd3c5; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@2f47f6b2, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@595e4f26, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@77ad73f4, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1381cd21, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@6986b18b; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@23e28d80, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1381cd21, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Liquid Blue Slime and Item null
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.tconstruct.slime_sapling:0 -> null, 1000 x blueslime
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Liquid Blue Slime
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@2531180c, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@595e4f26, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@37d5928c; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@56855e48, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@595e4f26, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@4d420d19, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1381cd21, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@51ecf596; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@d3a1cc9, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1381cd21, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Liquid Blue Slime and Item null
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.tconstruct.slime_vine_blue_end:0 -> null, 200 x blueslime
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Liquid Blue Slime
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@6b3b51e4, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xtile.tconstruct.slime_vine_blue_end@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@595e4f26, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@70e1fffd; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@74f7dcc6, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xtile.tconstruct.slime_vine_blue_end@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@595e4f26, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@67f4e6ff, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xtile.tconstruct.slime_vine_blue_end@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1381cd21, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@5182ffd2; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@2e511a8a, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xtile.tconstruct.slime_vine_blue_end@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1381cd21, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Liquid Blue Slime and Item Blue Slimy Vine
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.tconstruct.slime_vine_blue_mid:0 -> 1 x tile.tconstruct.slime_vine_blue_end:0, 200 x blueslime
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Liquid Blue Slime
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@3a131689, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xtile.tconstruct.slime_vine_blue_mid@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@595e4f26, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@62640e5c; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@7d26d99f, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xtile.tconstruct.slime_vine_blue_mid@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@595e4f26, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@2868dcc6, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xtile.tconstruct.slime_vine_blue_mid@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1381cd21, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@3f972421; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@610b724e, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xtile.tconstruct.slime_vine_blue_mid@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1381cd21, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Liquid Blue Slime and Item Blue Slimy Vine
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.tconstruct.slime_vine_blue:0 -> 1 x tile.tconstruct.slime_vine_blue_mid:0, 200 x blueslime
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Liquid Purple Slime
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@1d77dcaa, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.mudball@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@325897b5, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@4a66a601; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@47dd7768, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.mudball@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@325897b5, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@95b87b5, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.mudball@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@7afec4e8, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@37b126e9; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@5acc0780, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.mudball@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@7afec4e8, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Liquid Purple Slime and Item Mud Ball
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.tconstruct.slime_dirt:2 -> 1 x item.mudball:0, 2000 x purpleslime
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Liquid Purple Slime
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@64ec61b5, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@325897b5, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@1bc58587; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@211f0af0, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@325897b5, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@fff5543, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@7afec4e8, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@3147ac3b; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@29174173, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@7afec4e8, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Liquid Purple Slime and Item null
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.tconstruct.slime_leaves:1 -> null, 500 x purpleslime
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Liquid Purple Slime
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@dd55f8c, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@325897b5, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@ab3664a; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@3ded3326, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@325897b5, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@135db3d6, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@7afec4e8, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@667db9b3; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@6ad7f733, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@7afec4e8, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Liquid Purple Slime and Item null
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.tconstruct.slime_grass_tall:4 -> null, 200 x purpleslime
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Liquid Purple Slime
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@647ce6e1, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@325897b5, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@4372fcdd; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@526243cf, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@325897b5, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@79583fc3, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@7afec4e8, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@7e5e03d; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@c5e6153, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@7afec4e8, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Liquid Purple Slime and Item null
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.tconstruct.slime_grass_tall:5 -> null, 200 x purpleslime
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Liquid Purple Slime
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@6c22ea6, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@325897b5, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@50a8b71; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@514a1b19, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@325897b5, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@59e57184, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@7afec4e8, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@617bfb5c; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@49371b46, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@7afec4e8, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Liquid Purple Slime and Item null
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.tconstruct.slime_sapling:1 -> null, 1000 x purpleslime
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Liquid Purple Slime
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@11f656c4, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@325897b5, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@656ed42; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@57d6affa, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@325897b5, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@361cafca, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@7afec4e8, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@440781dc; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@7a18231b, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@7afec4e8, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Liquid Purple Slime and Item null
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.tconstruct.slime_vine_purple_end:0 -> null, 200 x purpleslime
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Liquid Purple Slime
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@7526d8b0, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xtile.tconstruct.slime_vine_purple_end@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@325897b5, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@442b17ab; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@5f7a0a19, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xtile.tconstruct.slime_vine_purple_end@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@325897b5, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@58b57670, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xtile.tconstruct.slime_vine_purple_end@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@7afec4e8, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@204415db; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@37066e3b, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xtile.tconstruct.slime_vine_purple_end@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@7afec4e8, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Liquid Purple Slime and Item Purple Slimy Vine
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.tconstruct.slime_vine_purple_mid:0 -> 1 x tile.tconstruct.slime_vine_purple_end:0, 200 x purpleslime
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Liquid Purple Slime
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@506061, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xtile.tconstruct.slime_vine_purple_mid@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@325897b5, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@20ddcc51; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@663bf52a, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xtile.tconstruct.slime_vine_purple_mid@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@325897b5, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@4499a7d5, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xtile.tconstruct.slime_vine_purple_mid@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@7afec4e8, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@2053e317; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@7c496339, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xtile.tconstruct.slime_vine_purple_mid@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@7afec4e8, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Liquid Purple Slime and Item Purple Slimy Vine
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.tconstruct.slime_vine_purple:0 -> 1 x tile.tconstruct.slime_vine_purple_mid:0, 200 x purpleslime
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Tools.zs}
@@ -2677,17 +2677,17 @@ Empowered Oil 120 MJ/mB"
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <chisel:marble2:7>: "Chisel Variations: Chisel & Quark"
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <quark:marble>: "Chisel Variations: Chisel & Quark"
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: TwilightForest.zs}
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: { 1 x tile.twilightforest.CastleBrick:3, 1 x tile.twilightforest.CastlePillar:0, 1 x tile.twilightforest.CastlePillar:1 } -> 1 x item.saltitem:0 [ 80%, min: 0 ], 1 x item.appliedenergistics2.material:3 [ 30%, min: 0 ], 1 x item.itemusabledust:1 [ 10%, min: 0 ]
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: { 1 x tile.twilightforest.CastleBrick:0, 1 x tile.twilightforest.CastleBrick:1, 1 x tile.twilightforest.CastleBrick:2, 1 x tile.twilightforest.CastleBrick:4, 1 x tile.twilightforest.CastleBrick:5, 1 x tile.twilightforest.CastlePillar:3, 1 x tile.twilightforest.CastlePillar:2 } -> 1 x item.saltitem:0 [ 80%, min: 0 ], 1 x item.appliedenergistics2.material:3 [ 30%, min: 0 ], 1 x item.thermalfoundation.material:69 [ 10%, min: 0 ]
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: 1 x tile.twilightforest.CastleMagic:1 -> 1 x item.runeDust:11 [ 80%, min: 0 ], 1 x item.thermalfoundation.material:72 [ 30%, min: 0 ], 1 x item.appliedenergistics2.material:3 [ 10%, min: 0 ]
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: 1 x tile.twilightforest.AuroraPillar:0 -> 1 x item.immersiveengineering.metal:14 [ 80%, min: 0 ], 1 x ic2.dust:5 [ 30%, min: 0 ], 1 x ic2.dust:9 [ 10%, min: 0 ]
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: { 1 x tile.twilightforest.UnderBrick:0, 1 x tile.twilightforest.UnderBrick:1, 1 x tile.twilightforest.UnderBrick:2, 1 x tile.twilightforest.UnderBrick:3 } -> 1 x ic2.dust:1 [ 80%, min: 0 ], 1 x item.thermalfoundation.material:772 [ 30%, min: 0 ], 1 x item.item_material:74 [ 10%, min: 0 ]
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: { 1 x tile.twilightforest.Mazestone:0, 1 x tile.twilightforest.Mazestone:1, 1 x tile.twilightforest.Mazestone:2, 1 x tile.twilightforest.Mazestone:3, 1 x tile.twilightforest.Mazestone:4, 1 x tile.twilightforest.Mazestone:5, 1 x tile.twilightforest.Mazestone:6, 1 x tile.twilightforest.Mazestone:7 } -> 1 x item.Dust:2 [ 80%, min: 0 ], 1 x item.nuclearcraft.dust_oxide:1 [ 30%, min: 0 ], 1 x item.OtherDust:5 [ 10%, min: 0 ]
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: 1 x tile.twilightforest.CastleMagic:3 -> 1 x item.runeDust:10 [ 80%, min: 0 ], 1 x item.thermalfoundation.material:72 [ 30%, min: 0 ], 1 x item.appliedenergistics2.material:3 [ 10%, min: 0 ]
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: 1 x tile.twilightforest.AuroraBrick:0 -> 1 x item.immersiveengineering.metal:14 [ 80%, min: 0 ], 1 x item.manaResource:23 [ 30%, min: 0 ], 1 x ic2.dust:9 [ 10%, min: 0 ]
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: { 1 x tile.twilightforest.Deadrock:0, 1 x tile.twilightforest.Deadrock:1, 1 x tile.twilightforest.Deadrock:2 } -> 1 x ic2.dust:1 [ 80%, min: 0 ], 1 x item.nuclearcraft.dust:8 [ 30%, min: 0 ], 1 x item.jaopca.dust:0 [ 10%, min: 0 ]
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: 1 x tile.twilightforest.CastleMagic:0 -> 1 x item.runeDust:6 [ 80%, min: 0 ], 1 x item.thermalfoundation.material:72 [ 30%, min: 0 ], 1 x item.appliedenergistics2.material:3 [ 10%, min: 0 ]
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: 1 x tile.twilightforest.CastleMagic:2 -> 1 x item.runeDust:4 [ 80%, min: 0 ], 1 x item.thermalfoundation.material:72 [ 30%, min: 0 ], 1 x item.appliedenergistics2.material:3 [ 10%, min: 0 ]
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: 1 x tile.twilightforest.AuroraPillar:0 -> 1 x item.immersiveengineering.metal:14 [ 80%, min: 0 ], 1 x ic2.dust:5 [ 30%, min: 0 ], 1 x ic2.dust:9 [ 10%, min: 0 ]
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: { 1 x tile.twilightforest.CastleBrick:3, 1 x tile.twilightforest.CastlePillar:0, 1 x tile.twilightforest.CastlePillar:1 } -> 1 x item.saltitem:0 [ 80%, min: 0 ], 1 x item.appliedenergistics2.material:3 [ 30%, min: 0 ], 1 x item.itemusabledust:1 [ 10%, min: 0 ]
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: { 1 x tile.twilightforest.UnderBrick:0, 1 x tile.twilightforest.UnderBrick:1, 1 x tile.twilightforest.UnderBrick:2, 1 x tile.twilightforest.UnderBrick:3 } -> 1 x ic2.dust:1 [ 80%, min: 0 ], 1 x item.thermalfoundation.material:772 [ 30%, min: 0 ], 1 x item.item_material:74 [ 10%, min: 0 ]
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: { 1 x tile.twilightforest.Deadrock:0, 1 x tile.twilightforest.Deadrock:1, 1 x tile.twilightforest.Deadrock:2 } -> 1 x ic2.dust:1 [ 80%, min: 0 ], 1 x item.nuclearcraft.dust:8 [ 30%, min: 0 ], 1 x item.jaopca.dust:0 [ 10%, min: 0 ]
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: 1 x tile.twilightforest.CastleMagic:1 -> 1 x item.runeDust:11 [ 80%, min: 0 ], 1 x item.thermalfoundation.material:72 [ 30%, min: 0 ], 1 x item.appliedenergistics2.material:3 [ 10%, min: 0 ]
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: { 1 x tile.twilightforest.CastleBrick:0, 1 x tile.twilightforest.CastleBrick:1, 1 x tile.twilightforest.CastleBrick:2, 1 x tile.twilightforest.CastleBrick:4, 1 x tile.twilightforest.CastleBrick:5, 1 x tile.twilightforest.CastlePillar:3, 1 x tile.twilightforest.CastlePillar:2 } -> 1 x item.saltitem:0 [ 80%, min: 0 ], 1 x item.appliedenergistics2.material:3 [ 30%, min: 0 ], 1 x item.thermalfoundation.material:69 [ 10%, min: 0 ]
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: 1 x tile.twilightforest.CastleMagic:3 -> 1 x item.runeDust:10 [ 80%, min: 0 ], 1 x item.thermalfoundation.material:72 [ 30%, min: 0 ], 1 x item.appliedenergistics2.material:3 [ 10%, min: 0 ]
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: 1 x tile.twilightforest.CastleMagic:0 -> 1 x item.runeDust:6 [ 80%, min: 0 ], 1 x item.thermalfoundation.material:72 [ 30%, min: 0 ], 1 x item.appliedenergistics2.material:3 [ 10%, min: 0 ]
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_rock_crusher recipe: 1 x tile.twilightforest.AuroraBrick:0 -> 1 x item.immersiveengineering.metal:14 [ 80%, min: 0 ], 1 x item.manaResource:23 [ 30%, min: 0 ], 1 x ic2.dust:9 [ 10%, min: 0 ]
 [INITIALIZATION][SERVER][INFO] Adding ArcFurnace Recipe for Gold Ingot
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x item.twilightforest.minotaurAxe:0 -> 11 x item.diamond:0
 [INITIALIZATION][SERVER][INFO] Adding Crusher Recipe for Diamond
@@ -2695,101 +2695,101 @@ Empowered Oil 120 MJ/mB"
 [INITIALIZATION][SERVER][INFO] Setting max damage of  Ore Magnet to 128
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: WirelessCraftingTerminal.zs}
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Wood.zs}
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log:0 -> 6 x tile.wood:4
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log:0 -> 5 x tile.wood:4
 [INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log:0 -> 6 x tile.wood:0
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log:0 -> 5 x tile.wood:0
 [INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log:2 -> 6 x tile.wood:2
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log:2 -> 5 x tile.wood:2
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log:1 -> 6 x tile.wood:1
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log:1 -> 5 x tile.wood:1
 [INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log:3 -> 6 x tile.wood:3
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log:3 -> 5 x tile.wood:3
 [INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log:1 -> 6 x tile.wood:5
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log:1 -> 5 x tile.wood:5
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log:1 -> 6 x tile.wood:1
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log:1 -> 5 x tile.wood:1
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.twilightforest.MagicLog:0 -> 6 x tile.twilightforest.TimePlanks:0
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.twilightforest.MagicLog:0 -> 5 x tile.twilightforest.TimePlanks:0
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.twilightforest.MagicLog:2 -> 6 x tile.twilightforest.MinePlanks:0
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.twilightforest.MagicLog:2 -> 5 x tile.twilightforest.MinePlanks:0
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.twilightforest.Log:0 -> 6 x tile.twilightforest.TwilightOakPlanks:0
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.twilightforest.Log:0 -> 5 x tile.twilightforest.TwilightOakPlanks:0
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.twilightforest.Log:2 -> 6 x tile.twilightforest.MangrovePlanks:0
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.twilightforest.Log:2 -> 5 x tile.twilightforest.MangrovePlanks:0
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log:0 -> 6 x tile.wood:4
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log:0 -> 5 x tile.wood:4
 [INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.twilightforest.MagicLog:1 -> 6 x tile.twilightforest.TransPlanks:0
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.twilightforest.MagicLog:1 -> 5 x tile.twilightforest.TransPlanks:0
 [INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.twilightforest.MagicLog:3 -> 6 x tile.twilightforest.SortPlanks:0
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.twilightforest.MagicLog:3 -> 5 x tile.twilightforest.SortPlanks:0
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.twilightforest.Log:3 -> 6 x tile.twilightforest.DarkPlanks:0
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.twilightforest.Log:3 -> 5 x tile.twilightforest.DarkPlanks:0
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.twilightforest.Log:2 -> 6 x tile.twilightforest.MangrovePlanks:0
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.twilightforest.Log:2 -> 5 x tile.twilightforest.MangrovePlanks:0
 [INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.twilightforest.Log:1 -> 6 x tile.twilightforest.CanopyPlanks:0
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.twilightforest.Log:1 -> 5 x tile.twilightforest.CanopyPlanks:0
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.pammaple:0 -> 6 x tile.wood:1
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.pammaple:0 -> 5 x tile.wood:1
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.twilightforest.MagicLog:0 -> 6 x tile.twilightforest.TimePlanks:0
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.twilightforest.MagicLog:0 -> 5 x tile.twilightforest.TimePlanks:0
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.twilightforest.MagicLog:2 -> 6 x tile.twilightforest.MinePlanks:0
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.twilightforest.MagicLog:2 -> 5 x tile.twilightforest.MinePlanks:0
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.twilightforest.Log:3 -> 6 x tile.twilightforest.DarkPlanks:0
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.twilightforest.Log:3 -> 5 x tile.twilightforest.DarkPlanks:0
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.twilightforest.Log:0 -> 6 x tile.twilightforest.TwilightOakPlanks:0
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.twilightforest.Log:0 -> 5 x tile.twilightforest.TwilightOakPlanks:0
 [INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.pampaperbark:0 -> 6 x tile.wood:3
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.pampaperbark:0 -> 5 x tile.wood:3
 [INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.pamcinnamon:0 -> 6 x tile.wood:3
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.pamcinnamon:0 -> 5 x tile.wood:3
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_1:4 -> 6 x tile.planks_0:4
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_1:4 -> 5 x tile.planks_0:4
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_2:6 -> 6 x tile.planks_0:10
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_2:6 -> 5 x tile.planks_0:10
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_3:7 -> 6 x tile.planks_0:15
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_3:7 -> 5 x tile.planks_0:15
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_2:5 -> 6 x tile.planks_0:9
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_2:5 -> 5 x tile.planks_0:9
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_3:6 -> 6 x tile.planks_0:14
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_3:6 -> 5 x tile.planks_0:14
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.pammaple:0 -> 6 x tile.wood:1
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.pammaple:0 -> 5 x tile.wood:1
 [INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_0:6 -> 6 x tile.planks_0:2
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_0:6 -> 5 x tile.planks_0:2
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_1:5 -> 6 x tile.planks_0:5
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_1:5 -> 5 x tile.planks_0:5
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_0:7 -> 6 x tile.planks_0:3
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_0:7 -> 5 x tile.planks_0:3
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_0:5 -> 6 x tile.planks_0:1
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_0:5 -> 5 x tile.planks_0:1
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_2:4 -> 6 x tile.planks_0:8
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_2:4 -> 5 x tile.planks_0:8
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_3:5 -> 6 x tile.planks_0:13
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_3:5 -> 5 x tile.planks_0:13
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_1:6 -> 6 x tile.planks_0:6
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_1:6 -> 5 x tile.planks_0:6
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_2:7 -> 6 x tile.planks_0:11
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_2:7 -> 5 x tile.planks_0:11
-[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_3:4 -> 6 x tile.planks_0:12
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_3:4 -> 5 x tile.planks_0:12
 [INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_1:7 -> 6 x tile.planks_0:7
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_1:7 -> 5 x tile.planks_0:7
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_2:5 -> 6 x tile.planks_0:9
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_2:5 -> 5 x tile.planks_0:9
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_3:4 -> 6 x tile.planks_0:12
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_3:4 -> 5 x tile.planks_0:12
 [INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_0:4 -> 6 x tile.planks_0:0
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_0:4 -> 5 x tile.planks_0:0
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.6:0 -> 5 x tile.for.planks.1:8
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.0:0 -> 5 x tile.for.planks.0:0
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_2:6 -> 6 x tile.planks_0:10
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_2:6 -> 5 x tile.planks_0:10
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_2:7 -> 6 x tile.planks_0:11
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_2:7 -> 5 x tile.planks_0:11
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_3:5 -> 6 x tile.planks_0:13
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_3:5 -> 5 x tile.planks_0:13
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_0:5 -> 6 x tile.planks_0:1
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_0:5 -> 5 x tile.planks_0:1
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_1:4 -> 6 x tile.planks_0:4
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_1:4 -> 5 x tile.planks_0:4
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_0:7 -> 6 x tile.planks_0:3
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_0:7 -> 5 x tile.planks_0:3
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_2:4 -> 6 x tile.planks_0:8
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_2:4 -> 5 x tile.planks_0:8
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_1:6 -> 6 x tile.planks_0:6
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_1:6 -> 5 x tile.planks_0:6
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_3:6 -> 6 x tile.planks_0:14
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_3:6 -> 5 x tile.planks_0:14
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_1:5 -> 6 x tile.planks_0:5
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_1:5 -> 5 x tile.planks_0:5
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.log_3:7 -> 6 x tile.planks_0:15
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.log_3:7 -> 5 x tile.planks_0:15
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.0:3 -> 5 x tile.for.planks.0:3
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.2:3 -> 5 x tile.for.planks.0:11
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.4:3 -> 5 x tile.for.planks.1:3
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.1:3 -> 5 x tile.for.planks.0:7
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.1:2 -> 5 x tile.for.planks.0:6
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.6:2 -> 5 x tile.for.planks.1:10
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.2:2 -> 5 x tile.for.planks.0:10
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.0:2 -> 5 x tile.for.planks.0:2
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.3:1 -> 5 x tile.for.planks.0:13
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.4:2 -> 5 x tile.for.planks.1:2
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.6:0 -> 5 x tile.for.planks.1:8
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.5:2 -> 5 x tile.for.planks.1:6
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.7:0 -> 5 x tile.for.planks.1:12
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.5:3 -> 5 x tile.for.planks.1:7
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.0:1 -> 5 x tile.for.planks.0:1
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.6:3 -> 5 x tile.for.planks.1:11
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.0:2 -> 5 x tile.for.planks.0:2
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.1:1 -> 5 x tile.for.planks.0:5
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.6:1 -> 5 x tile.for.planks.1:9
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.4:0 -> 5 x tile.for.planks.1:0
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.1:0 -> 5 x tile.for.planks.0:4
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.0:3 -> 5 x tile.for.planks.0:3
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.3:1 -> 5 x tile.for.planks.0:13
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.5:0 -> 5 x tile.for.planks.1:4
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.2:3 -> 5 x tile.for.planks.0:11
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.4:1 -> 5 x tile.for.planks.1:1
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.5:1 -> 5 x tile.for.planks.1:5
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.4:2 -> 5 x tile.for.planks.1:2
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.3:0 -> 5 x tile.for.planks.0:12
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.2:0 -> 5 x tile.for.planks.0:8
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.3:2 -> 5 x tile.for.planks.0:14
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.2:1 -> 5 x tile.for.planks.0:9
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.4:1 -> 5 x tile.for.planks.1:1
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.5:3 -> 5 x tile.for.planks.1:7
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.2:0 -> 5 x tile.for.planks.0:8
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.1:3 -> 5 x tile.for.planks.0:7
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.3:0 -> 5 x tile.for.planks.0:12
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.3:3 -> 5 x tile.for.planks.0:15
-[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.2:2 -> 5 x tile.for.planks.0:10
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.5:0 -> 5 x tile.for.planks.1:4
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.1:2 -> 5 x tile.for.planks.0:6
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.4:0 -> 5 x tile.for.planks.1:0
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.6:2 -> 5 x tile.for.planks.1:10
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.6:1 -> 5 x tile.for.planks.1:9
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.1:1 -> 5 x tile.for.planks.0:5
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.3:2 -> 5 x tile.for.planks.0:14
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.5:1 -> 5 x tile.for.planks.1:5
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.0:1 -> 5 x tile.for.planks.0:1
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.1:0 -> 5 x tile.for.planks.0:4
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.6:3 -> 5 x tile.for.planks.1:11
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.for.logs.0:0 -> 5 x tile.for.planks.0:0
 [INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.rustic.log:0 -> 6 x tile.rustic.planks:0
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.rustic.log:0 -> 5 x tile.rustic.planks:0
 [INITIALIZATION][SERVER][INFO] Removing nuclearcraft_manufactory recipe: 1 x tile.rustic.log:1 -> 6 x tile.rustic.planks:1
@@ -2812,7 +2812,7 @@ Empowered Oil 120 MJ/mB"
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_manufactory recipe: 1 x tile.extrautils2:decorativesolidwood:1 -> 5 x tile.extrautils2:decorativesolidwood:0
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: XNet.zs}
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[-1:crafttweaker]: craft/helper/helper_jei.zs}
-[INITIALIZATION][SERVER][INFO] Completed script loading in: 2174ms
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 2350ms
 [POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "akashictome:tome"
 [POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "animus:dirtbucket"
@@ -3204,30 +3204,30 @@ Empowered Oil 120 MJ/mB"
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for ME Storage Housing with name ME Storage Housing
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Advanced Storage Housing with name Advanced Storage Housing
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Gas Storage Housing with name Gas Storage Housing
-[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for 1k ME Storage Cell with name 1k ME Storage Cell
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for 1k ME Storage Cell with name Shapeless - 1k ME Storage Cell
-[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for 4k ME Storage Cell with name 4k ME Storage Cell
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for 4k ME Storage Cell with name Shapeless - 4k ME Storage Cell
-[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for 64k ME Storage Cell with name 64k ME Storage Cell
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for 64k ME Storage Cell with name Shapeless - 64k ME Storage Cell
-[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for 16³ Spatial Storage Cell with name 16³ Spatial Storage Cell
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for 16³ Spatial Storage Cell with name Shapeless - 16³ Spatial Storage Cell
-[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for View Cell with name View Cell
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for View Cell with name Shapeless - View Cell
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for 1k ME Fluid Storage Cell with name 1k ME Fluid Storage Cell
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for 1k ME Fluid Storage Cell with name Shapeless - 1k ME Fluid Storage Cell
-[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for 64k ME Fluid Storage Cell with name 64k ME Fluid Storage Cell
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for 64k ME Fluid Storage Cell with name Shapeless - 64k ME Fluid Storage Cell
-[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for 4k ME Fluid Storage Cell with name 4k ME Fluid Storage Cell
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for 4k ME Fluid Storage Cell with name Shapeless - 4k ME Fluid Storage Cell
-[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for 16k ME Storage Cell with name 16k ME Storage Cell
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for 16k ME Storage Cell with name Shapeless - 16k ME Storage Cell
-[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for 2³ Spatial Storage Cell with name 2³ Spatial Storage Cell
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for 2³ Spatial Storage Cell with name Shapeless - 2³ Spatial Storage Cell
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for 64k ME Storage Cell with name 64k ME Storage Cell
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for 64k ME Storage Cell with name Shapeless - 64k ME Storage Cell
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for 128³ Spatial Storage Cell with name 128³ Spatial Storage Cell
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for 128³ Spatial Storage Cell with name Shapeless - 128³ Spatial Storage Cell
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for View Cell with name View Cell
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for View Cell with name Shapeless - View Cell
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for 4k ME Fluid Storage Cell with name 4k ME Fluid Storage Cell
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for 4k ME Fluid Storage Cell with name Shapeless - 4k ME Fluid Storage Cell
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for 4k ME Storage Cell with name 4k ME Storage Cell
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for 4k ME Storage Cell with name Shapeless - 4k ME Storage Cell
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for 1k ME Storage Cell with name 1k ME Storage Cell
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for 1k ME Storage Cell with name Shapeless - 1k ME Storage Cell
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for 16k ME Storage Cell with name 16k ME Storage Cell
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for 16k ME Storage Cell with name Shapeless - 16k ME Storage Cell
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for 16³ Spatial Storage Cell with name 16³ Spatial Storage Cell
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for 16³ Spatial Storage Cell with name Shapeless - 16³ Spatial Storage Cell
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for 64k ME Fluid Storage Cell with name 64k ME Fluid Storage Cell
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for 64k ME Fluid Storage Cell with name Shapeless - 64k ME Fluid Storage Cell
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for 16k ME Fluid Storage Cell with name 16k ME Fluid Storage Cell
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for 16k ME Fluid Storage Cell with name Shapeless - 16k ME Fluid Storage Cell
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for 2³ Spatial Storage Cell with name 2³ Spatial Storage Cell
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for 2³ Spatial Storage Cell with name Shapeless - 2³ Spatial Storage Cell
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for ME 256k Storage Cell with name ME 256k Storage Cell
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for ME 256k Storage Cell with name Shapeless - ME 256k Storage Cell
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for ME 1024k Storage Cell with name ME 1024k Storage Cell
@@ -4160,68 +4160,68 @@ Empowered Oil 120 MJ/mB"
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Invar Hammer with name ct_shaped1734199617
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Wireless Crafting Terminal with name Wireless Crafting Terminal
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Infinity Booster Card with name Infinity Booster Card
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Acacia Wood Planks with name shapeless minecraft_log2_0 from minecraft_planks_4
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Oak Wood Planks with name shapeless minecraft_log_0 from minecraft_planks_0
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Birch Wood Planks with name shapeless minecraft_log_2 from minecraft_planks_2
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spruce Wood Planks with name shapeless minecraft_log_1 from minecraft_planks_1
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Jungle Wood Planks with name shapeless minecraft_log_3 from minecraft_planks_3
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Dark Oak Wood Planks with name shapeless minecraft_log2_1 from minecraft_planks_5
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spruce Wood Planks with name shapeless minecraft_log_1 from minecraft_planks_1
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Timewood Planks with name shapeless twilightforest_magic_log_0 from twilightforest_time_planks_0
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Minewood Planks with name shapeless twilightforest_magic_log_2 from twilightforest_mine_planks_0
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Twilight Oak Planks with name shapeless twilightforest_twilight_log_0 from twilightforest_twilight_oak_planks_0
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Mangrove Planks with name shapeless twilightforest_twilight_log_2 from twilightforest_mangrove_planks_0
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Acacia Wood Planks with name shapeless minecraft_log2_0 from minecraft_planks_4
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Transwood Planks with name shapeless twilightforest_magic_log_1 from twilightforest_trans_planks_0
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Sortingwood Planks with name shapeless twilightforest_magic_log_3 from twilightforest_sort_planks_0
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Darkwood Planks with name shapeless twilightforest_twilight_log_3 from twilightforest_dark_planks_0
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Mangrove Planks with name shapeless twilightforest_twilight_log_2 from twilightforest_mangrove_planks_0
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Canopy Planks with name shapeless twilightforest_twilight_log_1 from twilightforest_canopy_planks_0
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spruce Wood Planks with name shapeless harvestcraft_pammaple_0 from minecraft_planks_1
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Timewood Planks with name shapeless twilightforest_magic_log_0 from twilightforest_time_planks_0
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Minewood Planks with name shapeless twilightforest_magic_log_2 from twilightforest_mine_planks_0
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Darkwood Planks with name shapeless twilightforest_twilight_log_3 from twilightforest_dark_planks_0
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Twilight Oak Planks with name shapeless twilightforest_twilight_log_0 from twilightforest_twilight_oak_planks_0
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Jungle Wood Planks with name shapeless harvestcraft_pampaperbark_0 from minecraft_planks_3
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Jungle Wood Planks with name shapeless harvestcraft_pamcinnamon_0 from minecraft_planks_3
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Ethereal Wood Planks with name shapeless biomesoplenty_log_1_4 from biomesoplenty_planks_0_4
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Pine Wood Planks with name shapeless biomesoplenty_log_2_6 from biomesoplenty_planks_0_10
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Eucalyptus Wood Planks with name shapeless biomesoplenty_log_3_7 from biomesoplenty_planks_0_15
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Willow Wood Planks with name shapeless biomesoplenty_log_2_5 from biomesoplenty_planks_0_9
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Ebony Wood Planks with name shapeless biomesoplenty_log_3_6 from biomesoplenty_planks_0_14
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spruce Wood Planks with name shapeless harvestcraft_pammaple_0 from minecraft_planks_1
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Umbran Wood Planks with name shapeless biomesoplenty_log_0_6 from biomesoplenty_planks_0_2
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Magic Wood Planks with name shapeless biomesoplenty_log_1_5 from biomesoplenty_planks_0_5
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Fir Wood Planks with name shapeless biomesoplenty_log_0_7 from biomesoplenty_planks_0_3
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Cherry Wood Planks with name shapeless biomesoplenty_log_0_5 from biomesoplenty_planks_0_1
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Redwood Wood Planks with name shapeless biomesoplenty_log_2_4 from biomesoplenty_planks_0_8
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Mahogany Wood Planks with name shapeless biomesoplenty_log_3_5 from biomesoplenty_planks_0_13
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Mangrove Wood Planks with name shapeless biomesoplenty_log_1_6 from biomesoplenty_planks_0_6
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Hellbark Wood Planks with name shapeless biomesoplenty_log_2_7 from biomesoplenty_planks_0_11
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Jacaranda Wood Planks with name shapeless biomesoplenty_log_3_4 from biomesoplenty_planks_0_12
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Palm Wood Planks with name shapeless biomesoplenty_log_1_7 from biomesoplenty_planks_0_7
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Willow Wood Planks with name shapeless biomesoplenty_log_2_5 from biomesoplenty_planks_0_9
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Jacaranda Wood Planks with name shapeless biomesoplenty_log_3_4 from biomesoplenty_planks_0_12
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Sacred Oak Wood Planks with name shapeless biomesoplenty_log_0_4 from biomesoplenty_planks_0_0
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Giant Sequoia Wood Planks with name shapeless forestry_logs.6_0 from forestry_planks.1_8
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Larch Wood Planks with name shapeless forestry_logs.0_0 from forestry_planks.0_0
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Pine Wood Planks with name shapeless biomesoplenty_log_2_6 from biomesoplenty_planks_0_10
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Hellbark Wood Planks with name shapeless biomesoplenty_log_2_7 from biomesoplenty_planks_0_11
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Mahogany Wood Planks with name shapeless biomesoplenty_log_3_5 from biomesoplenty_planks_0_13
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Cherry Wood Planks with name shapeless biomesoplenty_log_0_5 from biomesoplenty_planks_0_1
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Ethereal Wood Planks with name shapeless biomesoplenty_log_1_4 from biomesoplenty_planks_0_4
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Fir Wood Planks with name shapeless biomesoplenty_log_0_7 from biomesoplenty_planks_0_3
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Redwood Wood Planks with name shapeless biomesoplenty_log_2_4 from biomesoplenty_planks_0_8
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Mangrove Wood Planks with name shapeless biomesoplenty_log_1_6 from biomesoplenty_planks_0_6
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Ebony Wood Planks with name shapeless biomesoplenty_log_3_6 from biomesoplenty_planks_0_14
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Magic Wood Planks with name shapeless biomesoplenty_log_1_5 from biomesoplenty_planks_0_5
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Eucalyptus Wood Planks with name shapeless biomesoplenty_log_3_7 from biomesoplenty_planks_0_15
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Lime Wood Planks with name shapeless forestry_logs.0_3 from forestry_planks.0_3
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Balsa Wood Planks with name shapeless forestry_logs.2_3 from forestry_planks.0_11
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Papaya Wood Planks with name shapeless forestry_logs.4_3 from forestry_planks.1_3
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Sequoia Wood Planks with name shapeless forestry_logs.1_3 from forestry_planks.0_7
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Baobab Wood Planks with name shapeless forestry_logs.1_2 from forestry_planks.0_6
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Padauk Wood Planks with name shapeless forestry_logs.6_2 from forestry_planks.1_10
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Mahogany Wood Planks with name shapeless forestry_logs.2_2 from forestry_planks.0_10
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Desert Acacia Wood Planks with name shapeless forestry_logs.0_2 from forestry_planks.0_2
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Walnut Wood Planks with name shapeless forestry_logs.3_1 from forestry_planks.0_13
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Palm Wood Planks with name shapeless forestry_logs.4_2 from forestry_planks.1_2
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Giant Sequoia Wood Planks with name shapeless forestry_logs.6_0 from forestry_planks.1_8
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Maple Wood Planks with name shapeless forestry_logs.5_2 from forestry_planks.1_6
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Zebrawood Wood Planks with name shapeless forestry_logs.7_0 from forestry_planks.1_12
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Citrus Wood Planks with name shapeless forestry_logs.5_3 from forestry_planks.1_7
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Teak Wood Planks with name shapeless forestry_logs.0_1 from forestry_planks.0_1
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Cocobolo Wood Planks with name shapeless forestry_logs.6_3 from forestry_planks.1_11
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Desert Acacia Wood Planks with name shapeless forestry_logs.0_2 from forestry_planks.0_2
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Wenge Wood Planks with name shapeless forestry_logs.1_1 from forestry_planks.0_5
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Ipe Wood Planks with name shapeless forestry_logs.6_1 from forestry_planks.1_9
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Mahoe Wood Planks with name shapeless forestry_logs.4_0 from forestry_planks.1_0
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Chestnut Wood Planks with name shapeless forestry_logs.1_0 from forestry_planks.0_4
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Lime Wood Planks with name shapeless forestry_logs.0_3 from forestry_planks.0_3
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Walnut Wood Planks with name shapeless forestry_logs.3_1 from forestry_planks.0_13
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Pine Wood Planks with name shapeless forestry_logs.5_0 from forestry_planks.1_4
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Balsa Wood Planks with name shapeless forestry_logs.2_3 from forestry_planks.0_11
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Poplar Wood Planks with name shapeless forestry_logs.4_1 from forestry_planks.1_1
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Plum Wood Planks with name shapeless forestry_logs.5_1 from forestry_planks.1_5
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Palm Wood Planks with name shapeless forestry_logs.4_2 from forestry_planks.1_2
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Willow Wood Planks with name shapeless forestry_logs.3_0 from forestry_planks.0_12
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Kapok Wood Planks with name shapeless forestry_logs.2_0 from forestry_planks.0_8
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Greenheart Wood Planks with name shapeless forestry_logs.3_2 from forestry_planks.0_14
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Ebony Wood Planks with name shapeless forestry_logs.2_1 from forestry_planks.0_9
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Poplar Wood Planks with name shapeless forestry_logs.4_1 from forestry_planks.1_1
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Citrus Wood Planks with name shapeless forestry_logs.5_3 from forestry_planks.1_7
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Kapok Wood Planks with name shapeless forestry_logs.2_0 from forestry_planks.0_8
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Sequoia Wood Planks with name shapeless forestry_logs.1_3 from forestry_planks.0_7
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Willow Wood Planks with name shapeless forestry_logs.3_0 from forestry_planks.0_12
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Cherry Wood Planks with name shapeless forestry_logs.3_3 from forestry_planks.0_15
-[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Mahogany Wood Planks with name shapeless forestry_logs.2_2 from forestry_planks.0_10
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Pine Wood Planks with name shapeless forestry_logs.5_0 from forestry_planks.1_4
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Baobab Wood Planks with name shapeless forestry_logs.1_2 from forestry_planks.0_6
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Mahoe Wood Planks with name shapeless forestry_logs.4_0 from forestry_planks.1_0
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Padauk Wood Planks with name shapeless forestry_logs.6_2 from forestry_planks.1_10
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Ipe Wood Planks with name shapeless forestry_logs.6_1 from forestry_planks.1_9
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Wenge Wood Planks with name shapeless forestry_logs.1_1 from forestry_planks.0_5
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Greenheart Wood Planks with name shapeless forestry_logs.3_2 from forestry_planks.0_14
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Plum Wood Planks with name shapeless forestry_logs.5_1 from forestry_planks.1_5
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Teak Wood Planks with name shapeless forestry_logs.0_1 from forestry_planks.0_1
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Chestnut Wood Planks with name shapeless forestry_logs.1_0 from forestry_planks.0_4
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Cocobolo Wood Planks with name shapeless forestry_logs.6_3 from forestry_planks.1_11
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Larch Wood Planks with name shapeless forestry_logs.0_0 from forestry_planks.0_0
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Olive Wood Planks with name shapeless rustic_log_0 from rustic_planks_0
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Ironwood Planks with name shapeless rustic_log_1 from rustic_planks_1
 [POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Greatwood Planks with name shapeless thaumcraft_log_greatwood_0 from thaumcraft_plank_greatwood_0
@@ -4292,48 +4292,48 @@ Empowered Oil 120 MJ/mB"
 [POSTINITIALIZATION][SERVER][INFO] Adding Grinder Entry for Nether Quartz
 [POSTINITIALIZATION][SERVER][INFO] Adding Grinder Entry for Diamond Minotaur Axe
 [POSTINITIALIZATION][SERVER][INFO] Removed all recipes for Mekanism Combiner
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Smelter Recipe(s) for <ic2:ingot:3>
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Smelter Recipe(s) for <ic2:ingot:6>
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Smelter Recipe(s) for <ic2:ingot:3>
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Smelter Recipe(s) for <ic2:ingot:2>
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Smelter Recipe(s) for <ic2:ingot:4>
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Smelter Recipe(s) for <ic2:ingot:6>
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Smelter Recipe(s) for <ic2:ingot:4>
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Smelter Recipe(s) for <ic2:ingot:4>
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Smelter Recipe(s) for <ic2:ingot:2>
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Smelter Recipe(s) for <ic2:ingot:3>
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Crusher Recipe(s) for <nuclearcraft:gem_dust:2>
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:4> * 6
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <minecraft:planks> * 6
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:2> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:1> * 6
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:3> * 6
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:5> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:1> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <twilightforest:time_planks> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <twilightforest:mine_planks> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <twilightforest:twilight_oak_planks> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <twilightforest:mangrove_planks> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:4> * 6
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <twilightforest:trans_planks> * 6
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <twilightforest:sort_planks> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <twilightforest:dark_planks> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <twilightforest:mangrove_planks> * 6
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <twilightforest:canopy_planks> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <twilightforest:time_planks> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <twilightforest:mine_planks> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <twilightforest:dark_planks> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <twilightforest:twilight_oak_planks> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:3> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:3> * 6
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:1> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:3> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:3> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:4> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:10> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:15> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:9> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:14> * 6
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:2> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:5> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:3> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:1> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:8> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:13> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:6> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:11> * 6
-[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:12> * 6
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:7> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:9> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:12> * 6
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:10> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:11> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:13> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:1> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:4> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:3> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:8> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:6> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:14> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:5> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:15> * 6
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <rustic:planks> * 6
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <rustic:planks:1> * 6
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Sawmill Recipe(s) for <thaumcraft:plank_greatwood> * 6
@@ -4363,14 +4363,14 @@ Empowered Oil 120 MJ/mB"
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Crusher Recipe(s) for <nuclearcraft:dust:8>
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Crusher Recipe(s) for <nuclearcraft:dust:8>
 [POSTINITIALIZATION][SERVER][INFO] Overwritten Mekanism Crusher Recipe for <nuclearcraft:dust:8>
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Smelter Recipe(s) for <thermalfoundation:material:131>
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Smelter Recipe(s) for <thermalfoundation:material:129>
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Smelter Recipe(s) for <thermalfoundation:material:131>
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Smelter Recipe(s) for <thermalfoundation:material:128>
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Smelter Recipe(s) for <thermalfoundation:material:130>
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Smelter Recipe(s) for <thermalfoundation:material:129>
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Smelter Recipe(s) for <thermalfoundation:material:130>
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Smelter Recipe(s) for <thermalfoundation:material:130>
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Smelter Recipe(s) for <thermalfoundation:material:128>
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Smelter Recipe(s) for <thermalfoundation:material:131>
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Smelter Recipe(s) for <astralsorcery:itemcraftingcomponent:1>
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Crusher Recipe(s) for <minecraft:flint>
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Enrichment Chamber Recipe(s) for <minecraft:flint>
@@ -4390,68 +4390,68 @@ Empowered Oil 120 MJ/mB"
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Metallurgic Infuser Recipe(s) for <thermalfoundation:material:515>
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Crusher Recipe(s) for <minecraft:diamond> * 11
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Enrichment Chamber Recipe(s) for <minecraft:diamond> * 11
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:4> * 4
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <minecraft:planks> * 4
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:2> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:1> * 4
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:3> * 4
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:5> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:1> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <twilightforest:time_planks> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <twilightforest:mine_planks> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <twilightforest:twilight_oak_planks> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <twilightforest:mangrove_planks> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:4> * 4
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <twilightforest:trans_planks> * 4
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <twilightforest:sort_planks> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <twilightforest:dark_planks> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <twilightforest:mangrove_planks> * 4
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <twilightforest:canopy_planks> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <twilightforest:time_planks> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <twilightforest:mine_planks> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <twilightforest:dark_planks> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <twilightforest:twilight_oak_planks> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:3> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:3> * 4
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:1> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:3> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <minecraft:planks:3> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:4> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:10> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:15> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:9> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:14> * 4
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:2> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:5> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:3> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:1> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:8> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:13> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:6> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:11> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:12> * 4
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:7> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:9> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:12> * 4
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:8> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:10> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:11> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:13> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:1> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:4> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:3> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:8> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:6> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:14> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:5> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <biomesoplenty:planks_0:15> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:3> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:11> * 4
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:3> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:7> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:6> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:10> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:10> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:2> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:13> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:2> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:8> * 4
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:6> * 4
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:12> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:7> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:1> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:11> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:2> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:5> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:9> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:4> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:3> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:13> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:4> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:11> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:1> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:5> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:2> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:12> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:8> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:14> * 4
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:9> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:1> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:7> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:8> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:7> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:12> * 4
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:15> * 4
-[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:10> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:4> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:6> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:10> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:9> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:5> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:14> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:5> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:1> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0:4> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.1:11> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <forestry:planks.0> * 4
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <rustic:planks> * 4
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <rustic:planks:1> * 4
 [POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Sawmill Recipe(s) for <thaumcraft:plank_greatwood> * 4
@@ -4761,27 +4761,27 @@ Empowered Oil 120 MJ/mB"
 [AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <biomesoplenty:honey_block>
 [AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <biomesoplenty:honey_block>
 [AVAILABLE][SERVER][INFO] Altering Forestry Squeezer Recipe(s) for <liquid:potion> * 135
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@16ba9847 minTier: 0, syphon: 1000, consumeRate: 10, drainRate: 10
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@3aa7a410 minTier: 0, syphon: 2000, consumeRate: 12, drainRate: 12
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@3a167e12 minTier: 1, syphon: 5000, consumeRate: 25, drainRate: 25
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@5d63f493 minTier: 2, syphon: 25000, consumeRate: 50, drainRate: 50
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@1fd937d8 minTier: 4, syphon: 80000, consumeRate: 200, drainRate: 200
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.daggerOfSacrifice@0 from: net.minecraft.item.crafting.Ingredient@18d99717 minTier: 1, syphon: 3000, consumeRate: 12, drainRate: 12
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@1 from: net.minecraft.item.crafting.Ingredient@402c9265 minTier: 0, syphon: 2000, consumeRate: 20, drainRate: 20
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@2 from: net.minecraft.item.crafting.Ingredient@97f9c13 minTier: 1, syphon: 5500, consumeRate: 30, drainRate: 30
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@3 from: net.minecraft.item.crafting.Ingredient@57971967 minTier: 1, syphon: 11000, consumeRate: 40, drainRate: 40
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@4 from: net.minecraft.item.crafting.Ingredient@150aaa94 minTier: 2, syphon: 19000, consumeRate: 50, drainRate: 50
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@5 from: net.minecraft.item.crafting.Ingredient@69b015b0 minTier: 2, syphon: 31000, consumeRate: 60, drainRate: 60
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@6 from: net.minecraft.item.crafting.Ingredient@48430449 minTier: 3, syphon: 49000, consumeRate: 70, drainRate: 70
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@7 from: net.minecraft.item.crafting.Ingredient@3c6815a9 minTier: 3, syphon: 75000, consumeRate: 80, drainRate: 80
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@8 from: net.minecraft.item.crafting.Ingredient@ee8c617 minTier: 4, syphon: 114500, consumeRate: 90, drainRate: 90
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@9 from: net.minecraft.item.crafting.Ingredient@43450281 minTier: 4, syphon: 173500, consumeRate: 100, drainRate: 100
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@10 from: net.minecraft.item.crafting.Ingredient@1a1b41b0 minTier: 4, syphon: 261500, consumeRate: 110, drainRate: 110
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@11 from: net.minecraft.item.crafting.Ingredient@2aeadc85 minTier: 4, syphon: 393500, consumeRate: 120, drainRate: 120
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@12 from: net.minecraft.item.crafting.Ingredient@6756c0fc minTier: 4, syphon: 591500, consumeRate: 130, drainRate: 130
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@13 from: net.minecraft.item.crafting.Ingredient@5ec824ab minTier: 4, syphon: 888000, consumeRate: 140, drainRate: 140
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@14 from: net.minecraft.item.crafting.Ingredient@28743106 minTier: 4, syphon: 1333000, consumeRate: 150, drainRate: 150
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@15 from: net.minecraft.item.crafting.Ingredient@431c627d minTier: 4, syphon: 2000000, consumeRate: 160, drainRate: 160
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@7e62b62b minTier: 0, syphon: 1000, consumeRate: 10, drainRate: 10
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@d36c14e minTier: 0, syphon: 2000, consumeRate: 12, drainRate: 12
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@4043c1bf minTier: 1, syphon: 5000, consumeRate: 25, drainRate: 25
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@271acfd5 minTier: 2, syphon: 25000, consumeRate: 50, drainRate: 50
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@4c22f6f3 minTier: 4, syphon: 80000, consumeRate: 200, drainRate: 200
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.daggerOfSacrifice@0 from: net.minecraft.item.crafting.Ingredient@77256288 minTier: 1, syphon: 3000, consumeRate: 12, drainRate: 12
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@1 from: net.minecraft.item.crafting.Ingredient@323c2fcd minTier: 0, syphon: 2000, consumeRate: 20, drainRate: 20
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@2 from: net.minecraft.item.crafting.Ingredient@778008d4 minTier: 1, syphon: 5500, consumeRate: 30, drainRate: 30
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@3 from: net.minecraft.item.crafting.Ingredient@2372c45d minTier: 1, syphon: 11000, consumeRate: 40, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@4 from: net.minecraft.item.crafting.Ingredient@38ebcf9 minTier: 2, syphon: 19000, consumeRate: 50, drainRate: 50
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@5 from: net.minecraft.item.crafting.Ingredient@5898479a minTier: 2, syphon: 31000, consumeRate: 60, drainRate: 60
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@6 from: net.minecraft.item.crafting.Ingredient@24d25893 minTier: 3, syphon: 49000, consumeRate: 70, drainRate: 70
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@7 from: net.minecraft.item.crafting.Ingredient@3aa722d5 minTier: 3, syphon: 75000, consumeRate: 80, drainRate: 80
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@8 from: net.minecraft.item.crafting.Ingredient@348833a7 minTier: 4, syphon: 114500, consumeRate: 90, drainRate: 90
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@9 from: net.minecraft.item.crafting.Ingredient@5f656fe5 minTier: 4, syphon: 173500, consumeRate: 100, drainRate: 100
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@10 from: net.minecraft.item.crafting.Ingredient@6fc5113d minTier: 4, syphon: 261500, consumeRate: 110, drainRate: 110
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@11 from: net.minecraft.item.crafting.Ingredient@7d632139 minTier: 4, syphon: 393500, consumeRate: 120, drainRate: 120
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@12 from: net.minecraft.item.crafting.Ingredient@89975c2 minTier: 4, syphon: 591500, consumeRate: 130, drainRate: 130
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@13 from: net.minecraft.item.crafting.Ingredient@e15b755 minTier: 4, syphon: 888000, consumeRate: 140, drainRate: 140
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@14 from: net.minecraft.item.crafting.Ingredient@14e54acf minTier: 4, syphon: 1333000, consumeRate: 150, drainRate: 150
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xtile.bloodmagic.bloodTank@15 from: net.minecraft.item.crafting.Ingredient@40fb036 minTier: 4, syphon: 2000000, consumeRate: 160, drainRate: 160
 [AVAILABLE][SERVER][INFO] Adding AlchemyTable recipe for: 4xitem.manaResource@5 from: [1xitem.manaResource@5,1xitem.bloodmagic.demonCrystal@1,1xitem.bloodmagic.demonCrystal@2,1xitem.bloodmagic.demonCrystal@3,1xitem.bloodmagic.demonCrystal@4,1xitem.bloodmagic.living_point_upgrade@0] syphon: 100000, ticks: 300, minTier: 4
 [AVAILABLE][SERVER][INFO] Adding 1 Botania PureDaisy Recipe(s) for <botania:livingrock>
 [AVAILABLE][SERVER][INFO] Adding 1 Botania PureDaisy Recipe(s) for <botania:livingwood>
@@ -5378,12 +5378,12 @@ Empowered Oil 120 MJ/mB"
 [AVAILABLE][SERVER][INFO] Altering Forestry Carpenter Recipe(s) for Woven Hunting Backpack
 [AVAILABLE][SERVER][INFO] Altering Forestry Carpenter Recipe(s) for Woven Adventuring Backpack
 [AVAILABLE][SERVER][INFO] Altering Forestry Carpenter Recipe(s) for Woven Building Backpack
-[AVAILABLE][SERVER][INFO] Altering Forestry Squeezer Recipe(s) for <liquid:coal> * 900
 [AVAILABLE][SERVER][INFO] Altering Forestry Squeezer Recipe(s) for <liquid:cryotheum> * 250
 [AVAILABLE][SERVER][INFO] Altering Forestry Squeezer Recipe(s) for <liquid:pyrotheum> * 250
 [AVAILABLE][SERVER][INFO] Altering Forestry Squeezer Recipe(s) for <liquid:ender> * 250
 [AVAILABLE][SERVER][INFO] Altering Forestry Squeezer Recipe(s) for <liquid:aerotheum> * 250
 [AVAILABLE][SERVER][INFO] Altering Forestry Squeezer Recipe(s) for <liquid:redstone> * 900
+[AVAILABLE][SERVER][INFO] Altering Forestry Squeezer Recipe(s) for <liquid:coal> * 900
 [AVAILABLE][SERVER][INFO] Altering Forestry Squeezer Recipe(s) for <liquid:petrotheum> * 250
 [AVAILABLE][SERVER][INFO] Altering Forestry Squeezer Recipe(s) for <liquid:glowstone> * 1000
 [AVAILABLE][SERVER][INFO] Altering Forestry Carpenter Recipe(s) for Block of Enderpearl
@@ -6059,22 +6059,6 @@ Empowered Oil 120 MJ/mB"
 [AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_grass:7>
 [AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_grass:12>
 [AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_grass:12>
-[AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_dirt:2>
-[AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_dirt:2>
-[AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_grass:3>
-[AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_grass:3>
-[AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_grass:8>
-[AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_grass:8>
-[AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_grass:13>
-[AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_grass:13>
-[AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_dirt:3>
-[AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_dirt:3>
-[AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_grass:4>
-[AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_grass:4>
-[AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_grass:9>
-[AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_grass:9>
-[AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_grass:14>
-[AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_grass:14>
 [AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_dirt>
 [AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_dirt>
 [AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_grass:1>
@@ -6083,6 +6067,22 @@ Empowered Oil 120 MJ/mB"
 [AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_grass:6>
 [AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_grass:11>
 [AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_grass:11>
+[AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_dirt:3>
+[AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_dirt:3>
+[AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_grass:4>
+[AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_grass:4>
+[AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_grass:9>
+[AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_grass:9>
+[AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_grass:14>
+[AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_grass:14>
+[AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_dirt:2>
+[AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_dirt:2>
+[AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_grass:3>
+[AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_grass:3>
+[AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_grass:8>
+[AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_grass:8>
+[AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <tconstruct:slime_grass:13>
+[AVAILABLE][SERVER][INFO] Altering Forestry Centrifuge Recipe(s) for <tconstruct:slime_grass:13>
 [AVAILABLE][SERVER][INFO] Altering Casting Recipe(s) for <tconstruct:metal>
 [AVAILABLE][SERVER][INFO] Altering Melting Recipe(s) for <liquid:alubrass> * 144
 [AVAILABLE][SERVER][INFO] Altering Alloy Recipe(s) for <liquid:alumite> * 432
