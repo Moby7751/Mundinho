@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-04-27 21:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-27 21:40:47 +0000"
@@ -134,7 +140,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "birch_forest": "2025-04-27 21:40:24 +0000",
+      "desert_hills": "2025-04-27 21:49:02 +0000",
       "plains": "2025-04-27 21:38:12 +0000",
+      "river": "2025-04-27 21:43:45 +0000",
       "desert": "2025-04-27 21:39:29 +0000"
     },
     "done": false

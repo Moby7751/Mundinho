@@ -15167,3 +15167,9 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'integratedtunnels:part_play
 [21:40:00] [Server thread/INFO] [Astral Sorcery]: Loading of 'structures' for world 0 finished.
 [21:40:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Game rule keepInventory has been updated to true
 [21:41:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped Mobyius
+[21:42:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Mobyius: Opped Igor]
+[21:43:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Mobyius: Teleported Igor to Mobyius]
+[21:44:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Igor has made the advancement [Suit Up]
+[21:45:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mobyius has made the advancement [Monster Hunter]
+[21:45:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Igor was slain by Mobyius
+[21:49:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Mobyius: Teleported Igor to Mobyius]
